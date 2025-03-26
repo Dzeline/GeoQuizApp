@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name ="app_name2">ActiveChats</string>
+    <string name="_12_30">12:30</string>
+    <string name="time_placeholder">12:30</string>
+    <string name="battery_placeholder">100%</string>
+    <string name="No_Sim_placeholder">NoSim</string>
+    <string name="active_chats_title">Active Chats</string>
+    <string name="chat_with_rider">Chat With Rider</string>
+    <string name="example_message_rider">Rider will arrive in 5 minutes.</string>
+    <string name="example_message_user">You: Got it, thanks!</string>
+    <string name="type_message_hint">Type a message</string>
+    <string name="share_location">Share Location</string>
+    <string name="request_ride">Request Ride</string>
+    <string name="send">Send</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="profile_image_desc">Profile Pic image icon</string>
+    <string name="rider_101">Rider 101</string>
+    <string name="hello_can_we_meet">Hello, can we meet?</string>
+    <string name="status_sticker_desc">"Describes status of driver if ready , available or busy "</string>
+    <string name="request_a_ride">Request a Ride</string>
+    <string name="pickup_location">Pickup Location</string>
+    <string name="destination">Destination</string>
+    <string name="ring_ride">Ring Ride</string>
+    <string name="incoming_ride_requests">Incoming Ride Requests</string>
+    <string name="ring_location">Ring Location</string>
+    <string name="i_m_a_rider">I\'m a Rider</string>
+    <string name="i_m_a_requester">I\'m a Requester</string>
+    <string name="map_placeholder">Map Placeholder</string>
+
+</resources>

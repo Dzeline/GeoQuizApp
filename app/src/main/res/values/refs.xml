@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="chat_bubble_rider">#d0e9ff</drawable>
+    <drawable name="chat_bubble_user">#d0e9ff</drawable>
+    <drawable name="ic_profile_placeholder">C:\Users\Deline\OneDrive\Documents\Final
+        Y4S2\iconFace.gif
+    </drawable>
+    <drawable name="ic_available_status">C:\Users\Deline\OneDrive\Documents\Final
+        Y4S2\readyStatus.png
+    </drawable>
+    <drawable name="ic_unavailable_status">C:\Users\Deline\OneDrive\Documents\Final
+        Y4S2\unavailableStatus.png
+    </drawable>
+</resources>
