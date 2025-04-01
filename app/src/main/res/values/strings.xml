@@ -27,5 +27,9 @@
     <string name="i_m_a_rider">I\'m a Rider</string>
     <string name="i_m_a_requester">I\'m a Requester</string>
     <string name="map_placeholder">Map Placeholder</string>
+    <string name="riderName">Rider 101</string>
+    <string name="riderStatus">Available</string>
+    <string name="update_status">Update Status</string>
+    <string name="view_requests">View Requests</string>
 
 </resources>

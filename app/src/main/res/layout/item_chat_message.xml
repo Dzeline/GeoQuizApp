@@ -50,6 +50,6 @@
         android:layout_height="24dp"
         android:layout_marginStart="8dp"
         android:contentDescription="@string/status_sticker_desc"
-        android:src="@drawable/ic_available_status" />
+        android:src="@drawable/statusavailable" />
 
 </LinearLayout>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <item name="tvTime" type="id">12:30</item>
-    <item name="tvBattery" type="id">100%</item>
-    <item name="btnLaunchMap" type="id">btlLaunchMap</item>
-    <item name="btnNewRider" type="id">btlNewRider</item>
-    <item name="main" type="id">main</item>
+    <item name="tvTime" type="id"/>
+    <item name="tvBattery" type="id"/>
+    <item name="btnLaunchMap" type="id"/>
+    <item name="btnNewRider" type="id"/>
+    <item name="main" type="id"/>
 </resources>
