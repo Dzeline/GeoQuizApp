@@ -1,32 +1,67 @@
 [versions]
-agp = "8.7.2"
-kotlin = "1.9.24"
-coreKtx = "1.10.1"
+agp = "8.1.4"
+hilt = "2.56.1"
+hiltLifecycle = "1.2.0"
+kotlin = "2.1.0"
+coreKtx = "1.16.0"
 junit = "4.13.2"
-junitVersion = "1.1.5"
-espressoCore = "3.5.1"
-appcompat = "1.6.1"
-material = "1.10.0"
-activity = "1.8.0"
-constraintlayout = "2.1.4"
-firebaseCrashlytics = "19.2.0"
-googleGmsGoogleServices = "4.4.2"
-googleFirebaseCrashlytics = "3.0.2"
+junitVersion = "1.2.1"
+espressoCore = "3.6.1"
+appcompat = "1.7.0"
+lifecycleRuntimeKtx = "2.8.7"
+lifecycleVersion = "2.8.7"
+material = "1.12.0"
+constraintlayout = "2.2.1"
+firebaseCrashlytics = "19.4.2"
+osmdroidAndroid = "6.1.11"
+roomKtx = "2.7.0"
+roomCompiler = "2.7.0"
+roomRuntime = "2.7.0"
+roomVersion = "2.7.0"
 
 [libraries]
+
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
+androidx-lifecycle-livedata = { module = "androidx.lifecycle:lifecycle-livedata", version.ref = "lifecycleVersion" }
+androidx-lifecycle-livedata-ktx = { module = "androidx.lifecycle:lifecycle-livedata-ktx", version.ref = "lifecycleVersion" }
+androidx-lifecycle-runtime-ktx = { module = "androidx.lifecycle:lifecycle-runtime-ktx", version.ref = "lifecycleRuntimeKtx" }
+androidx-lifecycle-viewmodel = { module = "androidx.lifecycle:lifecycle-viewmodel", version.ref = "lifecycleVersion" }
+#Offline map Function
+
+#Room
+androidx-lifecycle-viewmodel-ktx = { module = "androidx.lifecycle:lifecycle-viewmodel-ktx", version.ref = "lifecycleVersion" }
+androidx-room-compiler = { module = "androidx.room:room-compiler", version.ref = "roomVersion" }
+
+androidx-room-ktx = { module = "androidx.room:room-ktx", version.ref = "roomVersion" }
+
+androidx-room-runtime = { module = "androidx.room:room-runtime", version.ref = "roomVersion" }
+
+
+hilt-android = { module = "com.google.dagger:hilt-android", version = "2.56.1" }
+hilt-android-gradle-plugin = { module = "com.google.dagger:hilt-android-gradle-plugin", version.ref = "hilt" }
+hilt-compiler = { module = "com.google.dagger:hilt-compiler", version.ref = "hilt" }
+hilt-lifecycle-viewmodel = { module = "androidx.hilt:hilt-lifecycle-viewmodel", version.ref = "hiltLifecycle" }
+hilt-lifecycle-compiler = { module = "androidx.hilt:hilt-compiler", version.ref = "hiltLifecycle" }
+
+
+
+
 junit = { group = "junit", name = "junit", version.ref = "junit" }
+#noinspection SimilarGradleDependency
 androidx-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
+#noinspection SimilarGradleDependency
 androidx-espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espressoCore" }
 androidx-appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
+lifecycle-runtime = { module = "androidx.lifecycle:lifecycle-runtime", version.ref = "lifecycleVersion" }
 material = { group = "com.google.android.material", name = "material", version.ref = "material" }
-androidx-activity = { group = "androidx.activity", name = "activity", version.ref = "activity" }
+
 androidx-constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
 firebase-crashlytics = { group = "com.google.firebase", name = "firebase-crashlytics", version.ref = "firebaseCrashlytics" }
+osmdroid-android = { module = "org.osmdroid:osmdroid-android", version = "6.1.20" }
+
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
 kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
-google-gms-google-services = { id = "com.google.gms.google-services", version.ref = "googleGmsGoogleServices" }
-google-firebase-crashlytics = { id = "com.google.firebase.crashlytics", version.ref = "googleFirebaseCrashlytics" }
 
+dagger-hilt = { id = "com.google.dagger.hilt.android", version.ref = "hilt" }

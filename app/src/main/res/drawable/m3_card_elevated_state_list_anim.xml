@@ -22,46 +22,13 @@
 
   <!-- Hovered state -->
   <item android:state_enabled="true" android:state_hovered="true">
-    <objectAnimator
-      android:duration="?attr/motionDurationMedium4"
-      android:interpolator="?attr/motionEasingEmphasizedInterpolator"
-      android:propertyName="translationZ"
-      android:startDelay="?attr/motionDurationMedium1"
-      android:valueTo="@dimen/m3_card_elevated_hovered_z"
-      android:valueType="floatType"
-      tools:targetApi="kitkat"/>
   </item>
 
   <!-- Dragged state  -->
   <item android:state_enabled="true" app:state_dragged="true">
-    <objectAnimator
-      android:duration="?attr/motionDurationMedium4"
-      android:interpolator="?attr/motionEasingEmphasizedInterpolator"
-      android:propertyName="translationZ"
-      android:startDelay="?attr/motionDurationMedium1"
-      android:valueTo="@dimen/m3_card_elevated_dragged_z"
-      android:valueType="floatType"
-      tools:targetApi="kitkat"/>
   </item>
 
   <!-- Base state -->
-  <item>
-    <set>
-      <objectAnimator
-          android:duration="?attr/motionDurationLong2"
-          android:propertyName="translationZ"
-          android:valueTo="0dp"
-          android:interpolator="?attr/motionEasingEmphasizedInterpolator"
-          android:valueType="floatType"/>
-    </set>
-  </item>
 
   <!-- Disabled state -->
-  <item>
-    <objectAnimator
-      android:duration="0"
-      android:propertyName="translationZ"
-      android:valueTo="0dp"
-      android:valueType="floatType"/>
-  </item>
 </selector>

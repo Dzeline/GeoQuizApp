@@ -1,4 +1,4 @@
-package com.example.geoquiz.adapters;
+package com.example.geoquiz.domain;
 import android.content.Context;
 import android.content.Intent;
 import android.view.LayoutInflater;
@@ -10,16 +10,22 @@ import android.widget.TextView;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.geoquiz.R;
-import com.example.geoquiz.chatDetailActivity;
+import com.example.geoquiz.presentation.feature_chat.chatDetailActivity;
+import com.example.geoquiz.domain.model.RiderInfo;
 
 import java.util.List;
 public class RiderHistoryAdapter extends RecyclerView.Adapter<RiderHistoryAdapter.ViewHolder>{
+    public interface OnRiderClickListener {
+        void onRiderClick(RiderInfo rider);
+    }
     private final List<RiderInfo> riderList;
     private final Context context;
+   private final OnRiderClickListener listener;
 
-    public RiderHistoryAdapter(Context context, List<RiderInfo> riderList) {
+    public RiderHistoryAdapter(Context context, List<RiderInfo> riderList, OnRiderClickListener listener) {
         this.context = context;
         this.riderList = riderList;
+        this.listener = listener;
 
 }
     @Override

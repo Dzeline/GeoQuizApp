@@ -1,9 +1,13 @@
-package com.example.geoquiz;
+package com.example.geoquiz.presentation.feature_role;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.widget.Button;
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.example.geoquiz.R;
+import com.example.geoquiz.presentation.feature_request.RequestRideActivity;
+import com.example.geoquiz.presentation.feature_rider.RiderActivity;
 
 public class RoleChooserActivity extends AppCompatActivity {
 

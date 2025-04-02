@@ -32,5 +32,7 @@
     <string name="update_status">Update Status</string>
     <string name="view_requests">View Requests</string>
     <string name="backtoChat">Back to Chat</string>
+    <string name="open_map">Open Map</string>
+    <string name="chat_with">"Chat with "</string>
 
 </resources>

@@ -9,7 +9,7 @@
     android:layout_height="match_parent"
     android:padding="16dp"
     android:background="@android:color/white"
-    tools:context=".RiderActivity">
+    tools:context=".presentation.feature_rider.RiderActivity">
 
     <!-- Toolbar -->
     <androidx.cardview.widget.CardView

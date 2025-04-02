@@ -23,27 +23,10 @@
   <item
     android:state_enabled="true"
     app:state_dragged="true">
-    <set>
-      <objectAnimator
-        android:duration="@integer/mtrl_card_anim_duration_ms"
-        android:propertyName="translationZ"
-        android:valueTo="@dimen/mtrl_card_dragged_z"
-        android:startDelay="@integer/mtrl_card_anim_delay_ms"
-        android:interpolator="@interpolator/mtrl_fast_out_slow_in"
-        android:valueType="floatType"/>
-    </set>
   </item>
 
   <!-- Base state (enabled, not Dragged) -->
   <item android:state_enabled="true">
-    <set>
-      <objectAnimator
-        android:duration="@integer/mtrl_card_anim_duration_ms"
-        android:propertyName="translationZ"
-        android:valueTo="0dp"
-        android:interpolator="@anim/mtrl_card_lowers_interpolator"
-        android:valueType="floatType"/>
-    </set>
   </item>
 
 </selector>
