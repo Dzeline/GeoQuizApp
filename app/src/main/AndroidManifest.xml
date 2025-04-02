@@ -13,15 +13,10 @@
         android:theme="@style/Theme.GeoQuiz"
         tools:targetApi="31">
         <activity
-            android:name=".Main_function"
-            android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
+            android:name=".Main_function"/>
         <activity android:name=".RiderActivity"/>
         <activity android:name=".RequestRideActivity"/>
+        <activity android:name=".chatDetailActivity"/>
         <activity android:name=".RoleChooserActivity"
             android:exported="true">
             <intent-filter>

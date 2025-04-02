@@ -1,5 +1,6 @@
 package com.example.geoquiz.adapters;
 import android.content.Context;
+import android.content.Intent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -9,6 +10,7 @@ import android.widget.TextView;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.geoquiz.R;
+import com.example.geoquiz.chatDetailActivity;
 
 import java.util.List;
 public class RiderHistoryAdapter extends RecyclerView.Adapter<RiderHistoryAdapter.ViewHolder>{
@@ -42,6 +44,13 @@ public class RiderHistoryAdapter extends RecyclerView.Adapter<RiderHistoryAdapte
         } else {
             holder.imgStatusSticker.setImageResource(R.drawable.ic_unavailable_status);
         }
+
+        holder.itemView.setOnClickListener(v -> {
+            Intent intent = new Intent(context, chatDetailActivity.class);
+            intent.putExtra("riderName", rider.getRiderName()); // Pass rider name
+            context.startActivity(intent);
+        });
+
     }
 
     @Override

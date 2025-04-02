@@ -141,23 +141,15 @@
         android:gravity="center">
 
         <com.google.android.material.button.MaterialButton
-            android:id="@+id/btnSwitchToRequester"
+            android:id="@+id/btnBacktoChat"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/i_m_a_requester"
+            android:text="@string/backtoChat"
+            android:textSize="16sp"
             android:backgroundTint="@color/purple_500"
             android:textColor="@android:color/white" />
 
-        <com.google.android.material.button.MaterialButton
-            android:id="@+id/btnSwitchToRider"
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:text="@string/i_m_a_rider"
-            android:backgroundTint="@color/teal_700"
-            android:textColor="@android:color/white"
-            android:layout_marginStart="8dp"/>
         </LinearLayout>
     </LinearLayout>
 </ScrollView>

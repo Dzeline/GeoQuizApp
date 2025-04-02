@@ -1,7 +1,9 @@
 package com.example.geoquiz;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Button;
 import android.widget.LinearLayout;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -11,7 +13,7 @@ import com.google.android.material.button.MaterialButton;
 public class RequestRideActivity extends AppCompatActivity {
 
     private LinearLayout riderSection;
-    private MaterialButton btnSwitchToRequester, btnSwitchToRider, btnShareLocation;
+    private MaterialButton btnShareLocation;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -20,24 +22,25 @@ public class RequestRideActivity extends AppCompatActivity {
 
         // View bindings
         riderSection = findViewById(R.id.riderSection);
-        btnSwitchToRequester = findViewById(R.id.btnSwitchToRequester);
-        btnSwitchToRider = findViewById(R.id.btnSwitchToRider);
+
+
+
+        findViewById(R.id.btnBacktoChat).setOnClickListener(v -> {
+            Intent intent = new Intent(RequestRideActivity.this, Main_function.class);
+            startActivity(intent);
+        });
+
         btnShareLocation = findViewById(R.id.btnShareLocation);
 
         // Default: Requester mode
         riderSection.setVisibility(View.GONE);
         btnShareLocation.setVisibility(View.GONE);
 
-        // Switch roles
-        btnSwitchToRequester.setOnClickListener(v -> {
-            riderSection.setVisibility(View.GONE);
-            btnShareLocation.setVisibility(View.GONE);
-        });
+        // back to chat roles
 
-        btnSwitchToRider.setOnClickListener(v -> {
-            riderSection.setVisibility(View.VISIBLE);
-            btnShareLocation.setVisibility(View.VISIBLE);
-        });
+
+
+
     }
 
 }

@@ -31,5 +31,6 @@
     <string name="riderStatus">Available</string>
     <string name="update_status">Update Status</string>
     <string name="view_requests">View Requests</string>
+    <string name="backtoChat">Back to Chat</string>
 
 </resources>
