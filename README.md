@@ -26,8 +26,8 @@ To set up and run the SMS Based Boda-Ride Service Application on your local mach
 Clone the Repository: Download or clone the repository from GitHub:
 bash
 Copy
-git clone https://github.com/YourUsername/GeoQuizApp.git
-(Replace YourUsername with the actual GitHub username if this is a public repo.)
+git clone https://github.com/Dzeline/GeoQuizApp.git
+
 
 Open in Android Studio: Launch Android Studio and select File > Open. Navigate to the cloned GeoQuizApp project directory and open it. Gradle will sync the project and download required dependencies. Make sure you have a stable internet connection on first build to fetch all libraries.
 
