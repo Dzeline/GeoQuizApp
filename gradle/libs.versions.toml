@@ -12,12 +12,13 @@ lifecycleRuntimeKtx = "2.8.7"
 lifecycleVersion = "2.8.7"
 material = "1.12.0"
 constraintlayout = "2.2.1"
-firebaseCrashlytics = "19.4.2"
-osmdroidAndroid = "6.1.11"
+
+osmdroid = "6.1.20"
 roomKtx = "2.7.0"
 roomCompiler = "2.7.0"
 roomRuntime = "2.7.0"
 roomVersion = "2.7.0"
+dagger-hilt ="2.56.1"
 
 [libraries]
 
@@ -39,9 +40,8 @@ androidx-room-runtime = { module = "androidx.room:room-runtime", version.ref = "
 
 hilt-android = { module = "com.google.dagger:hilt-android", version = "2.56.1" }
 hilt-android-gradle-plugin = { module = "com.google.dagger:hilt-android-gradle-plugin", version.ref = "hilt" }
-hilt-compiler = { module = "com.google.dagger:hilt-compiler", version.ref = "hilt" }
-hilt-lifecycle-viewmodel = { module = "androidx.hilt:hilt-lifecycle-viewmodel", version.ref = "hiltLifecycle" }
-hilt-lifecycle-compiler = { module = "androidx.hilt:hilt-compiler", version.ref = "hiltLifecycle" }
+hilt-compiler = { module = "com.google.dagger:hilt-compiler", version.ref = "dagger-hilt" }
+
 
 
 
@@ -56,8 +56,8 @@ lifecycle-runtime = { module = "androidx.lifecycle:lifecycle-runtime", version.r
 material = { group = "com.google.android.material", name = "material", version.ref = "material" }
 
 androidx-constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
-firebase-crashlytics = { group = "com.google.firebase", name = "firebase-crashlytics", version.ref = "firebaseCrashlytics" }
-osmdroid-android = { module = "org.osmdroid:osmdroid-android", version = "6.1.20" }
+
+osmdroid-android = { module = "org.osmdroid:osmdroid-android", version.ref = "osmdroid" }
 
 
 [plugins]

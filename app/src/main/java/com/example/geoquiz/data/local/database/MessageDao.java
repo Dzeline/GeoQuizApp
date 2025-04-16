@@ -28,5 +28,7 @@ public abstract class MessageDao {
     @Query("SELECT * FROM Messages WHERE sender = :contact OR receiver = :contact ORDER BY timestamp ASC")
     public abstract LiveData<List<MessageEntity>> getMessagesForContact(String contact);
 
+    @Query("DELETE FROM Messages WHERE sender IS NULL OR receiver IS NULL OR message IS NULL")
+    abstract void cleanBrokenMessages();
 
 }

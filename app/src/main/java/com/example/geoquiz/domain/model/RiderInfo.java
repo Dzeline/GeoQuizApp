@@ -1,14 +1,18 @@
 package com.example.geoquiz.domain.model;
 
+import androidx.annotation.NonNull;
+
 public class RiderInfo {
+    @NonNull
     private String riderName;
+
     private String latestMessage;
     private boolean isAvailable;
-
+    @NonNull
     private String phoneNumber;
     private int profileImageResId; // Resource id for the profile image
 
-    public RiderInfo(String riderName, String latestMessage, boolean isAvailable, int profileImageResId,String phoneNumber) {
+    public RiderInfo( @NonNull String riderName, String latestMessage, boolean isAvailable, int profileImageResId,@NonNull String phoneNumber) {
         this.riderName = riderName;
         this.latestMessage = latestMessage;
         this.isAvailable = isAvailable;

@@ -34,12 +34,17 @@ public class MapGridAdapter extends BaseAdapter {
 
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
-        TextView view = new TextView(context);
+        TextView view;
+        if (convertView == null) {
+            view = new TextView(context);
+            // You can set layout parameters if needed (alternatively, inflate from an XML layout)
+            view.setLayoutParams(new ViewGroup.LayoutParams(60, 60));
+            view.setBackgroundColor(0xFFCCCCCC); // Light gray background
+            view.setTextAlignment(View.TEXT_ALIGNMENT_CENTER);
+        } else {
+            view = (TextView) convertView;
+        }
         view.setText(items.get(position));
-        view.setBackgroundColor(0xFFCCCCCC); // light gray grid box
-        view.setHeight(60);
-        view.setWidth(60);
-        view.setTextAlignment(View.TEXT_ALIGNMENT_CENTER);
         return view;
     }
 

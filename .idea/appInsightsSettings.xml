@@ -9,10 +9,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="com.example.geoquiz" />
-                  <option name="mobileSdkAppId" value="1:1055466960824:android:7705fd0b6f39c8a9e8c14d" />
-                  <option name="projectId" value="quizsms-a1da2" />
-                  <option name="projectNumber" value="1055466960824" />
+                  <option name="appId" value="PLACEHOLDER" />
+                  <option name="mobileSdkAppId" value="" />
+                  <option name="projectId" value="" />
+                  <option name="projectNumber" value="" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

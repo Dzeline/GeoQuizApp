@@ -25,7 +25,7 @@ public class MainFunctionViewModel  extends ViewModel {
     public MainFunctionViewModel(MessageRepository messageRepo) {
 
         this.messageRepo =messageRepo;
-        this.messages = (LiveData<List<MessageEntity>>) messageRepo.getAllMessages();
+        this.messages = messageRepo.getAllMessages();
 
 
     }

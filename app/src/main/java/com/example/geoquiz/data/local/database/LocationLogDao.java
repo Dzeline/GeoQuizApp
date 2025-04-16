@@ -23,10 +23,11 @@ public abstract class LocationLogDao {
 
     /**
      * Fetches all stored location logs, sorted from newest to oldest.
+     *
      * @return A list of LocationLogEntity objects .
      */
     @Query("SELECT * FROM LocationLogs ORDER BY timestamp DESC")
-    public abstract List<LocationLogEntity> getAllLogs();
+    public abstract LiveData<List<LocationLogEntity>> getAllLogs();
 
     @Query("SELECT * FROM LocationLogs ORDER BY timestamp DESC")
     public abstract LiveData<List<LocationLogEntity>> getAllLogsLive();

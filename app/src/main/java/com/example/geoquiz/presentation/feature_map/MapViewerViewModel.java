@@ -4,11 +4,12 @@ package com.example.geoquiz.presentation.feature_map;
 import android.content.Context;
 
 import androidx.lifecycle.LiveData;
-import androidx.lifecycle.MutableLiveData;
+
 import androidx.lifecycle.ViewModel;
 
 import com.example.geoquiz.data.local.database.GeoQuizDatabase;
 import com.example.geoquiz.data.local.database.LocationLogEntity;
+import com.example.geoquiz.domain.repository.LocationLogRepository;
 import com.example.geoquiz.util.OfflineLocationHelper;
 
 import java.util.ArrayList;
@@ -24,42 +25,37 @@ import dagger.hilt.android.lifecycle.HiltViewModel;
  */
 @HiltViewModel
 public class MapViewerViewModel extends ViewModel {
-
-    private final MutableLiveData<List<String>> gridData = new MutableLiveData<>();
+    private final LocationLogRepository logRepo;
+    private final LiveData<List<LocationLogEntity>> gridData ;
     private final GeoQuizDatabase db;
+
+
 
     /**
      * Constructor initializes database reference and grid.
      *
-     * @param db GeoQuiz database instance
+     * @param  logRepo Repository for location logs
      */
     @Inject
-    public MapViewerViewModel(GeoQuizDatabase db) {
+    public MapViewerViewModel(GeoQuizDatabase db, LocationLogRepository logRepo) {
+        this.db = db;
+        this.logRepo = logRepo ;
+        this.gridData =logRepo.getAllLogs();
 
-        this.db = db ;
-        initializeGrid(); // fill with 100 blank items
     }
+
 
     /**
      * Exposes a LiveData list representing a 10x10 map grid.
      *
      * @return LiveData list of grid cell values
      */
-    public LiveData<List<String>> getGridData() {
-        return gridData;
-    }
-
-    /**
-     * Initializes the map grid with 100 empty cells.
-     */
-    private void initializeGrid() {
-        List<String> items = new ArrayList<>();
-        for (int i = 0; i < 100; i++) items.add("");
-        gridData.setValue(items);
+    public LiveData<List<LocationLogEntity>> getGridData() {
+        return this.gridData;
     }
 
     public LiveData<List<LocationLogEntity>> getAllLogs() {
-        return db.locationLogDao().getAllLogsLive();
+        return this.logRepo.getAllLogs();
     }
 
     /**
@@ -72,24 +68,39 @@ public class MapViewerViewModel extends ViewModel {
 
         if (!data.success) return;
 
-        List<String> updatedGrid = new ArrayList<>(gridData.getValue());
-
-        int userCell = Math.abs((int)((data.latitude * 10 + data.longitude * 10)) % 100);
-        int towerCell = Math.abs((int)((data.latitude * 10 + data.longitude * 10 + data.timingAdvance) % 100));
-
-        if (userCell < updatedGrid.size()) updatedGrid.set(userCell, "U");
-        if (towerCell < updatedGrid.size()) updatedGrid.set(towerCell, "T");
-
         // save to DB
-        db.locationLogDao().insertLog(new LocationLogEntity(
+        LocationLogEntity log=new LocationLogEntity(
                 System.currentTimeMillis(),
                 data.latitude,
                 data.longitude,
                 data.accuracy,
                 data.signalDbm,
                 data.timingAdvance
-        ));
-
-        gridData.setValue(updatedGrid); // notify UI
+        );
+       GeoQuizDatabase.databaseWriteExecutor.execute(()-> db.locationLogDao().insertLog(log));
     }
+
+    /**
+     * Converts location logs into a 10x10 grid of strings.
+     * "U" = User location, "T" = Cell Tower, "." = Empty
+     */
+    public List<String> buildGridFromLogs(List<LocationLogEntity> logs) {
+        List<String> grid = new ArrayList<>();
+        for (int i = 0; i < 100; i++) {
+            grid.add("."); // default empty
+        }
+
+        for (LocationLogEntity log : logs) {
+            int row = (int) ((log.latitude * 10) % 10);
+            int col = (int) ((log.longitude * 10) % 10);
+            int cellIndex = row * 10 + col;
+
+            if (cellIndex >= 0 && cellIndex < 100) {
+                grid.set(cellIndex, "U"); // Can enhance to distinguish "T" later
+            }
+        }
+
+        return grid;
+    }
+
 }

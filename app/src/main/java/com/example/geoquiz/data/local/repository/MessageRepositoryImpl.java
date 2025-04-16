@@ -1,5 +1,7 @@
 package com.example.geoquiz.data.local.repository;
 
+import android.util.Log;
+
 import androidx.lifecycle.LiveData;
 
 import com.example.geoquiz.data.local.database.GeoQuizDatabase;
@@ -21,6 +23,13 @@ public class MessageRepositoryImpl implements MessageRepository {
 
     @Override
     public void insertMessage(MessageEntity message) {
+        if (message == null ||
+                message.getMessage() == null ||
+                message.getSender() == null ||
+                message.getReceiver() == null) {
+            Log.e("MessageRepository", "Attempted to insert null message — skipped.");
+            return;
+        }
         GeoQuizDatabase.databaseWriteExecutor.execute(() -> db.messageDao().insertMessage(message));
     }
 

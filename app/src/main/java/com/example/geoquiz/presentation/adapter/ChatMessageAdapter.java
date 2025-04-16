@@ -61,6 +61,10 @@ public class ChatMessageAdapter extends ListAdapter<MessageEntity,RecyclerView.V
     public void onBindViewHolder(@NonNull RecyclerView.ViewHolder holder, int position) {
         MessageEntity message = getItem(position);
 
+        if (message == null || message.getMessage() == null || message.getSender() == null) {
+            return; // 🚫 Don't bind if data is broken
+        }
+
         if (holder instanceof SentViewHolder) {
             ((SentViewHolder) holder).tvMessage.setText(message.getMessage());
         } else if (holder instanceof ReceivedViewHolder) {

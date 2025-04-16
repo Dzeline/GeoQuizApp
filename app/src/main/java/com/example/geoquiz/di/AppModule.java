@@ -23,10 +23,12 @@ import dagger.hilt.components.SingletonComponent;
 @Module
 @InstallIn(SingletonComponent.class)
 public class AppModule {
+
+    private static final String DB_NAME = "GeoQuizDatabase.db";
     @Provides
     @Singleton
     public GeoQuizDatabase provideDatabase(@ApplicationContext Context context) {
-        return Room.databaseBuilder(context, GeoQuizDatabase.class, "geoquiz.db")
+        return Room.databaseBuilder(context, GeoQuizDatabase.class, DB_NAME)
                 .fallbackToDestructiveMigration()
                 .build();
     }

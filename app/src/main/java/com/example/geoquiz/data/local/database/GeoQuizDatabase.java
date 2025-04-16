@@ -10,7 +10,7 @@ import androidx.room.RoomDatabase;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-@Database(entities = {MessageEntity.class, LocationLogEntity.class}, version = 1 ,exportSchema = false)
+@Database(entities = {MessageEntity.class, LocationLogEntity.class}, version = 2 ,exportSchema =false )
 public abstract class GeoQuizDatabase extends RoomDatabase {
 
     private static volatile GeoQuizDatabase INSTANCE;

@@ -1,7 +1,9 @@
 package com.example.geoquiz.presentation.feature_map;
 
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -10,6 +12,7 @@ import androidx.lifecycle.ViewModelProvider;
 
 import com.example.geoquiz.R;
 import com.example.geoquiz.data.local.database.LocationLogEntity;
+import com.example.geoquiz.presentation.feature_role.RoleManager;
 
 import org.osmdroid.config.Configuration;
 import org.osmdroid.tileprovider.tilesource.TileSourceFactory;
@@ -17,13 +20,18 @@ import org.osmdroid.util.GeoPoint;
 import org.osmdroid.views.MapView;
 import org.osmdroid.views.overlay.Marker;
 
-import java.util.Date;
+
 import java.util.List;
 
 /**
  * Displays logged location points using OSMDroid in offline mode.
  */
 public class MapViewerActivity extends AppCompatActivity {
+    public static void launch(android.content.Context context) {
+        Intent intent = new Intent(context, MapViewerActivity.class);
+        context.startActivity(intent);
+    }
+
 
     private MapView mapView;
     private MapViewerViewModel viewModel;
@@ -42,13 +50,19 @@ public class MapViewerActivity extends AppCompatActivity {
         mapView.getController().setZoom(15.0);
         mapView.getController().setCenter(new GeoPoint(37.7749, -122.4194)); // Sample lat/lon
 
+        if (RoleManager.getRole(this) == RoleManager.Role.RIDER) {
+            View chatButton = findViewById(R.id.btnChat);
+            View historyButton = findViewById(R.id.btnHistory);
+            if (chatButton != null) chatButton.setVisibility(View.GONE);
+            if (historyButton != null) historyButton.setVisibility(View.GONE);
+        }
            //ViewModel init
         viewModel = new ViewModelProvider(this).get(MapViewerViewModel.class);
 
         //Observe logs and plot markers
         viewModel.getAllLogs().observe(this, logs -> {
             if (logs == null || logs.isEmpty()) {
-                Toast.makeText(this, "No locations logged yet", Toast.LENGTH_SHORT).show();
+                Toast.makeText(this, "No logs available", Toast.LENGTH_SHORT).show();
                 return;
             }
 

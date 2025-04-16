@@ -2,32 +2,48 @@ package com.example.geoquiz.presentation.feature_role;
 
 import android.content.Intent;
 import android.os.Bundle;
+
 import android.widget.Button;
+
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.geoquiz.R;
-import com.example.geoquiz.presentation.feature_request.RequestRideActivity;
+import com.example.geoquiz.presentation.feature_chat.MainFunctionActivity;
 import com.example.geoquiz.presentation.feature_rider.RiderActivity;
 
+/**
+ * Role chooser screen allowing user to select Rider or User flow.
+ */
 public class RoleChooserActivity extends AppCompatActivity {
+
+    private Button btnUser;
+    private Button btnRider;
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_role_chooser);
 
-        Button btnRider = findViewById(R.id.btnGoToRider);
-        Button btnUser = findViewById(R.id.btnGoToUser);
+        btnRider = findViewById(R.id.btnGoToRider);
+        btnUser = findViewById(R.id.btnGoToUser);
 
-        btnRider.setOnClickListener(v -> {
+        btnUser.setOnClickListener(v-> {
+            RoleManager.setRole(getApplicationContext(), RoleManager.Role.USER);
+            Intent intent = new Intent(RoleChooserActivity.this, MainFunctionActivity.class);
+            startActivity(intent);
+            overridePendingTransition(android.R.anim.fade_in, android.R.anim.fade_out);
+
+        });
+
+        btnRider.setOnClickListener(v-> {
+
+            RoleManager.setRole(getApplicationContext(), RoleManager.Role.RIDER);
             Intent intent = new Intent(RoleChooserActivity.this, RiderActivity.class);
             startActivity(intent);
-        });
+            overridePendingTransition(android.R.anim.fade_in, android.R.anim.fade_out);
 
-        btnUser.setOnClickListener(v -> {
-            Intent intent = new Intent(RoleChooserActivity.this, RequestRideActivity.class);
-            startActivity(intent);
         });
     }
-
 }

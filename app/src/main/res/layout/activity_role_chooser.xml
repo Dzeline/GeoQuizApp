@@ -10,7 +10,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Choose Your Role"
+        android:text="@string/choose_your_role"
         android:textSize="24sp"
         android:textStyle="bold"
         android:layout_marginBottom="24dp"/>
@@ -19,12 +19,12 @@
         android:id="@+id/btnGoToUser"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="I am a User / Requester" />
+        android:text="@string/i_am_a_use" />
 
     <Button
         android:id="@+id/btnGoToRider"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="I am a Rider"
+        android:text="@string/i_am_a_rider"
         android:layout_marginTop="16dp"/>
 </LinearLayout>

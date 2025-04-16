@@ -34,5 +34,10 @@
     <string name="backtoChat">Back to Chat</string>
     <string name="open_map">Open Map</string>
     <string name="chat_with">"Chat with "</string>
+    <string name="chat">Chat</string>
+    <string name="history">History</string>
+    <string name="i_am_a_use">I am a Use</string>
+    <string name="i_am_a_rider">I am a Rider</string>
+    <string name="choose_your_role">Choose Your Role</string>
 
 </resources>

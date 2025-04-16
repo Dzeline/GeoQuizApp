@@ -52,8 +52,13 @@ public class RiderHistoryAdapter extends RecyclerView.Adapter<RiderHistoryAdapte
         }
 
         holder.itemView.setOnClickListener(v -> {
+            // Use the interface callback if needed
+            if (listener != null) {
+                listener.onRiderClick(rider);
+            }
             Intent intent = new Intent(context, chatDetailActivity.class);
-            intent.putExtra("riderName", rider.getRiderName()); // Pass rider name
+            intent.putExtra("riderName", rider.getRiderName());// Pass rider name
+            intent.putExtra("riderPhone", rider.getPhoneNumber());
             context.startActivity(intent);
         });
 

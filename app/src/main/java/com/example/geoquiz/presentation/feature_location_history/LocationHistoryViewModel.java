@@ -2,7 +2,6 @@ package com.example.geoquiz.presentation.feature_location_history;
 
 
 import androidx.lifecycle.LiveData;
-import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
 
@@ -23,8 +22,8 @@ import dagger.hilt.android.lifecycle.HiltViewModel;
 @HiltViewModel
 public class LocationHistoryViewModel extends ViewModel {
 
-    private final MutableLiveData<List<LocationLogEntity>> logs = new MutableLiveData<>();
-    private final LocationLogRepository logRepo;
+    private final LiveData<List<LocationLogEntity>> logs;
+
 
     /**
      * Constructs the ViewModel with a provided LocationLogRepository.
@@ -34,9 +33,9 @@ public class LocationHistoryViewModel extends ViewModel {
     @Inject
     public LocationHistoryViewModel(LocationLogRepository logRepo) {
 
-        this.logRepo = logRepo;
-        loadLogs();
-    }
+        this.logs= logRepo.getAllLogs();
+
+        }
 
     /**
      * Exposes a LiveData stream of all location logs.
@@ -47,11 +46,7 @@ public class LocationHistoryViewModel extends ViewModel {
         return logs;
     }
 
-    /**
-     * Loads all logs from the repository into the LiveData.
-     */
-    private void loadLogs() {
-        logs.setValue(logRepo.getAllLogs());
-    }
+
+
 
 }

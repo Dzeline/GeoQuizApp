@@ -8,6 +8,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
@@ -19,6 +20,7 @@ import com.example.geoquiz.data.local.database.MessageEntity;
 import com.example.geoquiz.data.local.repository.MessageRepositoryImpl;
 import com.example.geoquiz.domain.RiderHistoryAdapter;
 import com.example.geoquiz.domain.model.RiderInfo;
+import com.example.geoquiz.presentation.feature_role.RoleManager;
 import com.google.android.material.button.MaterialButton;
 
 import java.util.ArrayList;
@@ -48,6 +50,11 @@ public class RiderActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        if (RoleManager.getRole(this) != RoleManager.Role.RIDER) {
+            Toast.makeText(this, "This screen is for riders only.", Toast.LENGTH_SHORT).show();
+            finish();
+            return;
+        }
         setContentView(R.layout.riderider);
 
         // 🔗 UI references
@@ -66,7 +73,9 @@ public class RiderActivity extends AppCompatActivity {
         rvChatMessages.setLayoutManager(new LinearLayoutManager(this));
         rvChatMessages.setAdapter(chatAdapter);
         observeChatMessages();
-        rvChatMessages.scrollToPosition(currentChatList.size() - 1);
+
+        // Initially hide ride requests.
+        rvRideRequests.setVisibility(View.GONE);
 
         // 🟡 Set up Ride Requests RecyclerView (initially hidden)
         List<RiderInfo> requestList = new ArrayList<>();
@@ -75,7 +84,7 @@ public class RiderActivity extends AppCompatActivity {
         RiderHistoryAdapter requestAdapter = new RiderHistoryAdapter(this, requestList, riderInfo -> { });
         rvRideRequests.setLayoutManager(new LinearLayoutManager(this));
         rvRideRequests.setAdapter(requestAdapter);
-        rvRideRequests.setVisibility(View.GONE);
+
 
         // 🔁 Toggle Status
         btnUpdateStatus.setOnClickListener(v -> {
@@ -130,8 +139,9 @@ public class RiderActivity extends AppCompatActivity {
             ));
         }
             chatAdapter.notifyDataSetChanged();
-
-            rvChatMessages.scrollToPosition(currentChatList.size() - 1);
+            if (!currentChatList.isEmpty()) {
+                rvChatMessages.scrollToPosition(currentChatList.size() - 1);
+            }
         });
 
 

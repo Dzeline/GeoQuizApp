@@ -1,6 +1,7 @@
 package com.example.geoquiz.data.local.database;
 
 
+import androidx.annotation.NonNull;
 import androidx.room.ColumnInfo;
 import androidx.room.Entity;
 import androidx.room.PrimaryKey;
@@ -21,12 +22,14 @@ public class MessageEntity  {
     /**
      *Sender of the message ("You" if outgoing, phone number if incoming).
      */
+    @NonNull
     @ColumnInfo(name = "sender")
     public String sender;
 
     /**
      *Content of the message (plain text).
      */
+    @NonNull
     @ColumnInfo(name = "message")
     public String message;
 
@@ -38,6 +41,7 @@ public class MessageEntity  {
     /**
      * Receiver of the message (phone number).
      */
+    @NonNull
     @ColumnInfo(name = "receiver")
     public String receiver;
 
@@ -50,7 +54,7 @@ public class MessageEntity  {
      * @param timestamp Unix timestamp in milliseconds
      */
 
-    public MessageEntity(String sender,String receiver, String message, long timestamp) {
+    public MessageEntity(@NonNull String sender,@NonNull String receiver,@NonNull String message, long timestamp) {
         this.sender = sender;
         this.receiver = receiver;
         this.message = message;
