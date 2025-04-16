@@ -1,45 +1,74 @@
 SMS Based Boda-Ride Service Application
+
 SMS Based Boda-Ride Service Application is an Android app that enables motorcycle taxi (boda-boda) ride-hailing through SMS messages. It is designed for regions with limited or no internet access, allowing riders and passengers to coordinate rides using basic phone features. The app supports two user roles (Rider and Client) with tailored interfaces for each. By leveraging SMS for communication and approximate location services from cell towers, this application makes ride-hailing accessible even without GPS or mobile data.
+
 Key Features
+
 Role-Based Access: Separate interfaces and functionality for Riders and Users (Passengers). Riders can manage ride requests and availability, while Users can request rides and communicate with riders. Role selection is done at app launch, ensuring each user sees only the features relevant to their role.
+
 SMS Communication for Rides: All ride requests and chat messages are sent via SMS, enabling the service to work offline without internet. Users request rides or send messages to riders through the app, and riders receive these as SMS (and vice versa). An SMS BroadcastReceiver in the app captures incoming messages, so conversations appear in-app as a chat history for convenience.
+
 Location Sharing (Cell-Tower Approximation): The app can determine an approximate location using cell tower signals (coarse phone network location) when GPS or data is unavailable. Users can share their location with a rider via SMS at the tap of a button. This helps the rider get a rough idea of the pickup point. The location is derived offline and sent as coordinates or a short message, without requiring internet connectivity.
+
 Offline Map Viewing: Integrated OSMDroid map support allows users and riders to view maps and location markers offline. The app can display the user's logged locations or approximate area on an OpenStreetMap-based map. Map tiles can be cached for offline use, so riders and clients can visualize locations and routes without needing Google Maps or an online connection.
+
 Local Data Persistence: All SMS chats and location logs are stored locally using a Room database. This means the message history between rider and user is saved on-device, so users can see previous requests or communications even when offline. Location logs (like approximate coordinates from each share) are also saved and can be reviewed or plotted on the offline map later.
+
 Dependency Injection with Hilt: The project uses Dagger Hilt for clean management of dependencies. Hilt is used to provide instances of the Room database, DAOs/repositories, and location managers throughout the app. This makes the codebase more modular, easier to test, and easier to extend (for example, swapping out the location service or SMS handler if needed).
+
 Modern Android Architecture (MVVM): The app is built following the MVVM (Model-View-ViewModel) pattern along with a repository layer. Business logic and data handling are separated from the UI. ViewModels handle operations like sending/receiving SMS (via repositories/utilities) and expose LiveData for the UI to observe. This modular architecture makes the app maintainable and scalable.
+
 Modular Code Structure: The code is organized by feature (chat, ride request, rider functions, map, location history, etc.), making it easier to navigate and understand. Each feature has its own Activity and ViewModel, and logic is further abstracted into helper classes and repositories. This separation of concerns allows independent development and testing of each feature.
 
 Installation Instructions
+
 To set up and run the SMS Based Boda-Ride Service Application on your local machine, follow these steps:
 Clone the Repository: Download or clone the repository from GitHub:
 bash
 Copy
 git clone https://github.com/YourUsername/GeoQuizApp.git
 (Replace YourUsername with the actual GitHub username if this is a public repo.)
+
 Open in Android Studio: Launch Android Studio and select File > Open. Navigate to the cloned GeoQuizApp project directory and open it. Gradle will sync the project and download required dependencies. Make sure you have a stable internet connection on first build to fetch all libraries.
+
 Configure Dependencies: The project uses Gradle to manage libraries. Key dependencies (already included in the project’s Gradle files) are:
+
 Dagger Hilt for dependency injection (ensure the hilt-android-gradle-plugin is applied and Gradle scripts include classpath "com.google.dagger:hilt-android-gradle-plugin:VERSION" in the buildscript, and implementation "com.google.dagger:hilt-android:VERSION" with annotation processor or kapt for the compiler).
 Room Database for local storage (AndroidX Room components are included; no additional setup needed aside from runtime permissions for storage if on older devices).
 OSMDroid for offline maps (the OSMDroid library is included as a dependency to provide map views; it doesn’t require an API key but does need permission to access device storage for caching map tiles).
 AndroidX and Jetpack Components: The app uses AndroidX libraries like RecyclerView, LiveData, ViewModel, and Material Components. These are included via Gradle. Ensure you use the latest Android SDK (compile/target SDK 31 or above as per the project settings).
+
 Normally, you do not need to manually install anything apart from Android Studio; Gradle will handle the above libraries. Just verify in the project’s build.gradle files that the dependencies are present (they should be pre-configured in this repository).
+
 Build the Project: Once the project is open and dependencies are resolved, click on Build > Make Project (or the ▶️ Run button). This will compile the app. You should see no errors if all setup is correct.
+
 Run on Device/Emulator: Connect an Android device or start an emulator. Important: To fully test SMS functionality, it’s recommended to use either two physical devices (one as a user, one as a rider) or two emulators that can send SMS to each other. The app will request SMS permissions and location permissions on startup:
 Grant SMS send/receive permissions so the app can send messages and listen for incoming ones.
+
 Grant Location permission (specifically coarse location) so the app can fetch cell-based location. If available, also grant fine location for better accuracy (though the app primarily uses cell info for offline mode).
+
 Select the desired module (app) and run it. The app should install on the device/emulator. You will be presented with the role selection screen on first launch.
+
 OSMDroid Offline Map Setup (Optional): If you plan to use the map entirely offline, you may want to pre-download or cache OpenStreetMap tiles for your region. By default, OSMDroid will cache map tiles on the device as you view them (requiring an initial internet connection to get those tiles). For demonstration in a fully offline scenario, you might drive around the map area while online to save tiles, or integrate an offline tile source. This is optional; the map will still show coordinates and allow zooming, but without cached tiles it may appear blank until some are loaded. In any case, the location markers for rides will still display.
+
 After these steps, you should have the app running. You can then proceed to use it as described below.
 
 Usage
+
 The application flows and usage differ for Users (Passengers) and Riders. Below is an overview of how each role interacts with the app:
+
 For Users (Clients/Passengers)
+
 Role Selection: When you launch the app, choose the User role. This will take you to the main interface for passengers.
+
 Main Chat Screen: The user’s main screen is a chat interface where you can communicate with available riders via SMS. Initially, you may not have any rider selected. If you have previously interacted with a rider, the conversation will be listed here. You can tap on a past rider contact or message thread to focus on that rider for new messages. If no contacts are shown, you will need to initiate a chat or ride request with a known rider’s phone number. (Future enhancements may include discovering nearby riders automatically via cell location grouping.)
+
 Requesting a Ride: To request a ride, you can simply send an SMS message to a rider through the chat (for example, "Hi, I need a ride from Location X to Y"). The app provides a "Request Ride" button as well – tapping this will open a Ride Request form. In the current implementation, the form allows you to confirm the rider’s phone number (ensuring you are messaging the correct person) and then proceed. When the request is sent, it is transmitted as an SMS to the rider’s phone. The rider will see this as an incoming ride request in their app (and as a text message on their device).
+
 Sharing Location: You can send your location to the rider by tapping the "Share Location" button (for example, if you want to let the rider know exactly where you are). The app will fetch your approximate coordinates using the phone’s last known cell location or GPS (if available) without needing internet. It then formats this info (latitude/longitude, accuracy, etc.) into a short message and sends it via SMS to the rider. On the rider’s side, this may appear as a map link or coordinates that they can view on their map. This feature is useful for precise pickup coordination.
+
 Viewing Map: If you want to see your location or past ride locations, you can tap the "Map" or "Preview Map" button. This opens the offline map viewer (powered by OSMDroid). Here you can see markers for locations that have been logged (e.g., each time you shared a location or a ride was completed). The map allows pinch-zoom and pan. Even if you are offline, previously cached map tiles will be shown. The map view is read-only for now (no live navigation), but it gives a visual overview of rides and locations.
+
 Back to Chat: From the map or request screens, you can always navigate back to the chat interface to continue communicating with the rider. The chat history will update with any new messages (SMS) sent or received. Remember that all messages are actually being sent over the cellular network as SMS texts, so standard SMS fees or limitations might apply depending on your carrier.
 For Riders (Drivers)
 Role Selection: Choose the Rider role on the launch screen to enter the rider mode. This opens the rider dashboard, which is designed for motorcycle taxi drivers receiving requests.
