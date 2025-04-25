@@ -1,0 +1,2810 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>25</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void setUp()" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;context&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>context</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>38</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertLog_ValidValues()" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;id&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>id</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>42</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertLog_ValidValues()" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;cursor&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>cursor</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>50</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertLog_ValidValues()" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;lat&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>lat</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>51</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertLog_ValidValues()" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;lon&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>lon</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>52</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertLog_ValidValues()" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;accuracy&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>accuracy</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>53</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertLog_ValidValues()" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;dbm&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>dbm</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>54</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertLog_ValidValues()" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;ta&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>ta</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>67</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertLog_InvalidValues()" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;id&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>id</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>73</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertMultipleLogs()" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;count&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>count</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>74</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertMultipleLogs()" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;ids&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>ids</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>87</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertMultipleLogs()" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;cursor&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>cursor</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>90</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertMultipleLogs()" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;rowCount&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>rowCount</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/Converters.java</file>
+  <line>10</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.Converters java.util.Date fromTimestamp(java.lang.Long value)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;value&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>value</highlighted_element>
+  <language>JAVA</language>
+  <offset>42</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/Converters.java</file>
+  <line>15</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.Converters java.lang.Long dateToTimestamp(java.util.Date date)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;date&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>date</highlighted_element>
+  <language>JAVA</language>
+  <offset>44</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/Converters.java</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.Converters java.lang.String fromList(java.util.List&lt;java.lang.String&gt; list)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;list&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>list</highlighted_element>
+  <language>JAVA</language>
+  <offset>47</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/Converters.java</file>
+  <line>25</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.Converters java.util.List&lt;java.lang.String&gt; toList(java.lang.String data)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;data&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>data</highlighted_element>
+  <language>JAVA</language>
+  <offset>45</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/GeoQuizDatabase.java</file>
+  <line>21</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.GeoQuizDatabase com.example.geoquiz.data.local.database.GeoQuizDatabase getInstance(android.app.Application context)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;context&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>context</highlighted_element>
+  <language>JAVA</language>
+  <offset>58</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/LocationLogEntity.java</file>
+  <line>66</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.LocationLogEntity LocationLogEntity(long timestamp, double latitude, double longitude, float accuracy, int signalDbm, int timingAdvance)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;timestamp&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>timestamp</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/LocationLogEntity.java</file>
+  <line>66</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.LocationLogEntity LocationLogEntity(long timestamp, double latitude, double longitude, float accuracy, int signalDbm, int timingAdvance)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;latitude&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>latitude</highlighted_element>
+  <language>JAVA</language>
+  <offset>52</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/LocationLogEntity.java</file>
+  <line>66</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.LocationLogEntity LocationLogEntity(long timestamp, double latitude, double longitude, float accuracy, int signalDbm, int timingAdvance)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;longitude&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>longitude</highlighted_element>
+  <language>JAVA</language>
+  <offset>69</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/LocationLogEntity.java</file>
+  <line>66</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.LocationLogEntity LocationLogEntity(long timestamp, double latitude, double longitude, float accuracy, int signalDbm, int timingAdvance)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;accuracy&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>accuracy</highlighted_element>
+  <language>JAVA</language>
+  <offset>86</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/LocationLogEntity.java</file>
+  <line>66</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.LocationLogEntity LocationLogEntity(long timestamp, double latitude, double longitude, float accuracy, int signalDbm, int timingAdvance)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;signalDbm&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>signalDbm</highlighted_element>
+  <language>JAVA</language>
+  <offset>100</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/LocationLogEntity.java</file>
+  <line>66</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.LocationLogEntity LocationLogEntity(long timestamp, double latitude, double longitude, float accuracy, int signalDbm, int timingAdvance)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;timingAdvance&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>timingAdvance</highlighted_element>
+  <language>JAVA</language>
+  <offset>115</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/MessageEntity.java</file>
+  <line>57</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.MessageEntity MessageEntity(java.lang.String sender, java.lang.String receiver, java.lang.String message, long timestamp)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;sender&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>sender</highlighted_element>
+  <language>JAVA</language>
+  <offset>41</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/MessageEntity.java</file>
+  <line>57</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.MessageEntity MessageEntity(java.lang.String sender, java.lang.String receiver, java.lang.String message, long timestamp)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;receiver&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>receiver</highlighted_element>
+  <language>JAVA</language>
+  <offset>64</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/MessageEntity.java</file>
+  <line>57</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.MessageEntity MessageEntity(java.lang.String sender, java.lang.String receiver, java.lang.String message, long timestamp)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;message&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>message</highlighted_element>
+  <language>JAVA</language>
+  <offset>89</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/MessageEntity.java</file>
+  <line>57</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.MessageEntity MessageEntity(java.lang.String sender, java.lang.String receiver, java.lang.String message, long timestamp)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;timestamp&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>timestamp</highlighted_element>
+  <language>JAVA</language>
+  <offset>103</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/repository/LocationLogRepositoryImpl.java</file>
+  <line>18</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.repository</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.repository.LocationLogRepositoryImpl LocationLogRepositoryImpl(com.example.geoquiz.data.local.database.GeoQuizDatabase db)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;db&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>db</highlighted_element>
+  <language>JAVA</language>
+  <offset>53</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/repository/MessageRepositoryImpl.java</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.repository</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.repository.MessageRepositoryImpl MessageRepositoryImpl(com.example.geoquiz.data.local.database.GeoQuizDatabase db)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;db&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>db</highlighted_element>
+  <language>JAVA</language>
+  <offset>49</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/repository/MessageRepositoryImpl.java</file>
+  <line>25</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.repository</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.repository.MessageRepositoryImpl void insertMessage(com.example.geoquiz.data.local.database.MessageEntity message)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;message&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>message</highlighted_element>
+  <language>JAVA</language>
+  <offset>44</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/repository/MessageRepositoryImpl.java</file>
+  <line>41</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.repository</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.repository.MessageRepositoryImpl androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.MessageEntity&gt;&gt; getMessagesForContact(java.lang.String contactPhone)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;contactPhone&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>contactPhone</highlighted_element>
+  <language>JAVA</language>
+  <offset>70</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/di/AppModule.java</file>
+  <line>30</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.di</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.di.AppModule com.example.geoquiz.data.local.database.GeoQuizDatabase provideDatabase(android.content.Context context)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;context&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>context</highlighted_element>
+  <language>JAVA</language>
+  <offset>71</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/di/AppModule.java</file>
+  <line>38</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.di</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.di.AppModule com.example.geoquiz.domain.repository.MessageRepository provideMessageRepo(com.example.geoquiz.data.local.database.GeoQuizDatabase db)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;db&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>db</highlighted_element>
+  <language>JAVA</language>
+  <offset>64</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/di/AppModule.java</file>
+  <line>44</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.di</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.di.AppModule com.example.geoquiz.domain.repository.LocationLogRepository provideLocationLogRepo(com.example.geoquiz.data.local.database.GeoQuizDatabase db)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;db&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>db</highlighted_element>
+  <language>JAVA</language>
+  <offset>72</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/di/AppModule.java</file>
+  <line>50</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.di</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.di.AppModule com.example.geoquiz.location.CustomLocationManager provideCustomLocationManager(com.example.geoquiz.location.CustomLocationManagerImpl impl)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;impl&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>impl</highlighted_element>
+  <language>JAVA</language>
+  <offset>88</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>25</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter RiderHistoryAdapter(android.content.Context context, java.util.List&lt;com.example.geoquiz.domain.model.RiderInfo&gt; riderList, com.example.geoquiz.domain.RiderHistoryAdapter.OnRiderClickListener listener)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;context&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>context</highlighted_element>
+  <language>JAVA</language>
+  <offset>39</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>25</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter RiderHistoryAdapter(android.content.Context context, java.util.List&lt;com.example.geoquiz.domain.model.RiderInfo&gt; riderList, com.example.geoquiz.domain.RiderHistoryAdapter.OnRiderClickListener listener)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;riderList&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>riderList</highlighted_element>
+  <language>JAVA</language>
+  <offset>64</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>25</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter RiderHistoryAdapter(android.content.Context context, java.util.List&lt;com.example.geoquiz.domain.model.RiderInfo&gt; riderList, com.example.geoquiz.domain.RiderHistoryAdapter.OnRiderClickListener listener)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;listener&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>listener</highlighted_element>
+  <language>JAVA</language>
+  <offset>96</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>32</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter com.example.geoquiz.domain.RiderHistoryAdapter.ViewHolder onCreateViewHolder(android.view.ViewGroup parent, int viewType)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;parent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>parent</highlighted_element>
+  <language>JAVA</language>
+  <offset>51</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>32</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter com.example.geoquiz.domain.RiderHistoryAdapter.ViewHolder onCreateViewHolder(android.view.ViewGroup parent, int viewType)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;viewType&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>viewType</highlighted_element>
+  <language>JAVA</language>
+  <offset>63</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>34</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter com.example.geoquiz.domain.RiderHistoryAdapter.ViewHolder onCreateViewHolder(android.view.ViewGroup parent, int viewType)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;view&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>view</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>39</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter void onBindViewHolder(com.example.geoquiz.domain.RiderHistoryAdapter.ViewHolder holder, int position)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;holder&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>holder</highlighted_element>
+  <language>JAVA</language>
+  <offset>44</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>39</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter void onBindViewHolder(com.example.geoquiz.domain.RiderHistoryAdapter.ViewHolder holder, int position)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;position&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>position</highlighted_element>
+  <language>JAVA</language>
+  <offset>56</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>40</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter void onBindViewHolder(com.example.geoquiz.domain.RiderHistoryAdapter.ViewHolder holder, int position)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;rider&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>rider</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>59</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter void onBindViewHolder(com.example.geoquiz.domain.RiderHistoryAdapter.ViewHolder holder, int position)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;intent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>intent</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>79</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter.ViewHolder ViewHolder(android.view.View itemView)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;itemView&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>itemView</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/model/RiderInfo.java</file>
+  <line>15</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain.model</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.model.RiderInfo RiderInfo(java.lang.String riderName, java.lang.String latestMessage, boolean isAvailable, int profileImageResId, java.lang.String phoneNumber)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;riderName&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>riderName</highlighted_element>
+  <language>JAVA</language>
+  <offset>38</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/model/RiderInfo.java</file>
+  <line>15</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain.model</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.model.RiderInfo RiderInfo(java.lang.String riderName, java.lang.String latestMessage, boolean isAvailable, int profileImageResId, java.lang.String phoneNumber)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;latestMessage&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>latestMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>56</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/model/RiderInfo.java</file>
+  <line>15</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain.model</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.model.RiderInfo RiderInfo(java.lang.String riderName, java.lang.String latestMessage, boolean isAvailable, int profileImageResId, java.lang.String phoneNumber)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;isAvailable&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>isAvailable</highlighted_element>
+  <language>JAVA</language>
+  <offset>79</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/model/RiderInfo.java</file>
+  <line>15</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain.model</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.model.RiderInfo RiderInfo(java.lang.String riderName, java.lang.String latestMessage, boolean isAvailable, int profileImageResId, java.lang.String phoneNumber)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;profileImageResId&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>profileImageResId</highlighted_element>
+  <language>JAVA</language>
+  <offset>96</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/model/RiderInfo.java</file>
+  <line>15</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain.model</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.model.RiderInfo RiderInfo(java.lang.String riderName, java.lang.String latestMessage, boolean isAvailable, int profileImageResId, java.lang.String phoneNumber)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;phoneNumber&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>phoneNumber</highlighted_element>
+  <language>JAVA</language>
+  <offset>130</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/location/CustomLocationManagerImpl.java</file>
+  <line>10</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.location</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.location.CustomLocationManagerImpl CustomLocationManagerImpl(android.content.Context context)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;context&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>context</highlighted_element>
+  <language>JAVA</language>
+  <offset>45</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/location/CustomLocationManagerImpl.java</file>
+  <line>15</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.location</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.location.CustomLocationManagerImpl android.location.Location getLastKnownLocation(java.lang.String gpsProvider)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;gpsProvider&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>gpsProvider</highlighted_element>
+  <language>JAVA</language>
+  <offset>48</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/location/CustomLocationManagerImpl.java</file>
+  <line>18</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.location</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.location.CustomLocationManagerImpl android.location.Location getLastKnownLocation(java.lang.String gpsProvider)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;e&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>e</highlighted_element>
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/location/FusedLocationProvider.java</file>
+  <line>8</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.location</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.location.FusedLocationProvider FusedLocationProvider(android.content.Context context)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;context&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>context</highlighted_element>
+  <language>JAVA</language>
+  <offset>41</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/location/FusedLocationProvider.java</file>
+  <line>13</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.location</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.location.FusedLocationProvider android.location.Location getLastKnownLocation(java.lang.String provider)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;provider&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>provider</highlighted_element>
+  <language>JAVA</language>
+  <offset>48</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>28</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter$1 boolean areItemsTheSame(com.example.geoquiz.data.local.database.MessageEntity oldItem, com.example.geoquiz.data.local.database.MessageEntity newItem)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;oldItem&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>oldItem</highlighted_element>
+  <language>JAVA</language>
+  <offset>62</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>28</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter$1 boolean areItemsTheSame(com.example.geoquiz.data.local.database.MessageEntity oldItem, com.example.geoquiz.data.local.database.MessageEntity newItem)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;newItem&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>newItem</highlighted_element>
+  <language>JAVA</language>
+  <offset>94</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>33</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter$1 boolean areContentsTheSame(com.example.geoquiz.data.local.database.MessageEntity oldItem, com.example.geoquiz.data.local.database.MessageEntity newItem)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;oldItem&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>oldItem</highlighted_element>
+  <language>JAVA</language>
+  <offset>65</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>33</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter$1 boolean areContentsTheSame(com.example.geoquiz.data.local.database.MessageEntity oldItem, com.example.geoquiz.data.local.database.MessageEntity newItem)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;newItem&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>newItem</highlighted_element>
+  <language>JAVA</language>
+  <offset>97</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>41</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter int getItemViewType(int position)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;position&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>position</highlighted_element>
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>42</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter int getItemViewType(int position)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;message&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>message</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>48</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter androidx.recyclerview.widget.RecyclerView.ViewHolder onCreateViewHolder(android.view.ViewGroup parent, int viewType)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;parent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>parent</highlighted_element>
+  <language>JAVA</language>
+  <offset>73</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>48</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter androidx.recyclerview.widget.RecyclerView.ViewHolder onCreateViewHolder(android.view.ViewGroup parent, int viewType)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;viewType&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>viewType</highlighted_element>
+  <language>JAVA</language>
+  <offset>85</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>50</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter androidx.recyclerview.widget.RecyclerView.ViewHolder onCreateViewHolder(android.view.ViewGroup parent, int viewType)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;view&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>view</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>54</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter androidx.recyclerview.widget.RecyclerView.ViewHolder onCreateViewHolder(android.view.ViewGroup parent, int viewType)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;view&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>view</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>61</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter void onBindViewHolder(androidx.recyclerview.widget.RecyclerView.ViewHolder holder, int position)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;holder&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>holder</highlighted_element>
+  <language>JAVA</language>
+  <offset>66</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>61</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter void onBindViewHolder(androidx.recyclerview.widget.RecyclerView.ViewHolder holder, int position)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;position&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>position</highlighted_element>
+  <language>JAVA</language>
+  <offset>78</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>62</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter void onBindViewHolder(androidx.recyclerview.widget.RecyclerView.ViewHolder holder, int position)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;message&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>message</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>78</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter.SentViewHolder SentViewHolder(android.view.View itemView)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;itemView&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>itemView</highlighted_element>
+  <language>JAVA</language>
+  <offset>37</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>87</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter.ReceivedViewHolder ReceivedViewHolder(android.view.View itemView)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;itemView&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>itemView</highlighted_element>
+  <language>JAVA</language>
+  <offset>41</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/ChatDetailViewModel.java</file>
+  <line>30</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.ChatDetailViewModel ChatDetailViewModel(com.example.geoquiz.domain.repository.MessageRepository messageRepo)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;messageRepo&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>messageRepo</highlighted_element>
+  <language>JAVA</language>
+  <offset>49</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/ChatDetailViewModel.java</file>
+  <line>41</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.ChatDetailViewModel androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.MessageEntity&gt;&gt; getMessagesForContact(java.lang.String contactPhone)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;contactPhone&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>contactPhone</highlighted_element>
+  <language>JAVA</language>
+  <offset>70</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/ChatDetailViewModel.java</file>
+  <line>45</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.ChatDetailViewModel void sendMessage(java.lang.String sender, java.lang.String receiver, java.lang.String messageText)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;sender&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>sender</highlighted_element>
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/ChatDetailViewModel.java</file>
+  <line>45</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.ChatDetailViewModel void sendMessage(java.lang.String sender, java.lang.String receiver, java.lang.String messageText)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;receiver&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>receiver</highlighted_element>
+  <language>JAVA</language>
+  <offset>50</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/ChatDetailViewModel.java</file>
+  <line>45</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.ChatDetailViewModel void sendMessage(java.lang.String sender, java.lang.String receiver, java.lang.String messageText)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;messageText&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>messageText</highlighted_element>
+  <language>JAVA</language>
+  <offset>67</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/ChatDetailViewModel.java</file>
+  <line>46</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.ChatDetailViewModel void sendMessage(java.lang.String sender, java.lang.String receiver, java.lang.String messageText)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;message&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>message</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>45</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;savedInstanceState&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>savedInstanceState</highlighted_element>
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>66</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;btnRequestRide&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>btnRequestRide</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>67</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;btnShareLocation&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>btnShareLocation</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>68</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;rvChatMessages&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>rvChatMessages</highlighted_element>
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>76</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;riderList&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>riderList</highlighted_element>
+  <language>JAVA</language>
+  <offset>28</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>77</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;entity&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>entity</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>88</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;adapter&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>adapter</highlighted_element>
+  <language>JAVA</language>
+  <offset>32</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>100</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;intent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>intent</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>106</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;intent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>intent</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>111</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;messageText&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>messageText</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>129</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;sentMessage&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>sentMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>139</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onRequestPermissionsResult(int requestCode, java.lang.String[] permissions, int[] grantResults)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;requestCode&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>requestCode</highlighted_element>
+  <language>JAVA</language>
+  <offset>47</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>140</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onRequestPermissionsResult(int requestCode, java.lang.String[] permissions, int[] grantResults)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;permissions&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>permissions</highlighted_element>
+  <language>JAVA</language>
+  <offset>61</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>141</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onRequestPermissionsResult(int requestCode, java.lang.String[] permissions, int[] grantResults)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;grantResults&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>grantResults</highlighted_element>
+  <language>JAVA</language>
+  <offset>58</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionViewModel.java</file>
+  <line>25</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionViewModel MainFunctionViewModel(com.example.geoquiz.domain.repository.MessageRepository messageRepo)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;messageRepo&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>messageRepo</highlighted_element>
+  <language>JAVA</language>
+  <offset>51</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionViewModel.java</file>
+  <line>36</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionViewModel void insertMessage(com.example.geoquiz.data.local.database.MessageEntity message)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;message&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>message</highlighted_element>
+  <language>JAVA</language>
+  <offset>44</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/chatDetailActivity.java</file>
+  <line>38</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;savedInstanceState&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>savedInstanceState</highlighted_element>
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/chatDetailActivity.java</file>
+  <line>43</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;tvChatWith&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>tvChatWith</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/chatDetailActivity.java</file>
+  <line>44</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;etChatMessage&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>etChatMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/chatDetailActivity.java</file>
+  <line>45</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;btnSendChat&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>btnSendChat</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/chatDetailActivity.java</file>
+  <line>46</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;rvChatDetail&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>rvChatDetail</highlighted_element>
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/chatDetailActivity.java</file>
+  <line>52</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;riderName&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>riderName</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/chatDetailActivity.java</file>
+  <line>86</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;msg&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>msg</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_location_history/LocationHistoryActivity.java</file>
+  <line>24</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_location_history</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_location_history.LocationHistoryActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;savedInstanceState&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>savedInstanceState</highlighted_element>
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_location_history/LocationHistoryActivity.java</file>
+  <line>29</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_location_history</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_location_history.LocationHistoryActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;btnViewMap&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>btnViewMap</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_location_history/LocationHistoryActivity.java</file>
+  <line>31</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_location_history</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_location_history.LocationHistoryActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;viewModel&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>viewModel</highlighted_element>
+  <language>JAVA</language>
+  <offset>33</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_location_history/LocationHistoryActivity.java</file>
+  <line>43</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_location_history</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_location_history.LocationHistoryActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;builder&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>builder</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_location_history/LocationHistoryActivity.java</file>
+  <line>44</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_location_history</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_location_history.LocationHistoryActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;log&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>log</highlighted_element>
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_location_history/LocationHistoryViewModel.java</file>
+  <line>34</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_location_history</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_location_history.LocationHistoryViewModel LocationHistoryViewModel(com.example.geoquiz.domain.repository.LocationLogRepository logRepo)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;logRepo&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>logRepo</highlighted_element>
+  <language>JAVA</language>
+  <offset>58</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapGridAdapter.java</file>
+  <line>15</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapGridAdapter MapGridAdapter(android.content.Context context, java.util.List&lt;java.lang.String&gt; items)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;context&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>context</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapGridAdapter.java</file>
+  <line>15</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapGridAdapter MapGridAdapter(android.content.Context context, java.util.List&lt;java.lang.String&gt; items)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;items&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>items</highlighted_element>
+  <language>JAVA</language>
+  <offset>56</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapGridAdapter.java</file>
+  <line>26</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapGridAdapter java.lang.Object getItem(int position)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;position&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>position</highlighted_element>
+  <language>JAVA</language>
+  <offset>30</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapGridAdapter.java</file>
+  <line>31</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapGridAdapter long getItemId(int position)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;position&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>position</highlighted_element>
+  <language>JAVA</language>
+  <offset>30</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapGridAdapter.java</file>
+  <line>36</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapGridAdapter android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;position&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>position</highlighted_element>
+  <language>JAVA</language>
+  <offset>28</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapGridAdapter.java</file>
+  <line>36</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapGridAdapter android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;convertView&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>convertView</highlighted_element>
+  <language>JAVA</language>
+  <offset>43</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapGridAdapter.java</file>
+  <line>36</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapGridAdapter android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;parent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>parent</highlighted_element>
+  <language>JAVA</language>
+  <offset>66</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapGridAdapter.java</file>
+  <line>37</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapGridAdapter android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;view&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>view</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapGridAdapter.java</file>
+  <line>51</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapGridAdapter void updateData(java.util.List&lt;java.lang.String&gt; newData)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;newData&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>newData</highlighted_element>
+  <language>JAVA</language>
+  <offset>40</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>30</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void launch(android.content.Context context)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;context&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>context</highlighted_element>
+  <language>JAVA</language>
+  <offset>54</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>31</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void launch(android.content.Context context)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;intent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>intent</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>40</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;savedInstanceState&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>savedInstanceState</highlighted_element>
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>54</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;chatButton&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>chatButton</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>55</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;historyButton&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>historyButton</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>80</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void plotMarkers(java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt; logs)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;logs&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>logs</highlighted_element>
+  <language>JAVA</language>
+  <offset>53</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>81</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void plotMarkers(java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt; logs)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;log&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>log</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>82</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void plotMarkers(java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt; logs)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;point&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>point</highlighted_element>
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>83</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void plotMarkers(java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt; logs)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;marker&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>marker</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>85</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void plotMarkers(java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt; logs)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;formattedTime&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>formattedTime</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>95</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void plotMarkers(java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt; logs)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;first&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>first</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>40</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel MapViewerViewModel(com.example.geoquiz.data.local.database.GeoQuizDatabase db, com.example.geoquiz.domain.repository.LocationLogRepository logRepo)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;db&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>db</highlighted_element>
+  <language>JAVA</language>
+  <offset>46</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>40</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel MapViewerViewModel(com.example.geoquiz.data.local.database.GeoQuizDatabase db, com.example.geoquiz.domain.repository.LocationLogRepository logRepo)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;logRepo&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>logRepo</highlighted_element>
+  <language>JAVA</language>
+  <offset>72</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>66</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel void fetchOfflineLocation(android.content.Context context)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;context&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>context</highlighted_element>
+  <language>JAVA</language>
+  <offset>45</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>67</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel void fetchOfflineLocation(android.content.Context context)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;data&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>data</highlighted_element>
+  <language>JAVA</language>
+  <offset>43</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>72</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel void fetchOfflineLocation(android.content.Context context)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;log&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>log</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>87</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel java.util.List&lt;java.lang.String&gt; buildGridFromLogs(java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt; logs)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;logs&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>logs</highlighted_element>
+  <language>JAVA</language>
+  <offset>66</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>88</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel java.util.List&lt;java.lang.String&gt; buildGridFromLogs(java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt; logs)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;grid&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>grid</highlighted_element>
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>93</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel java.util.List&lt;java.lang.String&gt; buildGridFromLogs(java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt; logs)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;log&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>log</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>94</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel java.util.List&lt;java.lang.String&gt; buildGridFromLogs(java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt; logs)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;row&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>row</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>95</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel java.util.List&lt;java.lang.String&gt; buildGridFromLogs(java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt; logs)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;col&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>col</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>96</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel java.util.List&lt;java.lang.String&gt; buildGridFromLogs(java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt; logs)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;cellIndex&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>cellIndex</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>34</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;savedInstanceState&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>savedInstanceState</highlighted_element>
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>39</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;role&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>role</highlighted_element>
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>56</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;riderSection&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>riderSection</highlighted_element>
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>57</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;btnShareLocation&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>btnShareLocation</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>58</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;btnBackToChat&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>btnBackToChat</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>59</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;btnMapPreview&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>btnMapPreview</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>73</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;intent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>intent</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>111</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void shareLocationViaSMS(java.lang.String phoneNumber)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;phoneNumber&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>phoneNumber</highlighted_element>
+  <language>JAVA</language>
+  <offset>45</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>112</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void shareLocationViaSMS(java.lang.String phoneNumber)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;loc&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>loc</highlighted_element>
+  <language>JAVA</language>
+  <offset>43</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>114</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void shareLocationViaSMS(java.lang.String phoneNumber)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;payload&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>payload</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>140</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onRequestPermissionsResult(int requestCode, java.lang.String[] permissions, int[] grantResults)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;requestCode&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>requestCode</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>140</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onRequestPermissionsResult(int requestCode, java.lang.String[] permissions, int[] grantResults)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;permissions&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>permissions</highlighted_element>
+  <language>JAVA</language>
+  <offset>47</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>140</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onRequestPermissionsResult(int requestCode, java.lang.String[] permissions, int[] grantResults)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;grantResults&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>grantResults</highlighted_element>
+  <language>JAVA</language>
+  <offset>75</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>142</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onRequestPermissionsResult(int requestCode, java.lang.String[] permissions, int[] grantResults)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;result&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>result</highlighted_element>
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>51</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;savedInstanceState&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>savedInstanceState</highlighted_element>
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>65</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;btnUpdateStatus&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>btnUpdateStatus</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>67</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;btnSend&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>btnSend</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>81</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;requestList&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>requestList</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>84</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;requestAdapter&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>requestAdapter</highlighted_element>
+  <language>JAVA</language>
+  <offset>28</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>105</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;messageText&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>messageText</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>113</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void insertChatMessage(java.lang.String message)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;message&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>message</highlighted_element>
+  <language>JAVA</language>
+  <offset>42</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>114</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void insertChatMessage(java.lang.String message)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;db&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>db</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>115</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void insertChatMessage(java.lang.String message)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;messageRepo&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>messageRepo</highlighted_element>
+  <language>JAVA</language>
+  <offset>30</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>125</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void observeChatMessages()" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;db&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>db</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>126</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void observeChatMessages()" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;messageRepo&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>messageRepo</highlighted_element>
+  <language>JAVA</language>
+  <offset>30</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>132</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void observeChatMessages()" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;entity&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>entity</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderViewModel.java</file>
+  <line>31</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderViewModel RiderViewModel(com.example.geoquiz.domain.repository.MessageRepository messageRepo)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;messageRepo&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>messageRepo</highlighted_element>
+  <language>JAVA</language>
+  <offset>44</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderViewModel.java</file>
+  <line>51</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderViewModel void sendMessage(java.lang.String sender, java.lang.String message)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;sender&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>sender</highlighted_element>
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderViewModel.java</file>
+  <line>51</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderViewModel void sendMessage(java.lang.String sender, java.lang.String message)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;message&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>message</highlighted_element>
+  <language>JAVA</language>
+  <offset>50</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleChooserActivity.java</file>
+  <line>25</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleChooserActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;savedInstanceState&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>savedInstanceState</highlighted_element>
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleChooserActivity.java</file>
+  <line>34</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleChooserActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;intent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>intent</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleChooserActivity.java</file>
+  <line>43</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleChooserActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;intent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>intent</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleManager.java</file>
+  <line>25</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleManager void setRole(android.content.Context context, com.example.geoquiz.presentation.feature_role.RoleManager.Role role)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;context&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>context</highlighted_element>
+  <language>JAVA</language>
+  <offset>49</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleManager.java</file>
+  <line>25</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleManager void setRole(android.content.Context context, com.example.geoquiz.presentation.feature_role.RoleManager.Role role)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;role&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>role</highlighted_element>
+  <language>JAVA</language>
+  <offset>71</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleManager.java</file>
+  <line>26</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleManager void setRole(android.content.Context context, com.example.geoquiz.presentation.feature_role.RoleManager.Role role)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;prefs&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>prefs</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleManager.java</file>
+  <line>36</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleManager com.example.geoquiz.presentation.feature_role.RoleManager.Role getRole(android.content.Context context)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;context&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>context</highlighted_element>
+  <language>JAVA</language>
+  <offset>49</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleManager.java</file>
+  <line>37</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleManager com.example.geoquiz.presentation.feature_role.RoleManager.Role getRole(android.content.Context context)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;prefs&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>prefs</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleManager.java</file>
+  <line>38</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleManager com.example.geoquiz.presentation.feature_role.RoleManager.Role getRole(android.content.Context context)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;roleString&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>roleString</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleManager.java</file>
+  <line>41</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleManager com.example.geoquiz.presentation.feature_role.RoleManager.Role getRole(android.content.Context context)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;e&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>e</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>23</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;context&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>context</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>23</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;intent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>intent</highlighted_element>
+  <language>JAVA</language>
+  <offset>50</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>24</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;bundle&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>bundle</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>27</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;pdus&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>pdus</highlighted_element>
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>30</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;pdu&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>pdu</highlighted_element>
+  <language>JAVA</language>
+  <offset>28</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>31</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;message&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>message</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>32</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;format&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>format</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>34</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;content&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>content</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>35</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;sender&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>sender</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>39</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;db&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>db</highlighted_element>
+  <language>JAVA</language>
+  <offset>36</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>44</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;parts&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>parts</highlighted_element>
+  <language>JAVA</language>
+  <offset>37</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>45</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;coords&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>coords</highlighted_element>
+  <language>JAVA</language>
+  <offset>37</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>46</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;lat&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>lat</highlighted_element>
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>47</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;lon&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>lon</highlighted_element>
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>48</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;acc&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>acc</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>49</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;dbm&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>dbm</highlighted_element>
+  <language>JAVA</language>
+  <offset>32</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>50</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;ta&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>ta</highlighted_element>
+  <language>JAVA</language>
+  <offset>32</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>52</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;log&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>log</highlighted_element>
+  <language>JAVA</language>
+  <offset>46</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>56</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;e&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>e</highlighted_element>
+  <language>JAVA</language>
+  <offset>43</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>62</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;repo&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>repo</highlighted_element>
+  <language>JAVA</language>
+  <offset>46</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineLocationHelper.java</file>
+  <line>26</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelper.LocationData LocationData(boolean success)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;success&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>success</highlighted_element>
+  <language>JAVA</language>
+  <offset>36</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineLocationHelper.java</file>
+  <line>31</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelper com.example.geoquiz.util.OfflineLocationHelper.LocationData fetchOfflineLocation(android.content.Context context)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;context&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>context</highlighted_element>
+  <language>JAVA</language>
+  <offset>60</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineLocationHelper.java</file>
+  <line>37</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelper com.example.geoquiz.util.OfflineLocationHelper.LocationData fetchOfflineLocation(android.content.Context context)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;locationManager&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>locationManager</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineLocationHelper.java</file>
+  <line>47</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelper com.example.geoquiz.util.OfflineLocationHelper.LocationData fetchOfflineLocation(android.content.Context context)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;result&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>result</highlighted_element>
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineLocationHelper.java</file>
+  <line>52</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelper com.example.geoquiz.util.OfflineLocationHelper.LocationData fetchOfflineLocation(android.content.Context context)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;telephonyManager&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>telephonyManager</highlighted_element>
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineLocationHelper.java</file>
+  <line>54</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelper com.example.geoquiz.util.OfflineLocationHelper.LocationData fetchOfflineLocation(android.content.Context context)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;info&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>info</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineLocationHelper.java</file>
+  <line>56</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelper com.example.geoquiz.util.OfflineLocationHelper.LocationData fetchOfflineLocation(android.content.Context context)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;strength&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>strength</highlighted_element>
+  <language>JAVA</language>
+  <offset>42</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineSmsHelper.java</file>
+  <line>8</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineSmsHelper java.lang.String formatPayload(double lat, double lon, float acc, int dbm, int ta)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;lat&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>lat</highlighted_element>
+  <language>JAVA</language>
+  <offset>46</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineSmsHelper.java</file>
+  <line>8</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineSmsHelper java.lang.String formatPayload(double lat, double lon, float acc, int dbm, int ta)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;lon&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>lon</highlighted_element>
+  <language>JAVA</language>
+  <offset>58</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineSmsHelper.java</file>
+  <line>8</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineSmsHelper java.lang.String formatPayload(double lat, double lon, float acc, int dbm, int ta)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;acc&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>acc</highlighted_element>
+  <language>JAVA</language>
+  <offset>69</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineSmsHelper.java</file>
+  <line>8</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineSmsHelper java.lang.String formatPayload(double lat, double lon, float acc, int dbm, int ta)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;dbm&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>dbm</highlighted_element>
+  <language>JAVA</language>
+  <offset>78</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineSmsHelper.java</file>
+  <line>8</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineSmsHelper java.lang.String formatPayload(double lat, double lon, float acc, int dbm, int ta)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;ta&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>ta</highlighted_element>
+  <language>JAVA</language>
+  <offset>87</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineSmsHelper.java</file>
+  <line>12</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineSmsHelper void sendLocationSMS(java.lang.String phoneNumber, java.lang.String payload)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;phoneNumber&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>phoneNumber</highlighted_element>
+  <language>JAVA</language>
+  <offset>46</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineSmsHelper.java</file>
+  <line>12</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineSmsHelper void sendLocationSMS(java.lang.String phoneNumber, java.lang.String payload)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;payload&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>payload</highlighted_element>
+  <language>JAVA</language>
+  <offset>66</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineSmsHelper.java</file>
+  <line>14</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineSmsHelper void sendLocationSMS(java.lang.String phoneNumber, java.lang.String payload)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;smsManager&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>smsManager</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineSmsHelper.java</file>
+  <line>17</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineSmsHelper void sendLocationSMS(java.lang.String phoneNumber, java.lang.String payload)" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Parameter &lt;code&gt;e&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>e</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>56</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;result&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>result</highlighted_element>
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>70</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationFailsWithoutPermissions()" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;result&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>result</highlighted_element>
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>80</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationFailsWhenNoLocationAvailable()" />
+  <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
+  <description>Variable &lt;code&gt;result&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  <highlighted_element>result</highlighted_element>
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>6</length>
+</problem>
+</problems>

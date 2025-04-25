@@ -1,0 +1,860 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>42</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter int getItemViewType(int position)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;getItem()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>getItem</highlighted_element>
+  <language>JAVA</language>
+  <offset>32</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>62</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter void onBindViewHolder(androidx.recyclerview.widget.RecyclerView.ViewHolder holder, int position)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;getItem()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>getItem</highlighted_element>
+  <language>JAVA</language>
+  <offset>32</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>50</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;finish()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>finish</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>54</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;setContentView()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>setContentView</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>58</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;getIntent()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>getIntent</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>59</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;getIntent()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>getIntent</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>64</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;findViewById()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>findViewById</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>65</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;findViewById()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>findViewById</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>66</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;findViewById()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>findViewById</highlighted_element>
+  <language>JAVA</language>
+  <offset>32</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>67</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;findViewById()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>findViewById</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>68</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;findViewById()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>findViewById</highlighted_element>
+  <language>JAVA</language>
+  <offset>38</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>102</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;startActivity()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>startActivity</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>107</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;startActivity()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>startActivity</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/chatDetailActivity.java</file>
+  <line>40</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;setContentView()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>setContentView</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/chatDetailActivity.java</file>
+  <line>43</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;findViewById()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>findViewById</highlighted_element>
+  <language>JAVA</language>
+  <offset>30</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/chatDetailActivity.java</file>
+  <line>44</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;findViewById()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>findViewById</highlighted_element>
+  <language>JAVA</language>
+  <offset>33</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/chatDetailActivity.java</file>
+  <line>45</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;findViewById()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>findViewById</highlighted_element>
+  <language>JAVA</language>
+  <offset>29</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/chatDetailActivity.java</file>
+  <line>46</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;findViewById()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>findViewById</highlighted_element>
+  <language>JAVA</language>
+  <offset>36</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/chatDetailActivity.java</file>
+  <line>52</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;getIntent()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>getIntent</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/chatDetailActivity.java</file>
+  <line>53</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;getIntent()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>getIntent</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/chatDetailActivity.java</file>
+  <line>56</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;finish()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>finish</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/chatDetailActivity.java</file>
+  <line>60</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;getString()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>getString</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_location_history/LocationHistoryActivity.java</file>
+  <line>26</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_location_history</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_location_history.LocationHistoryActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;setContentView()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>setContentView</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_location_history/LocationHistoryActivity.java</file>
+  <line>28</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_location_history</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_location_history.LocationHistoryActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;findViewById()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>findViewById</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_location_history/LocationHistoryActivity.java</file>
+  <line>29</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_location_history</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_location_history.LocationHistoryActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;findViewById()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>findViewById</highlighted_element>
+  <language>JAVA</language>
+  <offset>28</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapGridAdapter.java</file>
+  <line>54</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapGridAdapter void updateData(java.util.List&lt;java.lang.String&gt; newData)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;notifyDataSetChanged()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>notifyDataSetChanged</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>43</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;getPackageName()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>getPackageName</highlighted_element>
+  <language>JAVA</language>
+  <offset>54</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>44</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;setContentView()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>setContentView</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>47</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;findViewById()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>findViewById</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>54</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;findViewById()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>findViewById</highlighted_element>
+  <language>JAVA</language>
+  <offset>30</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>55</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;findViewById()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>findViewById</highlighted_element>
+  <language>JAVA</language>
+  <offset>33</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>70</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;plotMarkers()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>plotMarkers</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>36</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;setContentView()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>setContentView</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>42</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;finish()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>finish</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>48</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;getIntent()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>getIntent</highlighted_element>
+  <language>JAVA</language>
+  <offset>30</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>51</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;finish()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>finish</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>56</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;findViewById()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>findViewById</highlighted_element>
+  <language>JAVA</language>
+  <offset>36</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>57</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;findViewById()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>findViewById</highlighted_element>
+  <language>JAVA</language>
+  <offset>42</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>58</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;findViewById()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>findViewById</highlighted_element>
+  <language>JAVA</language>
+  <offset>39</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>59</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;findViewById()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>findViewById</highlighted_element>
+  <language>JAVA</language>
+  <offset>36</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>81</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;startActivity()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>startActivity</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>82</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;finish()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>finish</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>92</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;shareLocationViaSMS()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>shareLocationViaSMS</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>100</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;requestLocationAndSmsPermissions()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>requestLocationAndSmsPermissions</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>32</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>55</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;finish()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>finish</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>58</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;setContentView()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>setContentView</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>61</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;findViewById()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>findViewById</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>62</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;findViewById()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>findViewById</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>63</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;findViewById()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>findViewById</highlighted_element>
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>64</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;findViewById()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>findViewById</highlighted_element>
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>65</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;findViewById()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>findViewById</highlighted_element>
+  <language>JAVA</language>
+  <offset>33</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>66</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;findViewById()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>findViewById</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>67</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;findViewById()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>findViewById</highlighted_element>
+  <language>JAVA</language>
+  <offset>33</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>75</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;observeChatMessages()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>observeChatMessages</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>107</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;insertChatMessage()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>insertChatMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>114</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void insertChatMessage(java.lang.String message)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;getApplication()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>getApplication</highlighted_element>
+  <language>JAVA</language>
+  <offset>57</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>125</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void observeChatMessages()" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;getApplication()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>getApplication</highlighted_element>
+  <language>JAVA</language>
+  <offset>57</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleChooserActivity.java</file>
+  <line>27</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleChooserActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;setContentView()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>setContentView</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleChooserActivity.java</file>
+  <line>29</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleChooserActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;findViewById()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>findViewById</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleChooserActivity.java</file>
+  <line>30</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleChooserActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;findViewById()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>findViewById</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleChooserActivity.java</file>
+  <line>33</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleChooserActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;getApplicationContext()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>getApplicationContext</highlighted_element>
+  <language>JAVA</language>
+  <offset>32</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleChooserActivity.java</file>
+  <line>35</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleChooserActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;startActivity()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>startActivity</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleChooserActivity.java</file>
+  <line>36</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleChooserActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;overridePendingTransition()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>overridePendingTransition</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleChooserActivity.java</file>
+  <line>42</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleChooserActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;getApplicationContext()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>getApplicationContext</highlighted_element>
+  <language>JAVA</language>
+  <offset>32</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleChooserActivity.java</file>
+  <line>44</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleChooserActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;startActivity()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>startActivity</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleChooserActivity.java</file>
+  <line>45</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleChooserActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedMethodAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance method call not qualified with 'this'</problem_class>
+  <description>Instance method call &lt;code&gt;overridePendingTransition()&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>overridePendingTransition</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>25</length>
+</problem>
+</problems>

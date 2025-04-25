@@ -1,0 +1,730 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>39</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertLog_ValidValues()" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;-1&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>-1</highlighted_element>
+  <language>JAVA</language>
+  <offset>62</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>68</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertLog_InvalidValues()" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;-1&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>-1</highlighted_element>
+  <language>JAVA</language>
+  <offset>72</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>83</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertMultipleLogs()" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;-1&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>-1</highlighted_element>
+  <language>JAVA</language>
+  <offset>68</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/Converters.java</file>
+  <line>11</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.Converters java.util.Date fromTimestamp(java.lang.Long value)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;null&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/Converters.java</file>
+  <line>16</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.Converters java.lang.Long dateToTimestamp(java.util.Date date)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;null&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/Converters.java</file>
+  <line>21</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.Converters java.lang.String fromList(java.util.List&lt;java.lang.String&gt; list)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;null&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/Converters.java</file>
+  <line>26</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.Converters java.util.List&lt;java.lang.String&gt; toList(java.lang.String data)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;null&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/GeoQuizDatabase.java</file>
+  <line>22</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.GeoQuizDatabase com.example.geoquiz.data.local.database.GeoQuizDatabase getInstance(android.app.Application context)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;null&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/GeoQuizDatabase.java</file>
+  <line>24</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.GeoQuizDatabase com.example.geoquiz.data.local.database.GeoQuizDatabase getInstance(android.app.Application context)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;null&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/repository/MessageRepositoryImpl.java</file>
+  <line>26</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.repository</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.repository.MessageRepositoryImpl void insertMessage(com.example.geoquiz.data.local.database.MessageEntity message)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;null&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/repository/MessageRepositoryImpl.java</file>
+  <line>27</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.repository</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.repository.MessageRepositoryImpl void insertMessage(com.example.geoquiz.data.local.database.MessageEntity message)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;null&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>40</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/repository/MessageRepositoryImpl.java</file>
+  <line>28</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.repository</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.repository.MessageRepositoryImpl void insertMessage(com.example.geoquiz.data.local.database.MessageEntity message)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;null&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>39</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/repository/MessageRepositoryImpl.java</file>
+  <line>29</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.repository</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.repository.MessageRepositoryImpl void insertMessage(com.example.geoquiz.data.local.database.MessageEntity message)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;null&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>41</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>56</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter void onBindViewHolder(com.example.geoquiz.domain.RiderHistoryAdapter.ViewHolder holder, int position)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;null&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>28</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>49</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter androidx.recyclerview.widget.RecyclerView.ViewHolder onCreateViewHolder(android.view.ViewGroup parent, int viewType)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;TYPE_SENT&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>TYPE_SENT</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>64</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter void onBindViewHolder(androidx.recyclerview.widget.RecyclerView.ViewHolder holder, int position)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;null&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>64</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter void onBindViewHolder(androidx.recyclerview.widget.RecyclerView.ViewHolder holder, int position)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;null&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>55</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>64</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter void onBindViewHolder(androidx.recyclerview.widget.RecyclerView.ViewHolder holder, int position)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;null&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>86</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>48</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;RoleManager.Role.USER&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>RoleManager.Role.USER</highlighted_element>
+  <language>JAVA</language>
+  <offset>41</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>96</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;null&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>39</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>113</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;null&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>39</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>122</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;PackageManager.PERMISSION_GRANTED&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>PackageManager.PERMISSION_GRANTED</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>33</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>144</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onRequestPermissionsResult(int requestCode, java.lang.String[] permissions, int[] grantResults)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;SMS_PERMISSION_CODE&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>SMS_PERMISSION_CODE</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>145</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onRequestPermissionsResult(int requestCode, java.lang.String[] permissions, int[] grantResults)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;0&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>0</highlighted_element>
+  <language>JAVA</language>
+  <offset>38</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>145</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onRequestPermissionsResult(int requestCode, java.lang.String[] permissions, int[] grantResults)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;PackageManager.PERMISSION_GRANTED&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>PackageManager.PERMISSION_GRANTED</highlighted_element>
+  <language>JAVA</language>
+  <offset>62</offset>
+  <length>33</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/chatDetailActivity.java</file>
+  <line>54</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;null&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>28</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/chatDetailActivity.java</file>
+  <line>78</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;RoleManager.Role.RIDER&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>RoleManager.Role.RIDER</highlighted_element>
+  <language>JAVA</language>
+  <offset>41</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_location_history/LocationHistoryActivity.java</file>
+  <line>38</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_location_history</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_location_history.LocationHistoryActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;null&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapGridAdapter.java</file>
+  <line>38</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapGridAdapter android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;null&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>53</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;RoleManager.Role.RIDER&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>RoleManager.Role.RIDER</highlighted_element>
+  <language>JAVA</language>
+  <offset>41</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>56</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;null&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>57</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;null&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>33</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>64</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;null&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>89</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel java.util.List&lt;java.lang.String&gt; buildGridFromLogs(java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt; logs)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;100&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>100</highlighted_element>
+  <language>JAVA</language>
+  <offset>28</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>98</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel java.util.List&lt;java.lang.String&gt; buildGridFromLogs(java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt; logs)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;0&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>0</highlighted_element>
+  <language>JAVA</language>
+  <offset>29</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>98</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel java.util.List&lt;java.lang.String&gt; buildGridFromLogs(java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt; logs)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;100&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>100</highlighted_element>
+  <language>JAVA</language>
+  <offset>46</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>40</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;RoleManager.Role.USER&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>RoleManager.Role.USER</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>40</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;RoleManager.Role.RIDER&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>RoleManager.Role.RIDER</highlighted_element>
+  <language>JAVA</language>
+  <offset>53</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>49</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;null&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>62</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;RoleManager.Role.USER&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>RoleManager.Role.USER</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>74</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;RoleManager.Role.RIDER&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>RoleManager.Role.RIDER</highlighted_element>
+  <language>JAVA</language>
+  <offset>45</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>91</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;null&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>39</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>113</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void shareLocationViaSMS(java.lang.String phoneNumber)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;null&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>127</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void requestLocationAndSmsPermissions()" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;PackageManager.PERMISSION_GRANTED&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>PackageManager.PERMISSION_GRANTED</highlighted_element>
+  <language>JAVA</language>
+  <offset>85</offset>
+  <length>33</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>128</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void requestLocationAndSmsPermissions()" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;PackageManager.PERMISSION_GRANTED&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>PackageManager.PERMISSION_GRANTED</highlighted_element>
+  <language>JAVA</language>
+  <offset>104</offset>
+  <length>33</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>129</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void requestLocationAndSmsPermissions()" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;PackageManager.PERMISSION_GRANTED&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>PackageManager.PERMISSION_GRANTED</highlighted_element>
+  <language>JAVA</language>
+  <offset>106</offset>
+  <length>33</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>141</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onRequestPermissionsResult(int requestCode, java.lang.String[] permissions, int[] grantResults)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;PERMISSION_CODE&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>PERMISSION_CODE</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>143</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onRequestPermissionsResult(int requestCode, java.lang.String[] permissions, int[] grantResults)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;PackageManager.PERMISSION_GRANTED&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>PackageManager.PERMISSION_GRANTED</highlighted_element>
+  <language>JAVA</language>
+  <offset>30</offset>
+  <length>33</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>53</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;RoleManager.Role.RIDER&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>RoleManager.Role.RIDER</highlighted_element>
+  <language>JAVA</language>
+  <offset>41</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>26</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;null&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>29</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;null&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineLocationHelper.java</file>
+  <line>32</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelper com.example.geoquiz.util.OfflineLocationHelper.LocationData fetchOfflineLocation(android.content.Context context)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;PackageManager.PERMISSION_GRANTED&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>PackageManager.PERMISSION_GRANTED</highlighted_element>
+  <language>JAVA</language>
+  <offset>101</offset>
+  <length>33</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineLocationHelper.java</file>
+  <line>33</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelper com.example.geoquiz.util.OfflineLocationHelper.LocationData fetchOfflineLocation(android.content.Context context)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;PackageManager.PERMISSION_GRANTED&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>PackageManager.PERMISSION_GRANTED</highlighted_element>
+  <language>JAVA</language>
+  <offset>107</offset>
+  <length>33</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineLocationHelper.java</file>
+  <line>39</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelper com.example.geoquiz.util.OfflineLocationHelper.LocationData fetchOfflineLocation(android.content.Context context)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;null&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineLocationHelper.java</file>
+  <line>43</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelper com.example.geoquiz.util.OfflineLocationHelper.LocationData fetchOfflineLocation(android.content.Context context)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;null&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineLocationHelper.java</file>
+  <line>53</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelper com.example.geoquiz.util.OfflineLocationHelper.LocationData fetchOfflineLocation(android.content.Context context)" />
+  <problem_class id="ConstantOnWrongSideOfComparison" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on wrong side of comparison</problem_class>
+  <description>Constant &lt;code&gt;PackageManager.PERMISSION_GRANTED&lt;/code&gt; on the right side of the comparison #loc</description>
+  <highlighted_element>PackageManager.PERMISSION_GRANTED</highlighted_element>
+  <language>JAVA</language>
+  <offset>101</offset>
+  <length>33</length>
+</problem>
+</problems>

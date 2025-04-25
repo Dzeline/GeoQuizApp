@@ -18,13 +18,14 @@ import com.example.geoquiz.R;
 import com.example.geoquiz.presentation.adapter.ChatMessageAdapter;
 import com.example.geoquiz.presentation.feature_role.RoleManager;
 
-
+import dagger.hilt.android.AndroidEntryPoint;
 
 
 /**
  * Displays chat messages filtered by a specific contact (rider).
  * Messages are loaded via ViewModel and shown in threaded format.
  */
+@AndroidEntryPoint
 public class chatDetailActivity extends AppCompatActivity {
 
     private ChatMessageAdapter adapter;
@@ -75,7 +76,7 @@ public class chatDetailActivity extends AppCompatActivity {
             rvChatDetail.scrollToPosition(messages.size() - 1);
         });
         //Rider cannot send messages
-        if (RoleManager.getRole(this) == RoleManager.Role.RIDER) {
+        if (RoleManager.Role.RIDER == RoleManager.getRole(this)) {
             etChatMessage.setEnabled(false);
             etChatMessage.setHint("You can view messages only");
             btnSendChat.setEnabled(false);

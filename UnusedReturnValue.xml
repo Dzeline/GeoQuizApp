@@ -1,0 +1,30 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/LocationLogDao.java</file>
+  <line>22</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.LocationLogDao long insertLog(com.example.geoquiz.data.local.database.LocationLogEntity log)" />
+  <problem_class id="UnusedReturnValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method can be made 'void'</problem_class>
+  <hints />
+  <description>Return value of the method is never used</description>
+  <highlighted_element>insertLog</highlighted_element>
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/MessageDao.java</file>
+  <line>14</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.MessageDao long insertMessage(com.example.geoquiz.data.local.database.MessageEntity message)" />
+  <problem_class id="UnusedReturnValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method can be made 'void'</problem_class>
+  <hints />
+  <description>Return value of the method is never used</description>
+  <highlighted_element>insertMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>13</length>
+</problem>
+</problems>

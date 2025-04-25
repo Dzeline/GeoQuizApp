@@ -1,0 +1,80 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/location/CustomLocationManagerImpl.java</file>
+  <line>11</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.location</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.location.CustomLocationManagerImpl CustomLocationManagerImpl(android.content.Context context)" />
+  <problem_class id="UnnecessaryThis" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unnecessary 'this' qualifier</problem_class>
+  <description>&lt;code&gt;this&lt;/code&gt; is unnecessary in this context #loc</description>
+  <highlighted_element>this</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionViewModel.java</file>
+  <line>28</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionViewModel MainFunctionViewModel(com.example.geoquiz.domain.repository.MessageRepository messageRepo)" />
+  <problem_class id="UnnecessaryThis" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unnecessary 'this' qualifier</problem_class>
+  <description>&lt;code&gt;this&lt;/code&gt; is unnecessary in this context #loc</description>
+  <highlighted_element>this</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_location_history/LocationHistoryViewModel.java</file>
+  <line>36</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_location_history</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_location_history.LocationHistoryViewModel LocationHistoryViewModel(com.example.geoquiz.domain.repository.LocationLogRepository logRepo)" />
+  <problem_class id="UnnecessaryThis" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unnecessary 'this' qualifier</problem_class>
+  <description>&lt;code&gt;this&lt;/code&gt; is unnecessary in this context #loc</description>
+  <highlighted_element>this</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>43</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel MapViewerViewModel(com.example.geoquiz.data.local.database.GeoQuizDatabase db, com.example.geoquiz.domain.repository.LocationLogRepository logRepo)" />
+  <problem_class id="UnnecessaryThis" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unnecessary 'this' qualifier</problem_class>
+  <description>&lt;code&gt;this&lt;/code&gt; is unnecessary in this context #loc</description>
+  <highlighted_element>this</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>54</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt;&gt; getGridData()" />
+  <problem_class id="UnnecessaryThis" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unnecessary 'this' qualifier</problem_class>
+  <description>&lt;code&gt;this&lt;/code&gt; is unnecessary in this context #loc</description>
+  <highlighted_element>this</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>58</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt;&gt; getAllLogs()" />
+  <problem_class id="UnnecessaryThis" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unnecessary 'this' qualifier</problem_class>
+  <description>&lt;code&gt;this&lt;/code&gt; is unnecessary in this context #loc</description>
+  <highlighted_element>this</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+</problem>
+</problems>

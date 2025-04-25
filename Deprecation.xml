@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/GeoQuizDatabase.java</file>
+  <line>27</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.GeoQuizDatabase com.example.geoquiz.data.local.database.GeoQuizDatabase getInstance(android.app.Application context)" />
+  <problem_class id="Deprecation" severity="WARNING" attribute_key="DEPRECATED_ATTRIBUTES">Deprecated API usage</problem_class>
+  <description>'fallbackToDestructiveMigration()' is deprecated</description>
+  <highlighted_element>fallbackToDestructiveMigration</highlighted_element>
+  <language>JAVA</language>
+  <offset>29</offset>
+  <length>30</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/di/AppModule.java</file>
+  <line>32</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.di</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.di.AppModule com.example.geoquiz.data.local.database.GeoQuizDatabase provideDatabase(android.content.Context context)" />
+  <problem_class id="Deprecation" severity="WARNING" attribute_key="DEPRECATED_ATTRIBUTES">Deprecated API usage</problem_class>
+  <description>'fallbackToDestructiveMigration()' is deprecated</description>
+  <highlighted_element>fallbackToDestructiveMigration</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>30</length>
+</problem>
+</problems>

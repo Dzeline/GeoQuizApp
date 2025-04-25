@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>26</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter$1" />
+  <problem_class id="Convert2Diamond" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Explicit type can be replaced with '&lt;&gt;'</problem_class>
+  <description>Explicit type argument MessageEntity can be replaced with &lt;&gt;</description>
+  <highlighted_element>MessageEntity</highlighted_element>
+  <language>JAVA</language>
+  <offset>104</offset>
+  <length>13</length>
+</problem>
+</problems>

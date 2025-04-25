@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>25</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter RiderHistoryAdapter(android.content.Context context, java.util.List&lt;com.example.geoquiz.domain.model.RiderInfo&gt; riderList, com.example.geoquiz.domain.RiderHistoryAdapter.OnRiderClickListener listener)" />
+  <problem_class id="BoundedWildcard" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Can use bounded wildcard</problem_class>
+  <description>Can generalize to &lt;code&gt;? extends RiderInfo&lt;/code&gt; #loc</description>
+  <highlighted_element>RiderInfo</highlighted_element>
+  <language>JAVA</language>
+  <offset>53</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>80</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void plotMarkers(java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt; logs)" />
+  <problem_class id="BoundedWildcard" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Can use bounded wildcard</problem_class>
+  <description>Can generalize to &lt;code&gt;? extends LocationLogEntity&lt;/code&gt; #loc</description>
+  <highlighted_element>LocationLogEntity</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>87</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel java.util.List&lt;java.lang.String&gt; buildGridFromLogs(java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt; logs)" />
+  <problem_class id="BoundedWildcard" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Can use bounded wildcard</problem_class>
+  <description>Can generalize to &lt;code&gt;? extends LocationLogEntity&lt;/code&gt; #loc</description>
+  <highlighted_element>LocationLogEntity</highlighted_element>
+  <language>JAVA</language>
+  <offset>47</offset>
+  <length>17</length>
+</problem>
+</problems>

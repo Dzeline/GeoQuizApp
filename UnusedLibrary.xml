@@ -1,0 +1,1622 @@
+<problems>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.databinding:viewbinding:8.9.1@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.databinding:viewbinding:8.9.1@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: com.google.dagger:hilt-android:2.56.1@aar" />
+  </hints>
+  <description>Unused library 'Gradle: com.google.dagger:hilt-android:2.56.1@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: com.google.dagger:dagger-lint-aar:2.56.1@aar" />
+  </hints>
+  <description>Unused library 'Gradle: com.google.dagger:dagger-lint-aar:2.56.1@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.activity:activity:1.8.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.activity:activity:1.8.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.lifecycle:lifecycle-viewmodel-android:2.8.7@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.lifecycle:lifecycle-viewmodel-android:2.8.7@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.core:core-ktx:1.16.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.core:core-ktx:1.16.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.8.7@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.lifecycle:lifecycle-livedata-core:2.8.7@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.savedstate:savedstate:1.2.1@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.savedstate:savedstate:1.2.1@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.fragment:fragment:1.5.4@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.fragment:fragment:1.5.4@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.loader:loader:1.0.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.loader:loader:1.0.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.lifecycle:lifecycle-livedata:2.8.7@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.lifecycle:lifecycle-livedata:2.8.7@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.viewpager:viewpager:1.0.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.viewpager:viewpager:1.0.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.customview:customview:1.1.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.customview:customview:1.1.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.room:room-runtime-android:2.7.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.room:room-runtime-android:2.7.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.sqlite:sqlite-android:2.5.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.sqlite:sqlite-android:2.5.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.sqlite:sqlite-framework-android:2.5.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.sqlite:sqlite-framework-android:2.5.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.room:room-ktx:2.7.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.room:room-ktx:2.7.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.lifecycle:lifecycle-livedata-ktx:2.8.7@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.lifecycle:lifecycle-livedata-ktx:2.8.7@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.appcompat:appcompat:1.7.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.appcompat:appcompat:1.7.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.appcompat:appcompat-resources:1.7.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.appcompat:appcompat-resources:1.7.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.drawerlayout:drawerlayout:1.1.1@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.drawerlayout:drawerlayout:1.1.1@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: com.google.android.material:material:1.12.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: com.google.android.material:material:1.12.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.cardview:cardview:1.0.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.cardview:cardview:1.0.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.constraintlayout:constraintlayout:2.2.1@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.constraintlayout:constraintlayout:2.2.1@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.dynamicanimation:dynamicanimation:1.0.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.dynamicanimation:dynamicanimation:1.0.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.documentfile:documentfile:1.0.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.documentfile:documentfile:1.0.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.print:print:1.0.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.print:print:1.0.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.recyclerview:recyclerview:1.1.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.recyclerview:recyclerview:1.1.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.transition:transition:1.5.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.transition:transition:1.5.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.viewpager2:viewpager2:1.0.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.viewpager2:viewpager2:1.0.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: org.osmdroid:osmdroid-android:6.1.20@aar" />
+  </hints>
+  <description>Unused library 'Gradle: org.osmdroid:osmdroid-android:6.1.20@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: com.google.dagger:dagger:2.56.1" />
+  </hints>
+  <description>Unused library 'Gradle: com.google.dagger:dagger:2.56.1'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: jakarta.inject:jakarta.inject-api:2.0.1" />
+  </hints>
+  <description>Unused library 'Gradle: jakarta.inject:jakarta.inject-api:2.0.1'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: javax.inject:javax.inject:1" />
+  </hints>
+  <description>Unused library 'Gradle: javax.inject:javax.inject:1'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: com.google.dagger:hilt-core:2.56.1" />
+  </hints>
+  <description>Unused library 'Gradle: com.google.dagger:hilt-core:2.56.1'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: com.google.code.findbugs:jsr305:3.0.2" />
+  </hints>
+  <description>Unused library 'Gradle: com.google.code.findbugs:jsr305:3.0.2'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.22" />
+  </hints>
+  <description>Unused library 'Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.22'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.22" />
+  </hints>
+  <description>Unused library 'Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.22'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3" />
+  </hints>
+  <description>Unused library 'Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.room:room-common-jvm:2.7.0" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.room:room-common-jvm:2.7.0'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.unitTest</file>
+  <module>GeoQuiz.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.unitTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.resourceinspection:resourceinspection-annotation:1.0.1" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.resourceinspection:resourceinspection-annotation:1.0.1'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.test.services:storage:1.5.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.test.services:storage:1.5.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.test.espresso:espresso-core:3.6.1@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.test.espresso:espresso-core:3.6.1@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.test.espresso:espresso-idling-resource:3.6.1@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.test.espresso:espresso-idling-resource:3.6.1@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.test:runner:1.6.1@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.test:runner:1.6.1@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.databinding:viewbinding:8.9.1@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.databinding:viewbinding:8.9.1@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: com.google.dagger:hilt-android:2.56.1@aar" />
+  </hints>
+  <description>Unused library 'Gradle: com.google.dagger:hilt-android:2.56.1@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: com.google.dagger:dagger-lint-aar:2.56.1@aar" />
+  </hints>
+  <description>Unused library 'Gradle: com.google.dagger:dagger-lint-aar:2.56.1@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.activity:activity:1.8.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.activity:activity:1.8.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.core:core:1.16.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.core:core:1.16.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.annotation:annotation-experimental:1.4.1@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.annotation:annotation-experimental:1.4.1@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.core:core-viewtree:1.0.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.core:core-viewtree:1.0.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.lifecycle:lifecycle-runtime-android:2.8.7@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.lifecycle:lifecycle-runtime-android:2.8.7@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.1@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.versionedparcelable:versionedparcelable:1.1.1@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.lifecycle:lifecycle-viewmodel-android:2.8.7@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.lifecycle:lifecycle-viewmodel-android:2.8.7@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.core:core-ktx:1.16.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.core:core-ktx:1.16.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.8.7@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.lifecycle:lifecycle-livedata-core:2.8.7@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.savedstate:savedstate:1.2.1@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.savedstate:savedstate:1.2.1@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.fragment:fragment:1.5.4@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.fragment:fragment:1.5.4@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.loader:loader:1.0.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.loader:loader:1.0.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.lifecycle:lifecycle-livedata:2.8.7@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.lifecycle:lifecycle-livedata:2.8.7@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.arch.core:core-runtime:2.2.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.arch.core:core-runtime:2.2.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.viewpager:viewpager:1.0.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.viewpager:viewpager:1.0.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.customview:customview:1.1.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.customview:customview:1.1.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.room:room-runtime-android:2.7.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.room:room-runtime-android:2.7.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.sqlite:sqlite-android:2.5.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.sqlite:sqlite-android:2.5.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.sqlite:sqlite-framework-android:2.5.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.sqlite:sqlite-framework-android:2.5.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.room:room-ktx:2.7.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.room:room-ktx:2.7.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.lifecycle:lifecycle-livedata-ktx:2.8.7@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.lifecycle:lifecycle-livedata-ktx:2.8.7@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.appcompat:appcompat:1.7.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.appcompat:appcompat:1.7.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.appcompat:appcompat-resources:1.7.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.appcompat:appcompat-resources:1.7.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.interpolator:interpolator:1.0.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.interpolator:interpolator:1.0.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.drawerlayout:drawerlayout:1.1.1@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.drawerlayout:drawerlayout:1.1.1@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: com.google.android.material:material:1.12.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: com.google.android.material:material:1.12.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.cardview:cardview:1.0.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.cardview:cardview:1.0.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.constraintlayout:constraintlayout:2.2.1@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.constraintlayout:constraintlayout:2.2.1@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.dynamicanimation:dynamicanimation:1.0.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.dynamicanimation:dynamicanimation:1.0.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.documentfile:documentfile:1.0.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.documentfile:documentfile:1.0.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.print:print:1.0.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.print:print:1.0.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.recyclerview:recyclerview:1.1.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.recyclerview:recyclerview:1.1.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.transition:transition:1.5.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.transition:transition:1.5.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.viewpager2:viewpager2:1.0.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.viewpager2:viewpager2:1.0.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: org.osmdroid:osmdroid-android:6.1.20@aar" />
+  </hints>
+  <description>Unused library 'Gradle: org.osmdroid:osmdroid-android:6.1.20@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.concurrent:concurrent-futures-ktx:1.1.0" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.concurrent:concurrent-futures-ktx:1.1.0'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.22" />
+  </hints>
+  <description>Unused library 'Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.22'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.22" />
+  </hints>
+  <description>Unused library 'Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.22'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: com.google.code.findbugs:jsr305:3.0.2" />
+  </hints>
+  <description>Unused library 'Gradle: com.google.code.findbugs:jsr305:3.0.2'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: javax.inject:javax.inject:1" />
+  </hints>
+  <description>Unused library 'Gradle: javax.inject:javax.inject:1'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: org.hamcrest:hamcrest-library:1.3" />
+  </hints>
+  <description>Unused library 'Gradle: org.hamcrest:hamcrest-library:1.3'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: com.google.dagger:dagger:2.56.1" />
+  </hints>
+  <description>Unused library 'Gradle: com.google.dagger:dagger:2.56.1'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: jakarta.inject:jakarta.inject-api:2.0.1" />
+  </hints>
+  <description>Unused library 'Gradle: jakarta.inject:jakarta.inject-api:2.0.1'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: org.jspecify:jspecify:1.0.0" />
+  </hints>
+  <description>Unused library 'Gradle: org.jspecify:jspecify:1.0.0'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: com.google.dagger:hilt-core:2.56.1" />
+  </hints>
+  <description>Unused library 'Gradle: com.google.dagger:hilt-core:2.56.1'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.arch.core:core-common:2.2.0" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.arch.core:core-common:2.2.0'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3" />
+  </hints>
+  <description>Unused library 'Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.collection:collection-jvm:1.4.2" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.collection:collection-jvm:1.4.2'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.room:room-common-jvm:2.7.0" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.room:room-common-jvm:2.7.0'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.androidTest</file>
+  <module>GeoQuiz.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.androidTest" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.resourceinspection:resourceinspection-annotation:1.0.1" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.resourceinspection:resourceinspection-annotation:1.0.1'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.main</file>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.main" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.databinding:viewbinding:8.9.1@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.databinding:viewbinding:8.9.1@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.main</file>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.main" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: com.google.dagger:dagger-lint-aar:2.56.1@aar" />
+  </hints>
+  <description>Unused library 'Gradle: com.google.dagger:dagger-lint-aar:2.56.1@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.main</file>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.main" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.lifecycle:lifecycle-livedata:2.8.7@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.lifecycle:lifecycle-livedata:2.8.7@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.main</file>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.main" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.main</file>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.main" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.room:room-ktx:2.7.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.room:room-ktx:2.7.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.main</file>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.main" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.main</file>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.main" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.lifecycle:lifecycle-livedata-ktx:2.8.7@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.lifecycle:lifecycle-livedata-ktx:2.8.7@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.main</file>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.main" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.main</file>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.main" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.main</file>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.main" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.documentfile:documentfile:1.0.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.documentfile:documentfile:1.0.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.main</file>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.main" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.main</file>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.main" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.print:print:1.0.0@aar" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.print:print:1.0.0@aar'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.main</file>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.main" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: com.google.code.findbugs:jsr305:3.0.2" />
+  </hints>
+  <description>Unused library 'Gradle: com.google.code.findbugs:jsr305:3.0.2'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.main</file>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.main" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.22" />
+  </hints>
+  <description>Unused library 'Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.22'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.main</file>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.main" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.22" />
+  </hints>
+  <description>Unused library 'Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.22'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.main</file>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.main" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3" />
+  </hints>
+  <description>Unused library 'Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3'</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>GeoQuiz.app.main</file>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="module" FQNAME="GeoQuiz.app.main" />
+  <problem_class id="UnusedLibrary" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused library</problem_class>
+  <hints>
+    <hint value="Gradle: androidx.resourceinspection:resourceinspection-annotation:1.0.1" />
+  </hints>
+  <description>Unused library 'Gradle: androidx.resourceinspection:resourceinspection-annotation:1.0.1'</description>
+  <highlighted_element />
+  <language />
+</problem>
+</problems>

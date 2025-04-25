@@ -1,0 +1,3245 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/ExampleInstrumentedTest.kt</file>
+  <line>22</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.ExampleInstrumentedTest void useAppContext()" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'geoquiz'</description>
+  <highlighted_element>geoquiz</highlighted_element>
+  <language>kotlin</language>
+  <offset>34</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml</file>
+  <line>23</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'smsto'</description>
+  <highlighted_element>smsto</highlighted_element>
+  <language>XML</language>
+  <offset>34</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml</file>
+  <line>35</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'appicon'</description>
+  <highlighted_element>appicon</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>36</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'riderequest'</description>
+  <highlighted_element>riderequest</highlighted_element>
+  <language>JAVA</language>
+  <offset>58</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>45</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'coords'</description>
+  <highlighted_element>coords</highlighted_element>
+  <language>JAVA</language>
+  <offset>37</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_btn_borderless_material.xml</file>
+  <line>18</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_btn_borderless_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>83</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_btn_borderless_material.xml</file>
+  <line>19</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_btn_borderless_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>83</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_btn_check_material.xml</file>
+  <line>18</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_btn_check_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>87</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_btn_check_material.xml</file>
+  <line>19</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_btn_check_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>58</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_btn_check_material_anim.xml</file>
+  <line>25</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_btn_check_material_anim.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>61</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_btn_check_material_anim.xml</file>
+  <line>28</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_btn_check_material_anim.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>63</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_btn_check_material_anim.xml</file>
+  <line>32</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_btn_check_material_anim.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>74</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_btn_check_material_anim.xml</file>
+  <line>36</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_btn_check_material_anim.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>74</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_btn_colored_material.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_btn_colored_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>54</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_btn_radio_material.xml</file>
+  <line>18</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_btn_radio_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>87</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_btn_radio_material.xml</file>
+  <line>19</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_btn_radio_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>58</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_btn_radio_material_anim.xml</file>
+  <line>25</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_btn_radio_material_anim.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>53</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_btn_radio_material_anim.xml</file>
+  <line>28</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_btn_radio_material_anim.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>54</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_btn_radio_material_anim.xml</file>
+  <line>32</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_btn_radio_material_anim.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>60</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_btn_radio_material_anim.xml</file>
+  <line>36</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_btn_radio_material_anim.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>60</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_edit_text_material.xml</file>
+  <line>24</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_edit_text_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'textfield'</description>
+  <highlighted_element>textfield</highlighted_element>
+  <language>XML</language>
+  <offset>76</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_edit_text_material.xml</file>
+  <line>24</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_edit_text_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>94</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_edit_text_material.xml</file>
+  <line>25</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_edit_text_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'textfield'</description>
+  <highlighted_element>textfield</highlighted_element>
+  <language>XML</language>
+  <offset>106</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_edit_text_material.xml</file>
+  <line>25</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_edit_text_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>124</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_edit_text_material.xml</file>
+  <line>26</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_edit_text_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'textfield'</description>
+  <highlighted_element>textfield</highlighted_element>
+  <language>XML</language>
+  <offset>46</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_edit_text_material.xml</file>
+  <line>26</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_edit_text_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>66</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_list_selector_background_transition_holo_dark.xml</file>
+  <line>19</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_list_selector_background_transition_holo_dark.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'longpressed'</description>
+  <highlighted_element>longpressed</highlighted_element>
+  <language>XML</language>
+  <offset>47</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_list_selector_background_transition_holo_light.xml</file>
+  <line>19</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_list_selector_background_transition_holo_light.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'longpressed'</description>
+  <highlighted_element>longpressed</highlighted_element>
+  <language>XML</language>
+  <offset>47</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_seekbar_thumb_material.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_seekbar_thumb_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>64</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_seekbar_thumb_material.xml</file>
+  <line>24</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_seekbar_thumb_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>64</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_seekbar_thumb_material.xml</file>
+  <line>28</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_seekbar_thumb_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>71</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_seekbar_thumb_material.xml</file>
+  <line>32</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_seekbar_thumb_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>71</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_seekbar_track_material.xml</file>
+  <line>19</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_seekbar_track_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>57</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_seekbar_track_material.xml</file>
+  <line>26</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_seekbar_track_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>71</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_seekbar_track_material.xml</file>
+  <line>36</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_seekbar_track_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>71</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_spinner_textfield_background_material.xml</file>
+  <line>25</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_spinner_textfield_background_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'textfield'</description>
+  <highlighted_element>textfield</highlighted_element>
+  <language>XML</language>
+  <offset>54</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_spinner_textfield_background_material.xml</file>
+  <line>25</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_spinner_textfield_background_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>72</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_spinner_textfield_background_material.xml</file>
+  <line>26</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_spinner_textfield_background_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>62</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_spinner_textfield_background_material.xml</file>
+  <line>31</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_spinner_textfield_background_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'textfield'</description>
+  <highlighted_element>textfield</highlighted_element>
+  <language>XML</language>
+  <offset>54</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_spinner_textfield_background_material.xml</file>
+  <line>31</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_spinner_textfield_background_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>74</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_spinner_textfield_background_material.xml</file>
+  <line>32</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_spinner_textfield_background_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>62</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_switch_thumb_material.xml</file>
+  <line>18</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_switch_thumb_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>88</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_switch_thumb_material.xml</file>
+  <line>19</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_switch_thumb_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>59</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_tab_indicator_material.xml</file>
+  <line>18</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_tab_indicator_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>86</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_textfield_search_material.xml</file>
+  <line>18</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_textfield_search_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'textfield'</description>
+  <highlighted_element>textfield</highlighted_element>
+  <language>XML</language>
+  <offset>100</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_textfield_search_material.xml</file>
+  <line>18</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_textfield_search_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>127</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_textfield_search_material.xml</file>
+  <line>19</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_textfield_search_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'textfield'</description>
+  <highlighted_element>textfield</highlighted_element>
+  <language>XML</language>
+  <offset>102</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_textfield_search_material.xml</file>
+  <line>19</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_textfield_search_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>129</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_textfield_search_material.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_textfield_search_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'textfield'</description>
+  <highlighted_element>textfield</highlighted_element>
+  <language>XML</language>
+  <offset>71</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_textfield_search_material.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_textfield_search_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>96</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_textfield_search_material.xml</file>
+  <line>21</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_textfield_search_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'textfield'</description>
+  <highlighted_element>textfield</highlighted_element>
+  <language>XML</language>
+  <offset>42</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/abc_textfield_search_material.xml</file>
+  <line>21</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/abc_textfield_search_material.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>67</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml</file>
+  <line>21</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>57</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml</file>
+  <line>21</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>59</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/btn_radio_off_mtrl.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/btn_radio_off_mtrl.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>38</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/btn_radio_off_mtrl.xml</file>
+  <line>26</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/btn_radio_off_mtrl.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>42</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/btn_radio_off_to_on_mtrl_animation.xml</file>
+  <line>21</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/btn_radio_off_to_on_mtrl_animation.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>50</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/btn_radio_off_to_on_mtrl_animation.xml</file>
+  <line>25</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/btn_radio_off_to_on_mtrl_animation.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>53</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/btn_radio_off_to_on_mtrl_animation.xml</file>
+  <line>28</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/btn_radio_off_to_on_mtrl_animation.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>53</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/btn_radio_off_to_on_mtrl_animation.xml</file>
+  <line>31</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/btn_radio_off_to_on_mtrl_animation.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>53</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/btn_radio_on_mtrl.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/btn_radio_on_mtrl.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>39</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/btn_radio_on_mtrl.xml</file>
+  <line>26</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/btn_radio_on_mtrl.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>43</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/btn_radio_on_to_off_mtrl_animation.xml</file>
+  <line>21</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/btn_radio_on_to_off_mtrl_animation.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>49</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/btn_radio_on_to_off_mtrl_animation.xml</file>
+  <line>25</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/btn_radio_on_to_off_mtrl_animation.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>54</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/btn_radio_on_to_off_mtrl_animation.xml</file>
+  <line>28</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/btn_radio_on_to_off_mtrl_animation.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>54</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/btn_radio_on_to_off_mtrl_animation.xml</file>
+  <line>31</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/btn_radio_on_to_off_mtrl_animation.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>54</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/design_box_stroke_color.xml</file>
+  <line>18</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/design_box_stroke_color.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/design_box_stroke_color.xml</file>
+  <line>18</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/design_box_stroke_color.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'textinput'</description>
+  <highlighted_element>textinput</highlighted_element>
+  <language>XML</language>
+  <offset>35</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/design_box_stroke_color.xml</file>
+  <line>19</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/design_box_stroke_color.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/design_box_stroke_color.xml</file>
+  <line>19</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/design_box_stroke_color.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'textinput'</description>
+  <highlighted_element>textinput</highlighted_element>
+  <language>XML</language>
+  <offset>35</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/design_box_stroke_color.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/design_box_stroke_color.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/design_box_stroke_color.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/design_box_stroke_color.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'textinput'</description>
+  <highlighted_element>textinput</highlighted_element>
+  <language>XML</language>
+  <offset>35</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/design_box_stroke_color.xml</file>
+  <line>21</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/design_box_stroke_color.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/design_box_stroke_color.xml</file>
+  <line>21</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/design_box_stroke_color.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'textinput'</description>
+  <highlighted_element>textinput</highlighted_element>
+  <language>XML</language>
+  <offset>35</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/design_snackbar_background.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/design_snackbar_background.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'snackbar'</description>
+  <highlighted_element>snackbar</highlighted_element>
+  <language>XML</language>
+  <offset>41</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/design_snackbar_background.xml</file>
+  <line>21</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/design_snackbar_background.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'snackbar'</description>
+  <highlighted_element>snackbar</highlighted_element>
+  <language>XML</language>
+  <offset>38</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/m3_simple_item_ripple_color.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/m3_simple_item_ripple_color.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'dropdown's'</description>
+  <highlighted_element>dropdown's</highlighted_element>
+  <language>XML</language>
+  <offset>25</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_btn_ripple_color.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_btn_ripple_color.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_btn_ripple_color.xml</file>
+  <line>21</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_btn_ripple_color.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_btn_ripple_color.xml</file>
+  <line>22</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_btn_ripple_color.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_btn_ripple_color.xml</file>
+  <line>23</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_btn_ripple_color.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_btn_ripple_color.xml</file>
+  <line>24</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_btn_ripple_color.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_btn_text_btn_ripple_color.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_btn_text_btn_ripple_color.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_btn_text_btn_ripple_color.xml</file>
+  <line>21</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_btn_text_btn_ripple_color.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_btn_text_btn_ripple_color.xml</file>
+  <line>22</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_btn_text_btn_ripple_color.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_btn_text_btn_ripple_color.xml</file>
+  <line>23</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_btn_text_btn_ripple_color.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_btn_text_btn_ripple_color.xml</file>
+  <line>24</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_btn_text_btn_ripple_color.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button.xml</file>
+  <line>23</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button.xml</file>
+  <line>27</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button.xml</file>
+  <line>31</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button.xml</file>
+  <line>37</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button.xml</file>
+  <line>41</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button.xml</file>
+  <line>46</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button.xml</file>
+  <line>50</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_checked_unchecked.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_checked_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_checked_unchecked.xml</file>
+  <line>22</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_checked_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_checked_unchecked.xml</file>
+  <line>33</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_checked_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_checked_unchecked.xml</file>
+  <line>44</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_checked_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon.xml</file>
+  <line>23</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon.xml</file>
+  <line>27</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon.xml</file>
+  <line>37</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon.xml</file>
+  <line>41</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon.xml</file>
+  <line>46</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon.xml</file>
+  <line>50</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon.xml</file>
+  <line>55</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon.xml</file>
+  <line>59</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_checked_indeterminate.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_checked_indeterminate.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_checked_indeterminate.xml</file>
+  <line>22</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_checked_indeterminate.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_checked_indeterminate.xml</file>
+  <line>28</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_checked_indeterminate.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>35</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_checked_indeterminate.xml</file>
+  <line>29</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_checked_indeterminate.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>33</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_checked_unchecked.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_checked_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_checked_unchecked.xml</file>
+  <line>22</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_checked_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_checked_unchecked.xml</file>
+  <line>33</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_checked_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_checked_unchecked.xml</file>
+  <line>44</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_checked_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_indeterminate_checked.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_indeterminate_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_indeterminate_checked.xml</file>
+  <line>22</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_indeterminate_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_indeterminate_checked.xml</file>
+  <line>28</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_indeterminate_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>35</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_indeterminate_checked.xml</file>
+  <line>29</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_indeterminate_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>33</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_indeterminate_unchecked.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_indeterminate_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_indeterminate_unchecked.xml</file>
+  <line>22</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_indeterminate_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_indeterminate_unchecked.xml</file>
+  <line>33</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_indeterminate_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_indeterminate_unchecked.xml</file>
+  <line>44</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_indeterminate_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_unchecked_checked.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_unchecked_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_unchecked_checked.xml</file>
+  <line>22</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_unchecked_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_unchecked_checked.xml</file>
+  <line>33</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_unchecked_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_unchecked_checked.xml</file>
+  <line>44</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_unchecked_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_unchecked_indeterminate.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_unchecked_indeterminate.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_unchecked_indeterminate.xml</file>
+  <line>22</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_unchecked_indeterminate.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_unchecked_indeterminate.xml</file>
+  <line>33</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_unchecked_indeterminate.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_unchecked_indeterminate.xml</file>
+  <line>44</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_icon_unchecked_indeterminate.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_unchecked_checked.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_unchecked_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_unchecked_checked.xml</file>
+  <line>22</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_unchecked_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_unchecked_checked.xml</file>
+  <line>33</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_unchecked_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_unchecked_checked.xml</file>
+  <line>44</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_checkbox_button_unchecked_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_choice_chip_ripple_color.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_choice_chip_ripple_color.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_choice_chip_ripple_color.xml</file>
+  <line>21</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_choice_chip_ripple_color.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_choice_chip_ripple_color.xml</file>
+  <line>22</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_choice_chip_ripple_color.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_choice_chip_ripple_color.xml</file>
+  <line>23</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_choice_chip_ripple_color.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_choice_chip_ripple_color.xml</file>
+  <line>24</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_choice_chip_ripple_color.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_dialog_background.xml</file>
+  <line>23</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_dialog_background.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>36</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_dropdown_arrow.xml</file>
+  <line>21</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_dropdown_arrow.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>34</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_dropdown_arrow.xml</file>
+  <line>25</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_dropdown_arrow.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>34</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_fab_ripple_color.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_fab_ripple_color.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_fab_ripple_color.xml</file>
+  <line>21</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_fab_ripple_color.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_fab_ripple_color.xml</file>
+  <line>22</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_fab_ripple_color.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_fab_ripple_color.xml</file>
+  <line>23</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_fab_ripple_color.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_fab_ripple_color.xml</file>
+  <line>24</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_fab_ripple_color.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_ic_check_mark.xml</file>
+  <line>25</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_ic_check_mark.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>26</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_ic_check_mark.xml</file>
+  <line>29</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_ic_check_mark.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>28</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_ic_check_mark.xml</file>
+  <line>31</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_ic_check_mark.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_ic_checkbox_checked.xml</file>
+  <line>27</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_ic_checkbox_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_ic_checkbox_checked.xml</file>
+  <line>30</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_ic_checkbox_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>26</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_ic_checkbox_checked.xml</file>
+  <line>34</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_ic_checkbox_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>28</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_ic_checkbox_checked.xml</file>
+  <line>36</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_ic_checkbox_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_ic_checkbox_unchecked.xml</file>
+  <line>27</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_ic_checkbox_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_ic_indeterminate.xml</file>
+  <line>25</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_ic_indeterminate.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>26</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_ic_indeterminate.xml</file>
+  <line>29</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_ic_indeterminate.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>28</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_ic_indeterminate.xml</file>
+  <line>31</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_ic_indeterminate.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_on_primary_text_btn_text_color_selector.xml</file>
+  <line>18</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_on_primary_text_btn_text_color_selector.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>22</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_on_surface_ripple_color.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_on_surface_ripple_color.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_on_surface_ripple_color.xml</file>
+  <line>21</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_on_surface_ripple_color.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_on_surface_ripple_color.xml</file>
+  <line>22</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_on_surface_ripple_color.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_on_surface_ripple_color.xml</file>
+  <line>23</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_on_surface_ripple_color.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>24</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb.xml</file>
+  <line>21</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>25</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb.xml</file>
+  <line>26</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb.xml</file>
+  <line>31</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb.xml</file>
+  <line>36</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb.xml</file>
+  <line>41</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb.xml</file>
+  <line>46</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb.xml</file>
+  <line>51</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb.xml</file>
+  <line>56</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb.xml</file>
+  <line>61</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb.xml</file>
+  <line>66</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb.xml</file>
+  <line>71</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb.xml</file>
+  <line>76</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb.xml</file>
+  <line>81</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked.xml</file>
+  <line>19</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>24</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>25</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked.xml</file>
+  <line>21</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>35</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked.xml</file>
+  <line>22</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>34</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked.xml</file>
+  <line>26</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>26</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked.xml</file>
+  <line>27</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>29</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked.xml</file>
+  <line>28</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>29</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked.xml</file>
+  <line>30</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>28</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked.xml</file>
+  <line>32</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_pressed.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_pressed.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_pressed.xml</file>
+  <line>23</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_pressed.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_pressed.xml</file>
+  <line>26</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_pressed.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>35</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_pressed.xml</file>
+  <line>29</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_pressed.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>35</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_pressed.xml</file>
+  <line>30</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_pressed.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>33</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_unchecked.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_unchecked.xml</file>
+  <line>26</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>34</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_unchecked.xml</file>
+  <line>29</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>37</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_unchecked.xml</file>
+  <line>31</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>37</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_unchecked.xml</file>
+  <line>32</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>35</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_unchecked.xml</file>
+  <line>36</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>34</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_unchecked.xml</file>
+  <line>39</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>40</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_unchecked.xml</file>
+  <line>40</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>37</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_unchecked.xml</file>
+  <line>42</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>37</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_unchecked.xml</file>
+  <line>43</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>35</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed.xml</file>
+  <line>19</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>24</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>25</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed.xml</file>
+  <line>21</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>35</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed.xml</file>
+  <line>22</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>34</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed.xml</file>
+  <line>26</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>26</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed.xml</file>
+  <line>27</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>29</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed.xml</file>
+  <line>28</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>29</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed.xml</file>
+  <line>30</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>28</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed.xml</file>
+  <line>32</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed_checked.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed_checked.xml</file>
+  <line>23</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed_checked.xml</file>
+  <line>26</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>35</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed_checked.xml</file>
+  <line>29</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>35</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed_checked.xml</file>
+  <line>30</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>33</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed_unchecked.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed_unchecked.xml</file>
+  <line>23</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed_unchecked.xml</file>
+  <line>26</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>35</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed_unchecked.xml</file>
+  <line>29</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>35</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed_unchecked.xml</file>
+  <line>30</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_pressed_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>33</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked.xml</file>
+  <line>19</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>24</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>25</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked.xml</file>
+  <line>21</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>35</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked.xml</file>
+  <line>22</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>34</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked.xml</file>
+  <line>26</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>26</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked.xml</file>
+  <line>27</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>29</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked.xml</file>
+  <line>28</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>29</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked.xml</file>
+  <line>30</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>28</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked.xml</file>
+  <line>32</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_checked.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_checked.xml</file>
+  <line>26</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>34</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_checked.xml</file>
+  <line>29</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>37</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_checked.xml</file>
+  <line>31</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>37</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_checked.xml</file>
+  <line>32</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>35</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_checked.xml</file>
+  <line>36</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>34</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_checked.xml</file>
+  <line>39</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>40</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_checked.xml</file>
+  <line>40</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>37</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_checked.xml</file>
+  <line>42</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>37</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_checked.xml</file>
+  <line>43</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_checked.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>35</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_pressed.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_pressed.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_pressed.xml</file>
+  <line>23</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_pressed.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_pressed.xml</file>
+  <line>26</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_pressed.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>35</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_pressed.xml</file>
+  <line>29</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_pressed.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>35</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_pressed.xml</file>
+  <line>30</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_pressed.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>33</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_track.xml</file>
+  <line>19</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_track.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>24</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_track.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_track.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>25</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_track.xml</file>
+  <line>21</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_track.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>34</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_track.xml</file>
+  <line>22</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_track.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>35</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_track.xml</file>
+  <line>28</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_track.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_track_decoration.xml</file>
+  <line>19</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_track_decoration.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>24</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_track_decoration.xml</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_track_decoration.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>25</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_track_decoration.xml</file>
+  <line>21</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_track_decoration.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>34</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_track_decoration.xml</file>
+  <line>22</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_track_decoration.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>35</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_track_decoration.xml</file>
+  <line>29</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_track_decoration.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable-v23/mtrl_popupmenu_background_overlay.xml</file>
+  <line>32</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable-v23/mtrl_popupmenu_background_overlay.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mtrl'</description>
+  <highlighted_element>mtrl</highlighted_element>
+  <language>XML</language>
+  <offset>35</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/item_chat_message.xml</file>
+  <line>53</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/item_chat_message.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'statusavailable'</description>
+  <highlighted_element>statusavailable</highlighted_element>
+  <language>XML</language>
+  <offset>31</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/riderequest.xml</file>
+  <line>123</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/riderequest.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'gridtwist'</description>
+  <highlighted_element>gridtwist</highlighted_element>
+  <language>XML</language>
+  <offset>46</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/riderequest.xml</file>
+  <line>157</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/riderequest.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Backto'</description>
+  <highlighted_element>Backto</highlighted_element>
+  <language>XML</language>
+  <offset>32</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/riderequest.xml</file>
+  <line>161</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/riderequest.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'backto'</description>
+  <highlighted_element>backto</highlighted_element>
+  <language>XML</language>
+  <offset>34</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/riderider.xml</file>
+  <line>56</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/riderider.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'ridericon'</description>
+  <highlighted_element>ridericon</highlighted_element>
+  <language>XML</language>
+  <offset>42</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/values/strings.xml</file>
+  <line>34</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'backto'</description>
+  <highlighted_element>backto</highlighted_element>
+  <language>XML</language>
+  <offset>18</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew.bat</file>
+  <line>25</line>
+  <module>GeoQuiz</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew.bat" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'setlocal'</description>
+  <highlighted_element>setlocal</highlighted_element>
+  <language>textmate</language>
+  <offset>24</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew.bat</file>
+  <line>43</line>
+  <module>GeoQuiz</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew.bat" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'ERRORLEVEL'</description>
+  <highlighted_element>ERRORLEVEL</highlighted_element>
+  <language>textmate</language>
+  <offset>5</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew.bat</file>
+  <line>74</line>
+  <module>GeoQuiz</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew.bat" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Dorg'</description>
+  <highlighted_element>Dorg</highlighted_element>
+  <language>textmate</language>
+  <offset>60</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew.bat</file>
+  <line>74</line>
+  <module>GeoQuiz</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew.bat" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'appname'</description>
+  <highlighted_element>appname</highlighted_element>
+  <language>textmate</language>
+  <offset>72</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew.bat</file>
+  <line>87</line>
+  <module>GeoQuiz</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew.bat" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'endlocal'</description>
+  <highlighted_element>endlocal</highlighted_element>
+  <language>textmate</language>
+  <offset>24</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/script.js</file>
+  <line>17</line>
+  <module>GeoQuiz</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/script.js" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Batkovich'</description>
+  <highlighted_element>Batkovich</highlighted_element>
+  <language>TEXT</language>
+  <offset>19</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/styles.css</file>
+  <line>3</line>
+  <module>GeoQuiz</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/styles.css" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Neue'</description>
+  <highlighted_element>Neue</highlighted_element>
+  <language>TEXT</language>
+  <offset>27</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/styles.css</file>
+  <line>3</line>
+  <module>GeoQuiz</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/styles.css" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Lucida'</description>
+  <highlighted_element>Lucida</highlighted_element>
+  <language>TEXT</language>
+  <offset>51</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/styles.css</file>
+  <line>16</line>
+  <module>GeoQuiz</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/styles.css" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'grayout'</description>
+  <highlighted_element>grayout</highlighted_element>
+  <language>TEXT</language>
+  <offset>1</offset>
+  <length>7</length>
+</problem>
+</problems>

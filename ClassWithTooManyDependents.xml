@@ -1,0 +1,14 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/MessageEntity.java</file>
+  <line>14</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.data.local.database.MessageEntity" />
+  <problem_class id="ClassWithTooManyDependents" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Class with too many dependents</problem_class>
+  <hints />
+  <description>Class 'MessageEntity' has too many dependents (11 &gt; 10)</description>
+  <highlighted_element />
+  <language />
+</problem>
+</problems>

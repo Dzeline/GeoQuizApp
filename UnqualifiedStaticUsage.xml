@@ -1,0 +1,366 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/GeoQuizDatabase.java</file>
+  <line>22</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.GeoQuizDatabase com.example.geoquiz.data.local.database.GeoQuizDatabase getInstance(android.app.Application context)" />
+  <problem_class id="UnqualifiedStaticUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unqualified static access</problem_class>
+  <description>Unqualified static field access &lt;code&gt;INSTANCE&lt;/code&gt; #loc</description>
+  <highlighted_element>INSTANCE</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/GeoQuizDatabase.java</file>
+  <line>24</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.GeoQuizDatabase com.example.geoquiz.data.local.database.GeoQuizDatabase getInstance(android.app.Application context)" />
+  <problem_class id="UnqualifiedStaticUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unqualified static access</problem_class>
+  <description>Unqualified static field access &lt;code&gt;INSTANCE&lt;/code&gt; #loc</description>
+  <highlighted_element>INSTANCE</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/GeoQuizDatabase.java</file>
+  <line>25</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.GeoQuizDatabase com.example.geoquiz.data.local.database.GeoQuizDatabase getInstance(android.app.Application context)" />
+  <problem_class id="UnqualifiedStaticUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unqualified static access</problem_class>
+  <description>Unqualified static field access &lt;code&gt;INSTANCE&lt;/code&gt; #loc</description>
+  <highlighted_element>INSTANCE</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/GeoQuizDatabase.java</file>
+  <line>32</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.GeoQuizDatabase com.example.geoquiz.data.local.database.GeoQuizDatabase getInstance(android.app.Application context)" />
+  <problem_class id="UnqualifiedStaticUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unqualified static access</problem_class>
+  <description>Unqualified static field access &lt;code&gt;INSTANCE&lt;/code&gt; #loc</description>
+  <highlighted_element>INSTANCE</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/di/AppModule.java</file>
+  <line>31</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.di</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.di.AppModule com.example.geoquiz.data.local.database.GeoQuizDatabase provideDatabase(android.content.Context context)" />
+  <problem_class id="UnqualifiedStaticUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unqualified static access</problem_class>
+  <description>Unqualified static field access &lt;code&gt;DB_NAME&lt;/code&gt; #loc</description>
+  <highlighted_element>DB_NAME</highlighted_element>
+  <language>JAVA</language>
+  <offset>68</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>24</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter ChatMessageAdapter()" />
+  <problem_class id="UnqualifiedStaticUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unqualified static access</problem_class>
+  <description>Unqualified static field access &lt;code&gt;DIFF_CALLBACK&lt;/code&gt; #loc</description>
+  <highlighted_element>DIFF_CALLBACK</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>43</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter int getItemViewType(int position)" />
+  <problem_class id="UnqualifiedStaticUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unqualified static access</problem_class>
+  <description>Unqualified static field access &lt;code&gt;TYPE_SENT&lt;/code&gt; #loc</description>
+  <highlighted_element>TYPE_SENT</highlighted_element>
+  <language>JAVA</language>
+  <offset>61</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>43</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter int getItemViewType(int position)" />
+  <problem_class id="UnqualifiedStaticUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unqualified static access</problem_class>
+  <description>Unqualified static field access &lt;code&gt;TYPE_RECEIVED&lt;/code&gt; #loc</description>
+  <highlighted_element>TYPE_RECEIVED</highlighted_element>
+  <language>JAVA</language>
+  <offset>73</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>49</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter androidx.recyclerview.widget.RecyclerView.ViewHolder onCreateViewHolder(android.view.ViewGroup parent, int viewType)" />
+  <problem_class id="UnqualifiedStaticUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unqualified static access</problem_class>
+  <description>Unqualified static field access &lt;code&gt;TYPE_SENT&lt;/code&gt; #loc</description>
+  <highlighted_element>TYPE_SENT</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>123</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedStaticUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unqualified static access</problem_class>
+  <description>Unqualified static field access &lt;code&gt;SMS_PERMISSION_CODE&lt;/code&gt; #loc</description>
+  <highlighted_element>SMS_PERMISSION_CODE</highlighted_element>
+  <language>JAVA</language>
+  <offset>100</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>144</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onRequestPermissionsResult(int requestCode, java.lang.String[] permissions, int[] grantResults)" />
+  <problem_class id="UnqualifiedStaticUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unqualified static access</problem_class>
+  <description>Unqualified static field access &lt;code&gt;SMS_PERMISSION_CODE&lt;/code&gt; #loc</description>
+  <highlighted_element>SMS_PERMISSION_CODE</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>48</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedStaticUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unqualified static access</problem_class>
+  <description>Unqualified static field access &lt;code&gt;selectedPhoneNumber&lt;/code&gt; #loc</description>
+  <highlighted_element>selectedPhoneNumber</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>49</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedStaticUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unqualified static access</problem_class>
+  <description>Unqualified static field access &lt;code&gt;selectedPhoneNumber&lt;/code&gt; #loc</description>
+  <highlighted_element>selectedPhoneNumber</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>80</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedStaticUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unqualified static access</problem_class>
+  <description>Unqualified static field access &lt;code&gt;selectedPhoneNumber&lt;/code&gt; #loc</description>
+  <highlighted_element>selectedPhoneNumber</highlighted_element>
+  <language>JAVA</language>
+  <offset>41</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>91</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedStaticUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unqualified static access</problem_class>
+  <description>Unqualified static field access &lt;code&gt;selectedPhoneNumber&lt;/code&gt; #loc</description>
+  <highlighted_element>selectedPhoneNumber</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>92</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedStaticUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unqualified static access</problem_class>
+  <description>Unqualified static field access &lt;code&gt;selectedPhoneNumber&lt;/code&gt; #loc</description>
+  <highlighted_element>selectedPhoneNumber</highlighted_element>
+  <language>JAVA</language>
+  <offset>36</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>135</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void requestLocationAndSmsPermissions()" />
+  <problem_class id="UnqualifiedStaticUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unqualified static access</problem_class>
+  <description>Unqualified static field access &lt;code&gt;PERMISSION_CODE&lt;/code&gt; #loc</description>
+  <highlighted_element>PERMISSION_CODE</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>141</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onRequestPermissionsResult(int requestCode, java.lang.String[] permissions, int[] grantResults)" />
+  <problem_class id="UnqualifiedStaticUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unqualified static access</problem_class>
+  <description>Unqualified static field access &lt;code&gt;PERMISSION_CODE&lt;/code&gt; #loc</description>
+  <highlighted_element>PERMISSION_CODE</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleManager.java</file>
+  <line>26</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleManager void setRole(android.content.Context context, com.example.geoquiz.presentation.feature_role.RoleManager.Role role)" />
+  <problem_class id="UnqualifiedStaticUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unqualified static access</problem_class>
+  <description>Unqualified static field access &lt;code&gt;PREF_NAME&lt;/code&gt; #loc</description>
+  <highlighted_element>PREF_NAME</highlighted_element>
+  <language>JAVA</language>
+  <offset>63</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleManager.java</file>
+  <line>27</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleManager void setRole(android.content.Context context, com.example.geoquiz.presentation.feature_role.RoleManager.Role role)" />
+  <problem_class id="UnqualifiedStaticUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unqualified static access</problem_class>
+  <description>Unqualified static field access &lt;code&gt;KEY_ROLE&lt;/code&gt; #loc</description>
+  <highlighted_element>KEY_ROLE</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleManager.java</file>
+  <line>37</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleManager com.example.geoquiz.presentation.feature_role.RoleManager.Role getRole(android.content.Context context)" />
+  <problem_class id="UnqualifiedStaticUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unqualified static access</problem_class>
+  <description>Unqualified static field access &lt;code&gt;PREF_NAME&lt;/code&gt; #loc</description>
+  <highlighted_element>PREF_NAME</highlighted_element>
+  <language>JAVA</language>
+  <offset>64</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleManager.java</file>
+  <line>38</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleManager com.example.geoquiz.presentation.feature_role.RoleManager.Role getRole(android.content.Context context)" />
+  <problem_class id="UnqualifiedStaticUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unqualified static access</problem_class>
+  <description>Unqualified static field access &lt;code&gt;KEY_ROLE&lt;/code&gt; #loc</description>
+  <highlighted_element>KEY_ROLE</highlighted_element>
+  <language>JAVA</language>
+  <offset>45</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>37</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="UnqualifiedStaticUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unqualified static access</problem_class>
+  <description>Unqualified static field access &lt;code&gt;TAG&lt;/code&gt; #loc</description>
+  <highlighted_element>TAG</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>55</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="UnqualifiedStaticUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unqualified static access</problem_class>
+  <description>Unqualified static field access &lt;code&gt;TAG&lt;/code&gt; #loc</description>
+  <highlighted_element>TAG</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>57</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="UnqualifiedStaticUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unqualified static access</problem_class>
+  <description>Unqualified static field access &lt;code&gt;TAG&lt;/code&gt; #loc</description>
+  <highlighted_element>TAG</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>64</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="UnqualifiedStaticUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unqualified static access</problem_class>
+  <description>Unqualified static field access &lt;code&gt;TAG&lt;/code&gt; #loc</description>
+  <highlighted_element>TAG</highlighted_element>
+  <language>JAVA</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineSmsHelper.java</file>
+  <line>16</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineSmsHelper void sendLocationSMS(java.lang.String phoneNumber, java.lang.String payload)" />
+  <problem_class id="UnqualifiedStaticUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unqualified static access</problem_class>
+  <description>Unqualified static field access &lt;code&gt;TAG&lt;/code&gt; #loc</description>
+  <highlighted_element>TAG</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineSmsHelper.java</file>
+  <line>18</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineSmsHelper void sendLocationSMS(java.lang.String phoneNumber, java.lang.String payload)" />
+  <problem_class id="UnqualifiedStaticUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unqualified static access</problem_class>
+  <description>Unqualified static field access &lt;code&gt;TAG&lt;/code&gt; #loc</description>
+  <highlighted_element>TAG</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>3</length>
+</problem>
+</problems>

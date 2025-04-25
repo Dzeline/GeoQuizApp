@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/Converters.java</file>
+  <line>10</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.Converters java.util.Date fromTimestamp(java.lang.Long value)" />
+  <problem_class id="UseOfObsoleteDateTimeApi" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Use of obsolete date-time API</problem_class>
+  <description>Obsolete date-time type &lt;code&gt;Date&lt;/code&gt; used #loc</description>
+  <highlighted_element>Date</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/Converters.java</file>
+  <line>11</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.Converters java.util.Date fromTimestamp(java.lang.Long value)" />
+  <problem_class id="UseOfObsoleteDateTimeApi" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Use of obsolete date-time API</problem_class>
+  <description>Obsolete date-time type &lt;code&gt;Date&lt;/code&gt; used #loc</description>
+  <highlighted_element>Date</highlighted_element>
+  <language>JAVA</language>
+  <offset>42</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/Converters.java</file>
+  <line>15</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.Converters java.lang.Long dateToTimestamp(java.util.Date date)" />
+  <problem_class id="UseOfObsoleteDateTimeApi" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Use of obsolete date-time API</problem_class>
+  <description>Obsolete date-time type &lt;code&gt;Date&lt;/code&gt; used #loc</description>
+  <highlighted_element>Date</highlighted_element>
+  <language>JAVA</language>
+  <offset>39</offset>
+  <length>4</length>
+</problem>
+</problems>

@@ -1,0 +1,1458 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>18</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>GeoQuizDatabaseHelperTest</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>24</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void setUp()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>setUp</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>32</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void tearDown()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>tearDown</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>37</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertLog_ValidValues()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>testInsertLog_ValidValues</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>66</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertLog_InvalidValues()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>testInsertLog_InvalidValues</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>27</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>72</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertMultipleLogs()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>testInsertMultipleLogs</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/GeoQuizApp.java</file>
+  <line>8</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.GeoQuizApp" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>GeoQuizApp</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/Converters.java</file>
+  <line>8</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.data.local.database.Converters" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Converters</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/Converters.java</file>
+  <line>10</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.Converters java.util.Date fromTimestamp(java.lang.Long value)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>fromTimestamp</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/Converters.java</file>
+  <line>15</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.Converters java.lang.Long dateToTimestamp(java.util.Date date)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>dateToTimestamp</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/Converters.java</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.Converters java.lang.String fromList(java.util.List&lt;java.lang.String&gt; list)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>fromList</highlighted_element>
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/Converters.java</file>
+  <line>25</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.Converters java.util.List&lt;java.lang.String&gt; toList(java.lang.String data)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>toList</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/GeoQuizDatabase.java</file>
+  <line>14</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.data.local.database.GeoQuizDatabase" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>GeoQuizDatabase</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/GeoQuizDatabase.java</file>
+  <line>18</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.GeoQuizDatabase com.example.geoquiz.data.local.database.MessageDao messageDao()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>messageDao</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/GeoQuizDatabase.java</file>
+  <line>19</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.GeoQuizDatabase com.example.geoquiz.data.local.database.LocationLogDao locationLogDao()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>locationLogDao</highlighted_element>
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/GeoQuizDatabase.java</file>
+  <line>21</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.GeoQuizDatabase com.example.geoquiz.data.local.database.GeoQuizDatabase getInstance(android.app.Application context)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getInstance</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/GeoQuizDatabase.java</file>
+  <line>34</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="field" FQNAME="com.example.geoquiz.data.local.database.GeoQuizDatabase databaseWriteExecutor" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>databaseWriteExecutor</highlighted_element>
+  <language>JAVA</language>
+  <offset>40</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/LocationLogDao.java</file>
+  <line>33</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.LocationLogDao androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt;&gt; getAllLogsLive()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getAllLogsLive</highlighted_element>
+  <language>JAVA</language>
+  <offset>54</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/MessageDao.java</file>
+  <line>12</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.data.local.database.MessageDao" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>MessageDao</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/MessageDao.java</file>
+  <line>14</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.MessageDao long insertMessage(com.example.geoquiz.data.local.database.MessageEntity message)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>insertMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/MessageDao.java</file>
+  <line>17</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.MessageDao androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.MessageEntity&gt;&gt; getAllMessages()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getAllMessages</highlighted_element>
+  <language>JAVA</language>
+  <offset>50</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/MessageDao.java</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.MessageDao androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.MessageEntity&gt;&gt; getMessagesBetween(java.lang.String sender, java.lang.String receiver)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getMessagesBetween</highlighted_element>
+  <language>JAVA</language>
+  <offset>50</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/package-info.java</file>
+  <line>1</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/package-info.java" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>package com.example.geoquiz.data.local.database;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>48</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/repository/LocationLogRepositoryImpl.java</file>
+  <line>15</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.repository</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.data.local.repository.LocationLogRepositoryImpl" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>LocationLogRepositoryImpl</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/repository/LocationLogRepositoryImpl.java</file>
+  <line>18</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.repository</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.repository.LocationLogRepositoryImpl LocationLogRepositoryImpl(com.example.geoquiz.data.local.database.GeoQuizDatabase db)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>LocationLogRepositoryImpl</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/repository/MessageRepositoryImpl.java</file>
+  <line>15</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.repository</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.data.local.repository.MessageRepositoryImpl" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>MessageRepositoryImpl</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/repository/MessageRepositoryImpl.java</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.repository</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.repository.MessageRepositoryImpl MessageRepositoryImpl(com.example.geoquiz.data.local.database.GeoQuizDatabase db)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>MessageRepositoryImpl</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/repository/package-info.java</file>
+  <line>1</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.repository</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/repository/package-info.java" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>package com.example.geoquiz.data.local.repository;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>50</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/di/AppModule.java</file>
+  <line>25</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.di</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.di.AppModule" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>AppModule</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/di/AppModule.java</file>
+  <line>30</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.di</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.di.AppModule com.example.geoquiz.data.local.database.GeoQuizDatabase provideDatabase(android.content.Context context)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>provideDatabase</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/di/AppModule.java</file>
+  <line>38</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.di</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.di.AppModule com.example.geoquiz.domain.repository.MessageRepository provideMessageRepo(com.example.geoquiz.data.local.database.GeoQuizDatabase db)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>provideMessageRepo</highlighted_element>
+  <language>JAVA</language>
+  <offset>29</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/di/AppModule.java</file>
+  <line>44</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.di</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.di.AppModule com.example.geoquiz.domain.repository.LocationLogRepository provideLocationLogRepo(com.example.geoquiz.data.local.database.GeoQuizDatabase db)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>provideLocationLogRepo</highlighted_element>
+  <language>JAVA</language>
+  <offset>33</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/di/AppModule.java</file>
+  <line>50</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.di</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.di.AppModule com.example.geoquiz.location.CustomLocationManager provideCustomLocationManager(com.example.geoquiz.location.CustomLocationManagerImpl impl)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>provideCustomLocationManager</highlighted_element>
+  <language>JAVA</language>
+  <offset>33</offset>
+  <length>28</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/di/package-info.java</file>
+  <line>1</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.di</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/di/package-info.java" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>package com.example.geoquiz.di;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>31</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>17</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>RiderHistoryAdapter</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>18</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter.OnRiderClickListener" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>OnRiderClickListener</highlighted_element>
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>19</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter.OnRiderClickListener void onRiderClick(com.example.geoquiz.domain.model.RiderInfo rider)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>onRiderClick</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>25</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter RiderHistoryAdapter(android.content.Context context, java.util.List&lt;com.example.geoquiz.domain.model.RiderInfo&gt; riderList, com.example.geoquiz.domain.RiderHistoryAdapter.OnRiderClickListener listener)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>RiderHistoryAdapter</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>73</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter.ViewHolder" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>ViewHolder</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>79</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter.ViewHolder ViewHolder(android.view.View itemView)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>ViewHolder</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/model/RiderInfo.java</file>
+  <line>5</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain.model</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.domain.model.RiderInfo" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>RiderInfo</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/model/RiderInfo.java</file>
+  <line>15</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain.model</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.model.RiderInfo RiderInfo(java.lang.String riderName, java.lang.String latestMessage, boolean isAvailable, int profileImageResId, java.lang.String phoneNumber)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>RiderInfo</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/model/RiderInfo.java</file>
+  <line>23</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain.model</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.model.RiderInfo java.lang.String getRiderName()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getRiderName</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/model/RiderInfo.java</file>
+  <line>27</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain.model</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.model.RiderInfo java.lang.String getLatestMessage()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getLatestMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/model/RiderInfo.java</file>
+  <line>31</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain.model</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.model.RiderInfo java.lang.String getPhoneNumber()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getPhoneNumber</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/model/RiderInfo.java</file>
+  <line>35</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain.model</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.model.RiderInfo boolean isAvailable()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>isAvailable</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/model/RiderInfo.java</file>
+  <line>39</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain.model</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.model.RiderInfo int getProfileImageResId()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getProfileImageResId</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/model/package-info.java</file>
+  <line>1</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain.model</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/model/package-info.java" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>package com.example.geoquiz.domain.model;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>41</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/package-info.java</file>
+  <line>1</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/package-info.java" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>package com.example.geoquiz.domain;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>35</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/repository/LocationLogRepository.java</file>
+  <line>8</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain.repository</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.domain.repository.LocationLogRepository" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>LocationLogRepository</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/repository/LocationLogRepository.java</file>
+  <line>11</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain.repository</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.repository.LocationLogRepository androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt;&gt; getAllLogs()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getAllLogs</highlighted_element>
+  <language>JAVA</language>
+  <offset>38</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/repository/LocationLogRepository.java</file>
+  <line>12</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain.repository</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.repository.LocationLogRepository androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt;&gt; getAllLogsLive()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getAllLogsLive</highlighted_element>
+  <language>JAVA</language>
+  <offset>38</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/repository/MessageRepository.java</file>
+  <line>8</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain.repository</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.domain.repository.MessageRepository" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>MessageRepository</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/repository/MessageRepository.java</file>
+  <line>9</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain.repository</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.repository.MessageRepository void insertMessage(com.example.geoquiz.data.local.database.MessageEntity message)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>insertMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/repository/MessageRepository.java</file>
+  <line>10</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain.repository</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.repository.MessageRepository androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.MessageEntity&gt;&gt; getAllMessages()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getAllMessages</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/repository/MessageRepository.java</file>
+  <line>11</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain.repository</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.repository.MessageRepository androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.MessageEntity&gt;&gt; getMessagesForContact(java.lang.String contactPhone)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getMessagesForContact</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/repository/package-info.java</file>
+  <line>1</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain.repository</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/repository/package-info.java" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>package com.example.geoquiz.domain.repository;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>46</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/location/CustomLocationManager.java</file>
+  <line>5</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.location</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.location.CustomLocationManager" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>CustomLocationManager</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/location/CustomLocationManager.java</file>
+  <line>6</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.location</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.location.CustomLocationManager android.location.Location getLastKnownLocation(java.lang.String gpsProvider)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getLastKnownLocation</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/location/CustomLocationManagerImpl.java</file>
+  <line>6</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.location</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.location.CustomLocationManagerImpl" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>CustomLocationManagerImpl</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/location/CustomLocationManagerImpl.java</file>
+  <line>10</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.location</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.location.CustomLocationManagerImpl CustomLocationManagerImpl(android.content.Context context)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>CustomLocationManagerImpl</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/location/FusedLocationProvider.java</file>
+  <line>5</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.location</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.location.FusedLocationProvider" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>FusedLocationProvider</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/location/FusedLocationProvider.java</file>
+  <line>8</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.location</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.location.FusedLocationProvider FusedLocationProvider(android.content.Context context)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>FusedLocationProvider</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/location/package-info.java</file>
+  <line>1</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.location</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/location/package-info.java" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>package com.example.geoquiz.location;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>37</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/package-info.java</file>
+  <line>1</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/package-info.java" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>package com.example.geoquiz;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>28</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>17</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>ChatMessageAdapter</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>23</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter ChatMessageAdapter()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>ChatMessageAdapter</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/package-info.java</file>
+  <line>1</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/package-info.java" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>package com.example.geoquiz.presentation.adapter;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>49</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/ChatDetailViewModel.java</file>
+  <line>45</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.ChatDetailViewModel void sendMessage(java.lang.String sender, java.lang.String receiver, java.lang.String messageText)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>sendMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionViewModel.java</file>
+  <line>16</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionViewModel" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>MainFunctionViewModel</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionViewModel.java</file>
+  <line>25</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionViewModel MainFunctionViewModel(com.example.geoquiz.domain.repository.MessageRepository messageRepo)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>MainFunctionViewModel</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionViewModel.java</file>
+  <line>33</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionViewModel androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.MessageEntity&gt;&gt; getMessages()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getMessages</highlighted_element>
+  <language>JAVA</language>
+  <offset>41</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionViewModel.java</file>
+  <line>36</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionViewModel void insertMessage(com.example.geoquiz.data.local.database.MessageEntity message)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>insertMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/package-info.java</file>
+  <line>1</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/package-info.java" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>package com.example.geoquiz.presentation.feature_chat;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>54</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_location_history/LocationHistoryActivity.java</file>
+  <line>17</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_location_history</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.presentation.feature_location_history.LocationHistoryActivity" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>LocationHistoryActivity</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>23</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_location_history/package-info.java</file>
+  <line>1</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_location_history</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_location_history/package-info.java" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>package com.example.geoquiz.presentation.feature_location_history;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>66</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapGridAdapter.java</file>
+  <line>10</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.presentation.feature_map.MapGridAdapter" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>MapGridAdapter</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapGridAdapter.java</file>
+  <line>15</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapGridAdapter MapGridAdapter(android.content.Context context, java.util.List&lt;java.lang.String&gt; items)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>MapGridAdapter</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapGridAdapter.java</file>
+  <line>51</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapGridAdapter void updateData(java.util.List&lt;java.lang.String&gt; newData)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>updateData</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>30</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void launch(android.content.Context context)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>launch</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>34</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel MapViewerViewModel(com.example.geoquiz.data.local.database.GeoQuizDatabase db, com.example.geoquiz.domain.repository.LocationLogRepository logRepo)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@param&lt;/code&gt; is missing for parameter &lt;code&gt;db&lt;/code&gt;</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>57</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt;&gt; getAllLogs()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getAllLogs</highlighted_element>
+  <language>JAVA</language>
+  <offset>45</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>83</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel java.util.List&lt;java.lang.String&gt; buildGridFromLogs(java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt; logs)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@param&lt;/code&gt; is missing for parameter &lt;code&gt;logs&lt;/code&gt;</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>83</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel java.util.List&lt;java.lang.String&gt; buildGridFromLogs(java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt; logs)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@return&lt;/code&gt; is missing</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/package-info.java</file>
+  <line>1</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/package-info.java" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>package com.example.geoquiz.presentation.feature_map;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>53</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/package-info.java</file>
+  <line>1</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/package-info.java" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>package com.example.geoquiz.presentation.feature_request;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>57</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/package-info.java</file>
+  <line>1</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/package-info.java" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>package com.example.geoquiz.presentation.feature_rider;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>55</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleManager.java</file>
+  <line>11</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.presentation.feature_role.RoleManager.Role" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Role</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleManager.java</file>
+  <line>12</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="field" FQNAME="com.example.geoquiz.presentation.feature_role.RoleManager.Role USER" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>USER</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleManager.java</file>
+  <line>13</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="field" FQNAME="com.example.geoquiz.presentation.feature_role.RoleManager.Role RIDER" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>RIDER</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/package-info.java</file>
+  <line>1</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/package-info.java" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>package com.example.geoquiz.presentation.feature_role;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>54</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>17</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.receivers.SmsReceiver" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>SmsReceiver</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/package-info.java</file>
+  <line>1</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/package-info.java" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>package com.example.geoquiz.receivers;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>38</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineLocationHelper.java</file>
+  <line>16</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.util.OfflineLocationHelper" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>OfflineLocationHelper</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineLocationHelper.java</file>
+  <line>18</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.util.OfflineLocationHelper.LocationData" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>LocationData</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineLocationHelper.java</file>
+  <line>19</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="field" FQNAME="com.example.geoquiz.util.OfflineLocationHelper.LocationData latitude" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>latitude</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineLocationHelper.java</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="field" FQNAME="com.example.geoquiz.util.OfflineLocationHelper.LocationData longitude" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>longitude</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineLocationHelper.java</file>
+  <line>21</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="field" FQNAME="com.example.geoquiz.util.OfflineLocationHelper.LocationData accuracy" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>accuracy</highlighted_element>
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineLocationHelper.java</file>
+  <line>22</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="field" FQNAME="com.example.geoquiz.util.OfflineLocationHelper.LocationData signalDbm" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>signalDbm</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineLocationHelper.java</file>
+  <line>23</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="field" FQNAME="com.example.geoquiz.util.OfflineLocationHelper.LocationData timingAdvance" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>timingAdvance</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineLocationHelper.java</file>
+  <line>24</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="field" FQNAME="com.example.geoquiz.util.OfflineLocationHelper.LocationData success" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>success</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineLocationHelper.java</file>
+  <line>26</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelper.LocationData LocationData(boolean success)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>LocationData</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineLocationHelper.java</file>
+  <line>31</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelper com.example.geoquiz.util.OfflineLocationHelper.LocationData fetchOfflineLocation(android.content.Context context)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>fetchOfflineLocation</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineSmsHelper.java</file>
+  <line>5</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.util.OfflineSmsHelper" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>OfflineSmsHelper</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineSmsHelper.java</file>
+  <line>8</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineSmsHelper java.lang.String formatPayload(double lat, double lon, float acc, int dbm, int ta)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>formatPayload</highlighted_element>
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineSmsHelper.java</file>
+  <line>12</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineSmsHelper void sendLocationSMS(java.lang.String phoneNumber, java.lang.String payload)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>sendLocationSMS</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/package-info.java</file>
+  <line>1</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/package-info.java" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>package com.example.geoquiz.util;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>33</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>24</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>OfflineLocationHelperTest</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>33</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void setUp()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>setUp</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>41</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>testLocationWithPermissionsAndLteTower</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>38</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>67</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationFailsWithoutPermissions()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>testLocationFailsWithoutPermissions</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>35</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>76</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationFailsWhenNoLocationAvailable()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>testLocationFailsWhenNoLocationAvailable</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>40</length>
+</problem>
+</problems>

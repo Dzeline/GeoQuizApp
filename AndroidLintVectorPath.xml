@@ -1,0 +1,80 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/gridtwist.xml</file>
+  <line>7</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/gridtwist.xml" />
+  <problem_class id="AndroidLintVectorPath" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Long vector paths</problem_class>
+  <hints />
+  <description>&lt;html&gt;Very long vector path (1708 characters), which is bad for performance. Considering reducing precision, removing minor details or rasterizing vector.&lt;/html&gt;</description>
+  <highlighted_element>M30.208,0H1.792C0.804,0 0,0.804 0,1.792v28.416C0,31.196 0.804,32 1.792,32h28.417C31.196,32 32,31.196...</highlighted_element>
+  <language>XML</language>
+  <offset>24</offset>
+  <length>1708</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/readystate.xml</file>
+  <line>94</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/readystate.xml" />
+  <problem_class id="AndroidLintVectorPath" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Long vector paths</problem_class>
+  <hints />
+  <description>&lt;html&gt;Very long vector path (987 characters), which is bad for performance. Considering reducing precision, removing minor details or rasterizing vector.&lt;/html&gt;</description>
+  <highlighted_element>M369.9,341.2c5.4,0 10.2,2.1 15.4,6.4 18,15.5 34.7,30.1 51.5,44.6 1.3,1.1 2.5,2.2 3.6,3.4 3.6,3.7 5.4...</highlighted_element>
+  <language>XML</language>
+  <offset>24</offset>
+  <length>987</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/readystate.xml</file>
+  <line>97</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/readystate.xml" />
+  <problem_class id="AndroidLintVectorPath" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Long vector paths</problem_class>
+  <hints />
+  <description>&lt;html&gt;Very long vector path (1859 characters), which is bad for performance. Considering reducing precision, removing minor details or rasterizing vector.&lt;/html&gt;</description>
+  <highlighted_element>M702.1,592c15,13.8 15.2,34.7 0.7,48.9 -13.4,13.1 -27.6,25.9 -42.6,37.6 -13.3,10.4 -29.4,14.3 -46.7,1...</highlighted_element>
+  <language>XML</language>
+  <offset>24</offset>
+  <length>1859</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/ridericon.xml</file>
+  <line>46</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/ridericon.xml" />
+  <problem_class id="AndroidLintVectorPath" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Long vector paths</problem_class>
+  <hints />
+  <description>&lt;html&gt;Very long vector path (1575 characters), which is bad for performance. Considering reducing precision, removing minor details or rasterizing vector.&lt;/html&gt;</description>
+  <highlighted_element>M549.8,275.4c-1.8,-5.9 3.8,-11.3 9.6,-9.3 31.4,11 53.7,41 67.2,89a7.5,7.5 0,0 1,-1.9 7.3c-42,41.8 -8...</highlighted_element>
+  <language>XML</language>
+  <offset>24</offset>
+  <length>1575</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/ridericon.xml</file>
+  <line>64</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/ridericon.xml" />
+  <problem_class id="AndroidLintVectorPath" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Long vector paths</problem_class>
+  <hints />
+  <description>&lt;html&gt;Very long vector path (1307 characters), which is bad for performance. Considering reducing precision, removing minor details or rasterizing vector.&lt;/html&gt;</description>
+  <highlighted_element>M524.6,696.8c-33.8,0 -93.5,-3.4 -179.1,-10.1 -19.5,-0.6 -37.4,-10.3 -52.1,-26.3 -12.2,-13.2 -21.5,-3...</highlighted_element>
+  <language>XML</language>
+  <offset>24</offset>
+  <length>1307</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/ridericon.xml</file>
+  <line>94</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/ridericon.xml" />
+  <problem_class id="AndroidLintVectorPath" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Long vector paths</problem_class>
+  <hints />
+  <description>&lt;html&gt;Very long vector path (872 characters), which is bad for performance. Considering reducing precision, removing minor details or rasterizing vector.&lt;/html&gt;</description>
+  <highlighted_element>M576.2,588.2c3.3,0.5 20.5,6.9 26,10.1 3.4,2 7.1,4.3 12.2,7.5 2.1,1.4 11.3,7.3 13.7,8.8 3.1,2 5.7,3.6...</highlighted_element>
+  <language>XML</language>
+  <offset>24</offset>
+  <length>872</length>
+</problem>
+</problems>

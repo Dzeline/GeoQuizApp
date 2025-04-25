@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>39</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="field" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity selectedPhoneNumber" />
+  <problem_class id="RedundantFieldInitialization" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant field initialization</problem_class>
+  <description>Field initialization to &lt;code&gt;null&lt;/code&gt; is redundant #loc</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>41</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>44</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="field" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity showingRequests" />
+  <problem_class id="RedundantFieldInitialization" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant field initialization</problem_class>
+  <description>Field initialization to &lt;code&gt;false&lt;/code&gt; is redundant #loc</description>
+  <highlighted_element>false</highlighted_element>
+  <language>JAVA</language>
+  <offset>38</offset>
+  <length>5</length>
+</problem>
+</problems>

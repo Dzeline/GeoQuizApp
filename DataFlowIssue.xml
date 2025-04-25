@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>63</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="DataFlowIssue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nullability and data flow problems</problem_class>
+  <description>Argument &lt;code&gt;sender&lt;/code&gt; might be null</description>
+  <highlighted_element>sender</highlighted_element>
+  <language>JAVA</language>
+  <offset>61</offset>
+  <length>6</length>
+</problem>
+</problems>

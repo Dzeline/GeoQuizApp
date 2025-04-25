@@ -1,0 +1,730 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>24</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void setUp()" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;setUp()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>setUp</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>32</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void tearDown()" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;tearDown()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>tearDown</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>37</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertLog_ValidValues()" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;testInsertLog_ValidValues()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>testInsertLog_ValidValues</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>66</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertLog_InvalidValues()" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;testInsertLog_InvalidValues()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>testInsertLog_InvalidValues</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>27</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>72</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertMultipleLogs()" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;testInsertMultipleLogs()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>testInsertMultipleLogs</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/GeoQuizApp.java</file>
+  <line>10</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.GeoQuizApp void onCreate()" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;onCreate()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>onCreate</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/Converters.java</file>
+  <line>10</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.Converters java.util.Date fromTimestamp(java.lang.Long value)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;fromTimestamp()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>fromTimestamp</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/Converters.java</file>
+  <line>15</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.Converters java.lang.Long dateToTimestamp(java.util.Date date)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;dateToTimestamp()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>dateToTimestamp</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/Converters.java</file>
+  <line>20</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.Converters java.lang.String fromList(java.util.List&lt;java.lang.String&gt; list)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;fromList()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>fromList</highlighted_element>
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/Converters.java</file>
+  <line>25</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.Converters java.util.List&lt;java.lang.String&gt; toList(java.lang.String data)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;toList()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>toList</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/GeoQuizDatabase.java</file>
+  <line>21</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.GeoQuizDatabase com.example.geoquiz.data.local.database.GeoQuizDatabase getInstance(android.app.Application context)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;getInstance()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>getInstance</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/repository/LocationLogRepositoryImpl.java</file>
+  <line>23</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.repository</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.repository.LocationLogRepositoryImpl androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt;&gt; getAllLogs()" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;getAllLogs()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>getAllLogs</highlighted_element>
+  <language>JAVA</language>
+  <offset>45</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/repository/LocationLogRepositoryImpl.java</file>
+  <line>27</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.repository</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.repository.LocationLogRepositoryImpl androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt;&gt; getAllLogsLive()" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;getAllLogsLive()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>getAllLogsLive</highlighted_element>
+  <language>JAVA</language>
+  <offset>45</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/repository/MessageRepositoryImpl.java</file>
+  <line>25</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.repository</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.repository.MessageRepositoryImpl void insertMessage(com.example.geoquiz.data.local.database.MessageEntity message)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;insertMessage()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>insertMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/repository/MessageRepositoryImpl.java</file>
+  <line>37</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.repository</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.repository.MessageRepositoryImpl androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.MessageEntity&gt;&gt; getAllMessages()" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;getAllMessages()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>getAllMessages</highlighted_element>
+  <language>JAVA</language>
+  <offset>41</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/repository/MessageRepositoryImpl.java</file>
+  <line>41</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.repository</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.repository.MessageRepositoryImpl androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.MessageEntity&gt;&gt; getMessagesForContact(java.lang.String contactPhone)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;getMessagesForContact()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>getMessagesForContact</highlighted_element>
+  <language>JAVA</language>
+  <offset>41</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/di/AppModule.java</file>
+  <line>30</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.di</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.di.AppModule com.example.geoquiz.data.local.database.GeoQuizDatabase provideDatabase(android.content.Context context)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;provideDatabase()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>provideDatabase</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/di/AppModule.java</file>
+  <line>38</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.di</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.di.AppModule com.example.geoquiz.domain.repository.MessageRepository provideMessageRepo(com.example.geoquiz.data.local.database.GeoQuizDatabase db)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;provideMessageRepo()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>provideMessageRepo</highlighted_element>
+  <language>JAVA</language>
+  <offset>29</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/di/AppModule.java</file>
+  <line>44</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.di</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.di.AppModule com.example.geoquiz.domain.repository.LocationLogRepository provideLocationLogRepo(com.example.geoquiz.data.local.database.GeoQuizDatabase db)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;provideLocationLogRepo()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>provideLocationLogRepo</highlighted_element>
+  <language>JAVA</language>
+  <offset>33</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/di/AppModule.java</file>
+  <line>50</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.di</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.di.AppModule com.example.geoquiz.location.CustomLocationManager provideCustomLocationManager(com.example.geoquiz.location.CustomLocationManagerImpl impl)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;provideCustomLocationManager()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>provideCustomLocationManager</highlighted_element>
+  <language>JAVA</language>
+  <offset>33</offset>
+  <length>28</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>32</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter com.example.geoquiz.domain.RiderHistoryAdapter.ViewHolder onCreateViewHolder(android.view.ViewGroup parent, int viewType)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;onCreateViewHolder()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>onCreateViewHolder</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>39</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter void onBindViewHolder(com.example.geoquiz.domain.RiderHistoryAdapter.ViewHolder holder, int position)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;onBindViewHolder()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>onBindViewHolder</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>68</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter int getItemCount()" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;getItemCount()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>getItemCount</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/location/CustomLocationManagerImpl.java</file>
+  <line>15</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.location</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.location.CustomLocationManagerImpl android.location.Location getLastKnownLocation(java.lang.String gpsProvider)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;getLastKnownLocation()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>getLastKnownLocation</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/location/FusedLocationProvider.java</file>
+  <line>13</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.location</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.location.FusedLocationProvider android.location.Location getLastKnownLocation(java.lang.String provider)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;getLastKnownLocation()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>getLastKnownLocation</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>28</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter$1 boolean areItemsTheSame(com.example.geoquiz.data.local.database.MessageEntity oldItem, com.example.geoquiz.data.local.database.MessageEntity newItem)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;areItemsTheSame()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>areItemsTheSame</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>33</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter$1 boolean areContentsTheSame(com.example.geoquiz.data.local.database.MessageEntity oldItem, com.example.geoquiz.data.local.database.MessageEntity newItem)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;areContentsTheSame()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>areContentsTheSame</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>41</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter int getItemViewType(int position)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;getItemViewType()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>getItemViewType</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>48</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter androidx.recyclerview.widget.RecyclerView.ViewHolder onCreateViewHolder(android.view.ViewGroup parent, int viewType)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;onCreateViewHolder()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>onCreateViewHolder</highlighted_element>
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>61</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter void onBindViewHolder(androidx.recyclerview.widget.RecyclerView.ViewHolder holder, int position)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;onBindViewHolder()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>onBindViewHolder</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/ChatDetailViewModel.java</file>
+  <line>41</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.ChatDetailViewModel androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.MessageEntity&gt;&gt; getMessagesForContact(java.lang.String contactPhone)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;getMessagesForContact()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>getMessagesForContact</highlighted_element>
+  <language>JAVA</language>
+  <offset>41</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/ChatDetailViewModel.java</file>
+  <line>45</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.ChatDetailViewModel void sendMessage(java.lang.String sender, java.lang.String receiver, java.lang.String messageText)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;sendMessage()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>sendMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>139</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onRequestPermissionsResult(int requestCode, java.lang.String[] permissions, int[] grantResults)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;onRequestPermissionsResult()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>onRequestPermissionsResult</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>26</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionViewModel.java</file>
+  <line>36</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionViewModel void insertMessage(com.example.geoquiz.data.local.database.MessageEntity message)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;insertMessage()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>insertMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapGridAdapter.java</file>
+  <line>21</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapGridAdapter int getCount()" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;getCount()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>getCount</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapGridAdapter.java</file>
+  <line>26</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapGridAdapter java.lang.Object getItem(int position)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;getItem()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>getItem</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapGridAdapter.java</file>
+  <line>31</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapGridAdapter long getItemId(int position)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;getItemId()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>getItemId</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapGridAdapter.java</file>
+  <line>36</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapGridAdapter android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;getView()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>getView</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapGridAdapter.java</file>
+  <line>51</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapGridAdapter void updateData(java.util.List&lt;java.lang.String&gt; newData)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;updateData()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>updateData</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>30</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void launch(android.content.Context context)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;launch()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>launch</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>57</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt;&gt; getAllLogs()" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;getAllLogs()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>getAllLogs</highlighted_element>
+  <language>JAVA</language>
+  <offset>45</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>66</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel void fetchOfflineLocation(android.content.Context context)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;fetchOfflineLocation()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>fetchOfflineLocation</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>87</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel java.util.List&lt;java.lang.String&gt; buildGridFromLogs(java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt; logs)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;buildGridFromLogs()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>buildGridFromLogs</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>139</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onRequestPermissionsResult(int requestCode, java.lang.String[] permissions, int[] grantResults)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;onRequestPermissionsResult()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>onRequestPermissionsResult</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>26</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderViewModel.java</file>
+  <line>41</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderViewModel androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.MessageEntity&gt;&gt; getMessages()" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;getMessages()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>getMessages</highlighted_element>
+  <language>JAVA</language>
+  <offset>41</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderViewModel.java</file>
+  <line>51</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderViewModel void sendMessage(java.lang.String sender, java.lang.String message)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;sendMessage()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>sendMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleManager.java</file>
+  <line>25</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleManager void setRole(android.content.Context context, com.example.geoquiz.presentation.feature_role.RoleManager.Role role)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;setRole()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>setRole</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleManager.java</file>
+  <line>36</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleManager com.example.geoquiz.presentation.feature_role.RoleManager.Role getRole(android.content.Context context)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;getRole()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>getRole</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>23</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;onReceive()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>onReceive</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineLocationHelper.java</file>
+  <line>31</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelper com.example.geoquiz.util.OfflineLocationHelper.LocationData fetchOfflineLocation(android.content.Context context)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;fetchOfflineLocation()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>fetchOfflineLocation</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineSmsHelper.java</file>
+  <line>8</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineSmsHelper java.lang.String formatPayload(double lat, double lon, float acc, int dbm, int ta)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;formatPayload()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>formatPayload</highlighted_element>
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineSmsHelper.java</file>
+  <line>12</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineSmsHelper void sendLocationSMS(java.lang.String phoneNumber, java.lang.String payload)" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;sendLocationSMS()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>sendLocationSMS</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>33</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void setUp()" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;setUp()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>setUp</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>41</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;testLocationWithPermissionsAndLteTower()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>testLocationWithPermissionsAndLteTower</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>38</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>67</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationFailsWithoutPermissions()" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;testLocationFailsWithoutPermissions()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>testLocationFailsWithoutPermissions</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>35</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>76</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationFailsWhenNoLocationAvailable()" />
+  <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
+  <description>'public' method &lt;code&gt;testLocationFailsWhenNoLocationAvailable()&lt;/code&gt; has no logging call #loc</description>
+  <highlighted_element>testLocationFailsWhenNoLocationAvailable</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>40</length>
+</problem>
+</problems>

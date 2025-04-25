@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>75</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter.SentViewHolder" />
+  <problem_class id="PackageVisibleInnerClass" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Package-visible nested class</problem_class>
+  <description>Package-visible nested class &lt;code&gt;SentViewHolder&lt;/code&gt; #loc</description>
+  <highlighted_element>SentViewHolder</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>84</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter.ReceivedViewHolder" />
+  <problem_class id="PackageVisibleInnerClass" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Package-visible nested class</problem_class>
+  <description>Package-visible nested class &lt;code&gt;ReceivedViewHolder&lt;/code&gt; #loc</description>
+  <highlighted_element>ReceivedViewHolder</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>18</length>
+</problem>
+</problems>

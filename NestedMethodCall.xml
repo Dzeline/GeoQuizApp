@@ -1,0 +1,860 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>46</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertLog_ValidValues()" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;valueOf()&lt;/code&gt; #loc</description>
+  <highlighted_element>valueOf</highlighted_element>
+  <language>JAVA</language>
+  <offset>36</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>48</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertLog_ValidValues()" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;moveToFirst()&lt;/code&gt; #loc</description>
+  <highlighted_element>moveToFirst</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>50</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertLog_ValidValues()" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getColumnIndexOrThrow()&lt;/code&gt; #loc</description>
+  <highlighted_element>getColumnIndexOrThrow</highlighted_element>
+  <language>JAVA</language>
+  <offset>45</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>51</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertLog_ValidValues()" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getColumnIndexOrThrow()&lt;/code&gt; #loc</description>
+  <highlighted_element>getColumnIndexOrThrow</highlighted_element>
+  <language>JAVA</language>
+  <offset>45</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>52</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertLog_ValidValues()" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getColumnIndexOrThrow()&lt;/code&gt; #loc</description>
+  <highlighted_element>getColumnIndexOrThrow</highlighted_element>
+  <language>JAVA</language>
+  <offset>48</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>53</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertLog_ValidValues()" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getColumnIndexOrThrow()&lt;/code&gt; #loc</description>
+  <highlighted_element>getColumnIndexOrThrow</highlighted_element>
+  <language>JAVA</language>
+  <offset>39</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>54</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertLog_ValidValues()" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getColumnIndexOrThrow()&lt;/code&gt; #loc</description>
+  <highlighted_element>getColumnIndexOrThrow</highlighted_element>
+  <language>JAVA</language>
+  <offset>38</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>88</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertMultipleLogs()" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;moveToFirst()&lt;/code&gt; #loc</description>
+  <highlighted_element>moveToFirst</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/Converters.java</file>
+  <line>26</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.Converters java.util.List&lt;java.lang.String&gt; toList(java.lang.String data)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;split()&lt;/code&gt; #loc</description>
+  <highlighted_element>split</highlighted_element>
+  <language>JAVA</language>
+  <offset>56</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/GeoQuizDatabase.java</file>
+  <line>25</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.GeoQuizDatabase com.example.geoquiz.data.local.database.GeoQuizDatabase getInstance(android.app.Application context)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getApplicationContext()&lt;/code&gt; #loc</description>
+  <highlighted_element>getApplicationContext</highlighted_element>
+  <language>JAVA</language>
+  <offset>60</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/repository/MessageRepositoryImpl.java</file>
+  <line>33</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.repository</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.repository.MessageRepositoryImpl void insertMessage(com.example.geoquiz.data.local.database.MessageEntity message)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;messageDao()&lt;/code&gt; #loc</description>
+  <highlighted_element>messageDao</highlighted_element>
+  <language>JAVA</language>
+  <offset>63</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/repository/MessageRepositoryImpl.java</file>
+  <line>33</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.repository</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.repository.MessageRepositoryImpl void insertMessage(com.example.geoquiz.data.local.database.MessageEntity message)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;insertMessage()&lt;/code&gt; #loc</description>
+  <highlighted_element>insertMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>76</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>42</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter void onBindViewHolder(com.example.geoquiz.domain.RiderHistoryAdapter.ViewHolder holder, int position)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getRiderName()&lt;/code&gt; #loc</description>
+  <highlighted_element>getRiderName</highlighted_element>
+  <language>JAVA</language>
+  <offset>41</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>43</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter void onBindViewHolder(com.example.geoquiz.domain.RiderHistoryAdapter.ViewHolder holder, int position)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getLatestMessage()&lt;/code&gt; #loc</description>
+  <highlighted_element>getLatestMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>45</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>45</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter void onBindViewHolder(com.example.geoquiz.domain.RiderHistoryAdapter.ViewHolder holder, int position)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getProfileImageResId()&lt;/code&gt; #loc</description>
+  <highlighted_element>getProfileImageResId</highlighted_element>
+  <language>JAVA</language>
+  <offset>49</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>60</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter void onBindViewHolder(com.example.geoquiz.domain.RiderHistoryAdapter.ViewHolder holder, int position)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getRiderName()&lt;/code&gt; #loc</description>
+  <highlighted_element>getRiderName</highlighted_element>
+  <language>JAVA</language>
+  <offset>47</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>61</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter void onBindViewHolder(com.example.geoquiz.domain.RiderHistoryAdapter.ViewHolder holder, int position)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getPhoneNumber()&lt;/code&gt; #loc</description>
+  <highlighted_element>getPhoneNumber</highlighted_element>
+  <language>JAVA</language>
+  <offset>48</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>43</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter int getItemViewType(int position)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getSender()&lt;/code&gt; #loc</description>
+  <highlighted_element>getSender</highlighted_element>
+  <language>JAVA</language>
+  <offset>46</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>50</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter androidx.recyclerview.widget.RecyclerView.ViewHolder onCreateViewHolder(android.view.ViewGroup parent, int viewType)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getContext()&lt;/code&gt; #loc</description>
+  <highlighted_element>getContext</highlighted_element>
+  <language>JAVA</language>
+  <offset>51</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>54</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter androidx.recyclerview.widget.RecyclerView.ViewHolder onCreateViewHolder(android.view.ViewGroup parent, int viewType)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getContext()&lt;/code&gt; #loc</description>
+  <highlighted_element>getContext</highlighted_element>
+  <language>JAVA</language>
+  <offset>51</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>69</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter void onBindViewHolder(androidx.recyclerview.widget.RecyclerView.ViewHolder holder, int position)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getMessage()&lt;/code&gt; #loc</description>
+  <highlighted_element>getMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>64</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>71</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter void onBindViewHolder(androidx.recyclerview.widget.RecyclerView.ViewHolder holder, int position)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getMessage()&lt;/code&gt; #loc</description>
+  <highlighted_element>getMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>68</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/ChatDetailViewModel.java</file>
+  <line>46</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.ChatDetailViewModel void sendMessage(java.lang.String sender, java.lang.String receiver, java.lang.String messageText)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;currentTimeMillis()&lt;/code&gt; #loc</description>
+  <highlighted_element>currentTimeMillis</highlighted_element>
+  <language>JAVA</language>
+  <offset>88</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>130</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;currentTimeMillis()&lt;/code&gt; #loc</description>
+  <highlighted_element>currentTimeMillis</highlighted_element>
+  <language>JAVA</language>
+  <offset>68</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/chatDetailActivity.java</file>
+  <line>60</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getString()&lt;/code&gt; #loc</description>
+  <highlighted_element>getString</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/chatDetailActivity.java</file>
+  <line>75</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;size()&lt;/code&gt; #loc</description>
+  <highlighted_element>size</highlighted_element>
+  <language>JAVA</language>
+  <offset>51</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_location_history/LocationHistoryActivity.java</file>
+  <line>53</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_location_history</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_location_history.LocationHistoryActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;toString()&lt;/code&gt; #loc</description>
+  <highlighted_element>toString</highlighted_element>
+  <language>JAVA</language>
+  <offset>38</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapGridAdapter.java</file>
+  <line>47</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapGridAdapter android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;get()&lt;/code&gt; #loc</description>
+  <highlighted_element>get</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>43</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getPackageName()&lt;/code&gt; #loc</description>
+  <highlighted_element>getPackageName</highlighted_element>
+  <language>JAVA</language>
+  <offset>54</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>73</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel void fetchOfflineLocation(android.content.Context context)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;currentTimeMillis()&lt;/code&gt; #loc</description>
+  <highlighted_element>currentTimeMillis</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>80</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel void fetchOfflineLocation(android.content.Context context)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;locationLogDao()&lt;/code&gt; #loc</description>
+  <highlighted_element>locationLogDao</highlighted_element>
+  <language>JAVA</language>
+  <offset>61</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>80</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel void fetchOfflineLocation(android.content.Context context)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;insertLog()&lt;/code&gt; #loc</description>
+  <highlighted_element>insertLog</highlighted_element>
+  <language>JAVA</language>
+  <offset>78</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>87</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;launch()&lt;/code&gt; #loc</description>
+  <highlighted_element>launch</highlighted_element>
+  <language>JAVA</language>
+  <offset>64</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>93</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;parseColor()&lt;/code&gt; #loc</description>
+  <highlighted_element>parseColor</highlighted_element>
+  <language>JAVA</language>
+  <offset>59</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>114</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void insertChatMessage(java.lang.String message)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getApplication()&lt;/code&gt; #loc</description>
+  <highlighted_element>getApplication</highlighted_element>
+  <language>JAVA</language>
+  <offset>57</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>117</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void insertChatMessage(java.lang.String message)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;currentTimeMillis()&lt;/code&gt; #loc</description>
+  <highlighted_element>currentTimeMillis</highlighted_element>
+  <language>JAVA</language>
+  <offset>71</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>125</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void observeChatMessages()" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getApplication()&lt;/code&gt; #loc</description>
+  <highlighted_element>getApplication</highlighted_element>
+  <language>JAVA</language>
+  <offset>57</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>143</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void observeChatMessages()" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;size()&lt;/code&gt; #loc</description>
+  <highlighted_element>size</highlighted_element>
+  <language>JAVA</language>
+  <offset>64</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderViewModel.java</file>
+  <line>52</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderViewModel void sendMessage(java.lang.String sender, java.lang.String message)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;currentTimeMillis()&lt;/code&gt; #loc</description>
+  <highlighted_element>currentTimeMillis</highlighted_element>
+  <language>JAVA</language>
+  <offset>86</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleChooserActivity.java</file>
+  <line>33</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleChooserActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getApplicationContext()&lt;/code&gt; #loc</description>
+  <highlighted_element>getApplicationContext</highlighted_element>
+  <language>JAVA</language>
+  <offset>32</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleChooserActivity.java</file>
+  <line>42</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleChooserActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getApplicationContext()&lt;/code&gt; #loc</description>
+  <highlighted_element>getApplicationContext</highlighted_element>
+  <language>JAVA</language>
+  <offset>32</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleManager.java</file>
+  <line>27</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleManager void setRole(android.content.Context context, com.example.geoquiz.presentation.feature_role.RoleManager.Role role)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;name()&lt;/code&gt; #loc</description>
+  <highlighted_element>name</highlighted_element>
+  <language>JAVA</language>
+  <offset>46</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleManager.java</file>
+  <line>38</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleManager com.example.geoquiz.presentation.feature_role.RoleManager.Role getRole(android.content.Context context)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;name()&lt;/code&gt; #loc</description>
+  <highlighted_element>name</highlighted_element>
+  <language>JAVA</language>
+  <offset>65</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>39</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getApplicationContext()&lt;/code&gt; #loc</description>
+  <highlighted_element>getApplicationContext</highlighted_element>
+  <language>JAVA</language>
+  <offset>91</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>48</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;split()&lt;/code&gt; #loc</description>
+  <highlighted_element>split</highlighted_element>
+  <language>JAVA</language>
+  <offset>66</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>49</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;split()&lt;/code&gt; #loc</description>
+  <highlighted_element>split</highlighted_element>
+  <language>JAVA</language>
+  <offset>64</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>50</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;split()&lt;/code&gt; #loc</description>
+  <highlighted_element>split</highlighted_element>
+  <language>JAVA</language>
+  <offset>63</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>52</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;currentTimeMillis()&lt;/code&gt; #loc</description>
+  <highlighted_element>currentTimeMillis</highlighted_element>
+  <language>JAVA</language>
+  <offset>81</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>57</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getMessage()&lt;/code&gt; #loc</description>
+  <highlighted_element>getMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>76</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>63</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;currentTimeMillis()&lt;/code&gt; #loc</description>
+  <highlighted_element>currentTimeMillis</highlighted_element>
+  <language>JAVA</language>
+  <offset>92</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineSmsHelper.java</file>
+  <line>18</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineSmsHelper void sendLocationSMS(java.lang.String phoneNumber, java.lang.String payload)" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getMessage()&lt;/code&gt; #loc</description>
+  <highlighted_element>getMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>50</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>36</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void setUp()" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getSystemService()&lt;/code&gt; #loc</description>
+  <highlighted_element>getSystemService</highlighted_element>
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>37</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void setUp()" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getSystemService()&lt;/code&gt; #loc</description>
+  <highlighted_element>getSystemService</highlighted_element>
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>42</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;checkSelfPermission()&lt;/code&gt; #loc</description>
+  <highlighted_element>checkSelfPermission</highlighted_element>
+  <language>JAVA</language>
+  <offset>28</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>45</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getLatitude()&lt;/code&gt; #loc</description>
+  <highlighted_element>getLatitude</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>46</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getLongitude()&lt;/code&gt; #loc</description>
+  <highlighted_element>getLongitude</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>47</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getAccuracy()&lt;/code&gt; #loc</description>
+  <highlighted_element>getAccuracy</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>48</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getLastKnownLocation()&lt;/code&gt; #loc</description>
+  <highlighted_element>getLastKnownLocation</highlighted_element>
+  <language>JAVA</language>
+  <offset>33</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>51</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getDbm()&lt;/code&gt; #loc</description>
+  <highlighted_element>getDbm</highlighted_element>
+  <language>JAVA</language>
+  <offset>32</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>52</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getTimingAdvance()&lt;/code&gt; #loc</description>
+  <highlighted_element>getTimingAdvance</highlighted_element>
+  <language>JAVA</language>
+  <offset>32</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>53</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getCellSignalStrength()&lt;/code&gt; #loc</description>
+  <highlighted_element>getCellSignalStrength</highlighted_element>
+  <language>JAVA</language>
+  <offset>29</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>54</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getAllCellInfo()&lt;/code&gt; #loc</description>
+  <highlighted_element>getAllCellInfo</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>54</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;singletonList()&lt;/code&gt; #loc</description>
+  <highlighted_element>singletonList</highlighted_element>
+  <language>JAVA</language>
+  <offset>75</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>68</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationFailsWithoutPermissions()" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;checkSelfPermission()&lt;/code&gt; #loc</description>
+  <highlighted_element>checkSelfPermission</highlighted_element>
+  <language>JAVA</language>
+  <offset>28</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>77</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationFailsWhenNoLocationAvailable()" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;checkSelfPermission()&lt;/code&gt; #loc</description>
+  <highlighted_element>checkSelfPermission</highlighted_element>
+  <language>JAVA</language>
+  <offset>28</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>78</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationFailsWhenNoLocationAvailable()" />
+  <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
+  <description>Nested method call &lt;code&gt;getLastKnownLocation()&lt;/code&gt; #loc</description>
+  <highlighted_element>getLastKnownLocation</highlighted_element>
+  <language>JAVA</language>
+  <offset>33</offset>
+  <length>20</length>
+</problem>
+</problems>

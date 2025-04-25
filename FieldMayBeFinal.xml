@@ -1,0 +1,80 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/model/RiderInfo.java</file>
+  <line>7</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain.model</package>
+  <entry_point TYPE="field" FQNAME="com.example.geoquiz.domain.model.RiderInfo riderName" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;riderName&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>riderName</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/model/RiderInfo.java</file>
+  <line>9</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain.model</package>
+  <entry_point TYPE="field" FQNAME="com.example.geoquiz.domain.model.RiderInfo latestMessage" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;latestMessage&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>latestMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/model/RiderInfo.java</file>
+  <line>10</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain.model</package>
+  <entry_point TYPE="field" FQNAME="com.example.geoquiz.domain.model.RiderInfo isAvailable" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;isAvailable&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>isAvailable</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/model/RiderInfo.java</file>
+  <line>12</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain.model</package>
+  <entry_point TYPE="field" FQNAME="com.example.geoquiz.domain.model.RiderInfo phoneNumber" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;phoneNumber&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>phoneNumber</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/model/RiderInfo.java</file>
+  <line>13</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain.model</package>
+  <entry_point TYPE="field" FQNAME="com.example.geoquiz.domain.model.RiderInfo profileImageResId" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;profileImageResId&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>profileImageResId</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapGridAdapter.java</file>
+  <line>13</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="field" FQNAME="com.example.geoquiz.presentation.feature_map.MapGridAdapter items" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;items&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>items</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>5</length>
+</problem>
+</problems>

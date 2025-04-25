@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>56</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="UnqualifiedInnerClassAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unqualified inner class access</problem_class>
+  <description>&lt;code&gt;LocationData&lt;/code&gt; is not qualified with outer class #loc</description>
+  <highlighted_element>LocationData</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>70</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationFailsWithoutPermissions()" />
+  <problem_class id="UnqualifiedInnerClassAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unqualified inner class access</problem_class>
+  <description>&lt;code&gt;LocationData&lt;/code&gt; is not qualified with outer class #loc</description>
+  <highlighted_element>LocationData</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>80</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationFailsWhenNoLocationAvailable()" />
+  <problem_class id="UnqualifiedInnerClassAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unqualified inner class access</problem_class>
+  <description>&lt;code&gt;LocationData&lt;/code&gt; is not qualified with outer class #loc</description>
+  <highlighted_element>LocationData</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>12</length>
+</problem>
+</problems>

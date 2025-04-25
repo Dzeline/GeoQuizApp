@@ -16,7 +16,7 @@ android {
     defaultConfig {
         applicationId = "com.example.geoquiz"
         minSdk = 24
-        //noinspection OldTargetApi
+
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
@@ -60,7 +60,7 @@ dependencies {
 // Room
     implementation(libs.androidx.room.runtime)
     implementation(libs.androidx.room.ktx)
-    //noinspection KaptUsageInsteadOfKsp
+
     kapt(libs.androidx.room.compiler)
 
 // Lifecycle / ViewModel
@@ -83,6 +83,7 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
     //CustomLocationMap
     implementation(libs.osmdroid.android)
+    implementation ("org.osmdroid:osmdroid-android:6.1.20")
 
 
 }

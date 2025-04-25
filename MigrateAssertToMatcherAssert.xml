@@ -1,0 +1,275 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/ExampleInstrumentedTest.kt</file>
+  <line>22</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.ExampleInstrumentedTest void useAppContext()" />
+  <problem_class id="MigrateAssertToMatcherAssert" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">JUnit assertion can be 'assertThat()' call</problem_class>
+  <description>Assert expression &lt;code&gt;assertEquals&lt;/code&gt; can be replaced with 'assertThat()' call #loc</description>
+  <highlighted_element>assertEquals</highlighted_element>
+  <language>kotlin</language>
+  <offset>8</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>39</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertLog_ValidValues()" />
+  <problem_class id="MigrateAssertToMatcherAssert" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">JUnit assertion can be 'assertThat()' call</problem_class>
+  <description>Assert expression &lt;code&gt;assertTrue&lt;/code&gt; can be replaced with 'assertThat()' call #loc</description>
+  <highlighted_element>assertTrue</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>48</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertLog_ValidValues()" />
+  <problem_class id="MigrateAssertToMatcherAssert" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">JUnit assertion can be 'assertThat()' call</problem_class>
+  <description>Assert expression &lt;code&gt;assertTrue&lt;/code&gt; can be replaced with 'assertThat()' call #loc</description>
+  <highlighted_element>assertTrue</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>56</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertLog_ValidValues()" />
+  <problem_class id="MigrateAssertToMatcherAssert" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">JUnit assertion can be 'assertThat()' call</problem_class>
+  <description>Assert expression &lt;code&gt;assertEquals&lt;/code&gt; can be replaced with 'assertThat()' call #loc</description>
+  <highlighted_element>assertEquals</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>57</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertLog_ValidValues()" />
+  <problem_class id="MigrateAssertToMatcherAssert" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">JUnit assertion can be 'assertThat()' call</problem_class>
+  <description>Assert expression &lt;code&gt;assertEquals&lt;/code&gt; can be replaced with 'assertThat()' call #loc</description>
+  <highlighted_element>assertEquals</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>58</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertLog_ValidValues()" />
+  <problem_class id="MigrateAssertToMatcherAssert" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">JUnit assertion can be 'assertThat()' call</problem_class>
+  <description>Assert expression &lt;code&gt;assertEquals&lt;/code&gt; can be replaced with 'assertThat()' call #loc</description>
+  <highlighted_element>assertEquals</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>59</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertLog_ValidValues()" />
+  <problem_class id="MigrateAssertToMatcherAssert" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">JUnit assertion can be 'assertThat()' call</problem_class>
+  <description>Assert expression &lt;code&gt;assertEquals&lt;/code&gt; can be replaced with 'assertThat()' call #loc</description>
+  <highlighted_element>assertEquals</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>60</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertLog_ValidValues()" />
+  <problem_class id="MigrateAssertToMatcherAssert" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">JUnit assertion can be 'assertThat()' call</problem_class>
+  <description>Assert expression &lt;code&gt;assertEquals&lt;/code&gt; can be replaced with 'assertThat()' call #loc</description>
+  <highlighted_element>assertEquals</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>68</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertLog_InvalidValues()" />
+  <problem_class id="MigrateAssertToMatcherAssert" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">JUnit assertion can be 'assertThat()' call</problem_class>
+  <description>Assert expression &lt;code&gt;assertTrue&lt;/code&gt; can be replaced with 'assertThat()' call #loc</description>
+  <highlighted_element>assertTrue</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>83</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertMultipleLogs()" />
+  <problem_class id="MigrateAssertToMatcherAssert" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">JUnit assertion can be 'assertThat()' call</problem_class>
+  <description>Assert expression &lt;code&gt;assertTrue&lt;/code&gt; can be replaced with 'assertThat()' call #loc</description>
+  <highlighted_element>assertTrue</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>88</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertMultipleLogs()" />
+  <problem_class id="MigrateAssertToMatcherAssert" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">JUnit assertion can be 'assertThat()' call</problem_class>
+  <description>Assert expression &lt;code&gt;assertTrue&lt;/code&gt; can be replaced with 'assertThat()' call #loc</description>
+  <highlighted_element>assertTrue</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>91</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertMultipleLogs()" />
+  <problem_class id="MigrateAssertToMatcherAssert" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">JUnit assertion can be 'assertThat()' call</problem_class>
+  <description>Assert expression &lt;code&gt;assertEquals&lt;/code&gt; can be replaced with 'assertThat()' call #loc</description>
+  <highlighted_element>assertEquals</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/ExampleUnitTest.kt</file>
+  <line>15</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.ExampleUnitTest void addition_isCorrect()" />
+  <problem_class id="MigrateAssertToMatcherAssert" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">JUnit assertion can be 'assertThat()' call</problem_class>
+  <description>Assert expression &lt;code&gt;assertEquals&lt;/code&gt; can be replaced with 'assertThat()' call #loc</description>
+  <highlighted_element>assertEquals</highlighted_element>
+  <language>kotlin</language>
+  <offset>8</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>58</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="MigrateAssertToMatcherAssert" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">JUnit assertion can be 'assertThat()' call</problem_class>
+  <description>Assert expression &lt;code&gt;assertTrue&lt;/code&gt; can be replaced with 'assertThat()' call #loc</description>
+  <highlighted_element>assertTrue</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>59</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="MigrateAssertToMatcherAssert" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">JUnit assertion can be 'assertThat()' call</problem_class>
+  <description>Assert expression &lt;code&gt;assertEquals&lt;/code&gt; can be replaced with 'assertThat()' call #loc</description>
+  <highlighted_element>assertEquals</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>60</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="MigrateAssertToMatcherAssert" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">JUnit assertion can be 'assertThat()' call</problem_class>
+  <description>Assert expression &lt;code&gt;assertEquals&lt;/code&gt; can be replaced with 'assertThat()' call #loc</description>
+  <highlighted_element>assertEquals</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>61</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="MigrateAssertToMatcherAssert" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">JUnit assertion can be 'assertThat()' call</problem_class>
+  <description>Assert expression &lt;code&gt;assertEquals&lt;/code&gt; can be replaced with 'assertThat()' call #loc</description>
+  <highlighted_element>assertEquals</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>62</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="MigrateAssertToMatcherAssert" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">JUnit assertion can be 'assertThat()' call</problem_class>
+  <description>Assert expression &lt;code&gt;assertEquals&lt;/code&gt; can be replaced with 'assertThat()' call #loc</description>
+  <highlighted_element>assertEquals</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>63</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="MigrateAssertToMatcherAssert" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">JUnit assertion can be 'assertThat()' call</problem_class>
+  <description>Assert expression &lt;code&gt;assertEquals&lt;/code&gt; can be replaced with 'assertThat()' call #loc</description>
+  <highlighted_element>assertEquals</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>72</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationFailsWithoutPermissions()" />
+  <problem_class id="MigrateAssertToMatcherAssert" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">JUnit assertion can be 'assertThat()' call</problem_class>
+  <description>Assert expression &lt;code&gt;assertFalse&lt;/code&gt; can be replaced with 'assertThat()' call #loc</description>
+  <highlighted_element>assertFalse</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>82</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationFailsWhenNoLocationAvailable()" />
+  <problem_class id="MigrateAssertToMatcherAssert" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">JUnit assertion can be 'assertThat()' call</problem_class>
+  <description>Assert expression &lt;code&gt;assertFalse&lt;/code&gt; can be replaced with 'assertThat()' call #loc</description>
+  <highlighted_element>assertFalse</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>11</length>
+</problem>
+</problems>

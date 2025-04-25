@@ -61,7 +61,7 @@ public class RequestRideActivity extends AppCompatActivity {
         // Role-specific visibility.
         if (role == RoleManager.Role.USER) {
             riderSection.setVisibility(View.GONE);
-            btnShareLocation.setVisibility(View.GONE);
+           // btnShareLocation.setVisibility(View.GONE);
         } else {
             riderSection.setVisibility(View.VISIBLE);
             btnShareLocation.setVisibility(View.VISIBLE);
@@ -111,11 +111,20 @@ public class RequestRideActivity extends AppCompatActivity {
     private void shareLocationViaSMS( String phoneNumber) {
         OfflineLocationHelper.LocationData loc = OfflineLocationHelper.fetchOfflineLocation(this);
         if (loc != null && loc.success) {
+            // Format the location data into an SMS payload
             String payload = OfflineSmsHelper.formatPayload(
                     loc.latitude, loc.longitude, loc.accuracy, loc.signalDbm, loc.timingAdvance
             );
-            OfflineSmsHelper.sendLocationSMS(payload,phoneNumber);
+            try {
+                // Send the SMS with location information
+                OfflineSmsHelper.sendLocationSMS(payload, phoneNumber);
+                Toast.makeText(this, "Location sent via SMS to " + phoneNumber, Toast.LENGTH_SHORT).show();
+            } catch (Exception e) {
+                // Handle any failure in sending (e.g., permission issue or SMS error)
+                Toast.makeText(this, "Failed to send SMS. Please check permissions.", Toast.LENGTH_LONG).show();
+            }
         } else {
+            // Could not get location (GPS off or no permission)
             Toast.makeText(this, "Location unavailable. Please enable GPS or permissions.", Toast.LENGTH_SHORT).show();
         }
     }
@@ -124,11 +133,11 @@ public class RequestRideActivity extends AppCompatActivity {
      * Requests necessary runtime permissions for SMS and location.
      */
     private void requestLocationAndSmsPermissions() {
-        if (ContextCompat.checkSelfPermission(this, Manifest.permission.SEND_SMS) != PackageManager.PERMISSION_GRANTED
-                || ContextCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED
-                || ContextCompat.checkSelfPermission(this, Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
-
-            ActivityCompat.requestPermissions(this, new String[]{
+        boolean needSms = ContextCompat.checkSelfPermission(this, Manifest.permission.SEND_SMS) != PackageManager.PERMISSION_GRANTED;
+        boolean needFineLoc = ContextCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED;
+        boolean needCoarseLoc = ContextCompat.checkSelfPermission(this, Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED;
+        if (needSms || needFineLoc || needCoarseLoc) {
+            ActivityCompat.requestPermissions(this, new String[] {
                     Manifest.permission.SEND_SMS,
                     Manifest.permission.ACCESS_FINE_LOCATION,
                     Manifest.permission.ACCESS_COARSE_LOCATION

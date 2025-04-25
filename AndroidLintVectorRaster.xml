@@ -1,0 +1,132 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/appicon.xml</file>
+  <line>3</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/appicon.xml" />
+  <problem_class id="AndroidLintVectorRaster" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vector Image Generation</problem_class>
+  <hints />
+  <description>&lt;html&gt;Limit vector icons sizes to 200×200 to keep icon drawing fast; see &lt;a href=&quot;https://developer.android.com/studio/write/vector-asset-studio#when&quot;&gt;https://developer.android.com/studio/write/vector-asset-studio#when&lt;/a&gt; for more&lt;/html&gt;</description>
+  <highlighted_element>800dp</highlighted_element>
+  <language>XML</language>
+  <offset>19</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/busystate.xml</file>
+  <line>2</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/busystate.xml" />
+  <problem_class id="AndroidLintVectorRaster" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vector Image Generation</problem_class>
+  <hints />
+  <description>&lt;html&gt;Limit vector icons sizes to 200×200 to keep icon drawing fast; see &lt;a href=&quot;https://developer.android.com/studio/write/vector-asset-studio#when&quot;&gt;https://developer.android.com/studio/write/vector-asset-studio#when&lt;/a&gt; for more&lt;/html&gt;</description>
+  <highlighted_element>800dp</highlighted_element>
+  <language>XML</language>
+  <offset>19</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/chat_speech_bubble_svgrepo_com.xml</file>
+  <line>2</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/chat_speech_bubble_svgrepo_com.xml" />
+  <problem_class id="AndroidLintVectorRaster" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vector Image Generation</problem_class>
+  <hints />
+  <description>&lt;html&gt;Limit vector icons sizes to 200×200 to keep icon drawing fast; see &lt;a href=&quot;https://developer.android.com/studio/write/vector-asset-studio#when&quot;&gt;https://developer.android.com/studio/write/vector-asset-studio#when&lt;/a&gt; for more&lt;/html&gt;</description>
+  <highlighted_element>800dp</highlighted_element>
+  <language>XML</language>
+  <offset>19</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/gridtwist.xml</file>
+  <line>2</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/gridtwist.xml" />
+  <problem_class id="AndroidLintVectorRaster" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vector Image Generation</problem_class>
+  <hints />
+  <description>&lt;html&gt;Limit vector icons sizes to 200×200 to keep icon drawing fast; see &lt;a href=&quot;https://developer.android.com/studio/write/vector-asset-studio#when&quot;&gt;https://developer.android.com/studio/write/vector-asset-studio#when&lt;/a&gt; for more&lt;/html&gt;</description>
+  <highlighted_element>800dp</highlighted_element>
+  <language>XML</language>
+  <offset>19</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/iconprofile.xml</file>
+  <line>2</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/iconprofile.xml" />
+  <problem_class id="AndroidLintVectorRaster" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vector Image Generation</problem_class>
+  <hints />
+  <description>&lt;html&gt;Limit vector icons sizes to 200×200 to keep icon drawing fast; see &lt;a href=&quot;https://developer.android.com/studio/write/vector-asset-studio#when&quot;&gt;https://developer.android.com/studio/write/vector-asset-studio#when&lt;/a&gt; for more&lt;/html&gt;</description>
+  <highlighted_element>800dp</highlighted_element>
+  <language>XML</language>
+  <offset>19</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/map.xml</file>
+  <line>2</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/map.xml" />
+  <problem_class id="AndroidLintVectorRaster" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vector Image Generation</problem_class>
+  <hints />
+  <description>&lt;html&gt;Limit vector icons sizes to 200×200 to keep icon drawing fast; see &lt;a href=&quot;https://developer.android.com/studio/write/vector-asset-studio#when&quot;&gt;https://developer.android.com/studio/write/vector-asset-studio#when&lt;/a&gt; for more&lt;/html&gt;</description>
+  <highlighted_element>800dp</highlighted_element>
+  <language>XML</language>
+  <offset>19</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/readystate.xml</file>
+  <line>2</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/readystate.xml" />
+  <problem_class id="AndroidLintVectorRaster" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vector Image Generation</problem_class>
+  <hints />
+  <description>&lt;html&gt;Limit vector icons sizes to 200×200 to keep icon drawing fast; see &lt;a href=&quot;https://developer.android.com/studio/write/vector-asset-studio#when&quot;&gt;https://developer.android.com/studio/write/vector-asset-studio#when&lt;/a&gt; for more&lt;/html&gt;</description>
+  <highlighted_element>800dp</highlighted_element>
+  <language>XML</language>
+  <offset>19</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/riderchatbike.xml</file>
+  <line>2</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/riderchatbike.xml" />
+  <problem_class id="AndroidLintVectorRaster" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vector Image Generation</problem_class>
+  <hints />
+  <description>&lt;html&gt;Limit vector icons sizes to 200×200 to keep icon drawing fast; see &lt;a href=&quot;https://developer.android.com/studio/write/vector-asset-studio#when&quot;&gt;https://developer.android.com/studio/write/vector-asset-studio#when&lt;/a&gt; for more&lt;/html&gt;</description>
+  <highlighted_element>800dp</highlighted_element>
+  <language>XML</language>
+  <offset>19</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/ridericon.xml</file>
+  <line>2</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/ridericon.xml" />
+  <problem_class id="AndroidLintVectorRaster" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vector Image Generation</problem_class>
+  <hints />
+  <description>&lt;html&gt;Limit vector icons sizes to 200×200 to keep icon drawing fast; see &lt;a href=&quot;https://developer.android.com/studio/write/vector-asset-studio#when&quot;&gt;https://developer.android.com/studio/write/vector-asset-studio#when&lt;/a&gt; for more&lt;/html&gt;</description>
+  <highlighted_element>800dp</highlighted_element>
+  <language>XML</language>
+  <offset>19</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/statusavailable.xml</file>
+  <line>2</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/statusavailable.xml" />
+  <problem_class id="AndroidLintVectorRaster" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vector Image Generation</problem_class>
+  <hints />
+  <description>&lt;html&gt;Limit vector icons sizes to 200×200 to keep icon drawing fast; see &lt;a href=&quot;https://developer.android.com/studio/write/vector-asset-studio#when&quot;&gt;https://developer.android.com/studio/write/vector-asset-studio#when&lt;/a&gt; for more&lt;/html&gt;</description>
+  <highlighted_element>800dp</highlighted_element>
+  <language>XML</language>
+  <offset>19</offset>
+  <length>5</length>
+</problem>
+</problems>

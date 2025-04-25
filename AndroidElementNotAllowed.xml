@@ -1,0 +1,146 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_unchecked.xml</file>
+  <line>23</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_unchecked.xml" />
+  <problem_class id="AndroidElementNotAllowed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Android XML element is not allowed</problem_class>
+  <description>Element set is not allowed here</description>
+  <highlighted_element>set</highlighted_element>
+  <language>XML</language>
+  <offset>3</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_unchecked.xml</file>
+  <line>26</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_unchecked.xml" />
+  <problem_class id="AndroidElementNotAllowed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Android XML element is not allowed</problem_class>
+  <description>Element target is not allowed here</description>
+  <highlighted_element>target</highlighted_element>
+  <language>XML</language>
+  <offset>5</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_unchecked.xml</file>
+  <line>35</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_unchecked.xml" />
+  <problem_class id="AndroidElementNotAllowed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Android XML element is not allowed</problem_class>
+  <description>Element target is not allowed here</description>
+  <highlighted_element>target</highlighted_element>
+  <language>XML</language>
+  <offset>6</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_unchecked.xml</file>
+  <line>36</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_unchecked.xml" />
+  <problem_class id="AndroidElementNotAllowed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Android XML element is not allowed</problem_class>
+  <description>Element target is not allowed here</description>
+  <highlighted_element>target</highlighted_element>
+  <language>XML</language>
+  <offset>5</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_unchecked.xml</file>
+  <line>46</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_unchecked.xml" />
+  <problem_class id="AndroidElementNotAllowed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Android XML element is not allowed</problem_class>
+  <description>Element target is not allowed here</description>
+  <highlighted_element>target</highlighted_element>
+  <language>XML</language>
+  <offset>6</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_unchecked.xml</file>
+  <line>47</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_checked_unchecked.xml" />
+  <problem_class id="AndroidElementNotAllowed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Android XML element is not allowed</problem_class>
+  <description>Element set is not allowed here</description>
+  <highlighted_element>set</highlighted_element>
+  <language>XML</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_checked.xml</file>
+  <line>23</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_checked.xml" />
+  <problem_class id="AndroidElementNotAllowed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Android XML element is not allowed</problem_class>
+  <description>Element set is not allowed here</description>
+  <highlighted_element>set</highlighted_element>
+  <language>XML</language>
+  <offset>3</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_checked.xml</file>
+  <line>26</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_checked.xml" />
+  <problem_class id="AndroidElementNotAllowed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Android XML element is not allowed</problem_class>
+  <description>Element target is not allowed here</description>
+  <highlighted_element>target</highlighted_element>
+  <language>XML</language>
+  <offset>5</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_checked.xml</file>
+  <line>35</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_checked.xml" />
+  <problem_class id="AndroidElementNotAllowed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Android XML element is not allowed</problem_class>
+  <description>Element target is not allowed here</description>
+  <highlighted_element>target</highlighted_element>
+  <language>XML</language>
+  <offset>6</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_checked.xml</file>
+  <line>36</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_checked.xml" />
+  <problem_class id="AndroidElementNotAllowed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Android XML element is not allowed</problem_class>
+  <description>Element target is not allowed here</description>
+  <highlighted_element>target</highlighted_element>
+  <language>XML</language>
+  <offset>5</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_checked.xml</file>
+  <line>46</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_checked.xml" />
+  <problem_class id="AndroidElementNotAllowed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Android XML element is not allowed</problem_class>
+  <description>Element target is not allowed here</description>
+  <highlighted_element>target</highlighted_element>
+  <language>XML</language>
+  <offset>6</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_checked.xml</file>
+  <line>47</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/mtrl_switch_thumb_unchecked_checked.xml" />
+  <problem_class id="AndroidElementNotAllowed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Android XML element is not allowed</problem_class>
+  <description>Element set is not allowed here</description>
+  <highlighted_element>set</highlighted_element>
+  <language>XML</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+</problems>

@@ -1,0 +1,67 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_chat_detail.xml</file>
+  <line>8</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_chat_detail.xml" />
+  <problem_class id="AndroidLintOverdraw" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+  <hints />
+  <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;@android:color/white&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/Theme.GeoQuiz&lt;/code&gt;)&lt;/html&gt;</description>
+  <highlighted_element>android:background=&quot;@android:color/white&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>4</offset>
+  <length>41</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml</file>
+  <line>10</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+  <problem_class id="AndroidLintOverdraw" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+  <hints />
+  <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;@android:color/white&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/Theme.GeoQuiz&lt;/code&gt;)&lt;/html&gt;</description>
+  <highlighted_element>android:background=&quot;@android:color/white&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>4</offset>
+  <length>41</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_role_chooser.xml</file>
+  <line>8</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_role_chooser.xml" />
+  <problem_class id="AndroidLintOverdraw" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+  <hints />
+  <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;@android:color/white&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/Theme.GeoQuiz&lt;/code&gt;)&lt;/html&gt;</description>
+  <highlighted_element>android:background=&quot;@android:color/white&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>4</offset>
+  <length>41</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/riderequest.xml</file>
+  <line>7</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/riderequest.xml" />
+  <problem_class id="AndroidLintOverdraw" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+  <hints />
+  <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;@android:color/white&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/Theme.GeoQuiz&lt;/code&gt;)&lt;/html&gt;</description>
+  <highlighted_element>android:background=&quot;@android:color/white&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>4</offset>
+  <length>41</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/riderider.xml</file>
+  <line>11</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/riderider.xml" />
+  <problem_class id="AndroidLintOverdraw" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+  <hints />
+  <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;@android:color/white&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/Theme.GeoQuiz&lt;/code&gt;)&lt;/html&gt;</description>
+  <highlighted_element>android:background=&quot;@android:color/white&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>4</offset>
+  <length>41</length>
+</problem>
+</problems>

@@ -1,0 +1,30 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>35</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity" />
+  <problem_class id="CyclicClassDependency" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Cyclic class dependency</problem_class>
+  <hints />
+  <description>Class 'MainFunctionActivity' is cyclically dependent on class 'com.example.geoquiz.presentation.feature_request.RequestRideActivity'</description>
+  <highlighted_element>MainFunctionActivity</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>28</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity" />
+  <problem_class id="CyclicClassDependency" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Cyclic class dependency</problem_class>
+  <hints />
+  <description>Class 'RequestRideActivity' is cyclically dependent on class 'com.example.geoquiz.presentation.feature_chat.MainFunctionActivity'</description>
+  <highlighted_element>RequestRideActivity</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>19</length>
+</problem>
+</problems>

@@ -1,0 +1,2056 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>26</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void setUp()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;dbHelper&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>dbHelper</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>27</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void setUp()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;db&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>db</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>27</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void setUp()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;dbHelper&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>dbHelper</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>28</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void setUp()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;db&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>db</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>33</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void tearDown()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;db&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>db</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>38</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertLog_ValidValues()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;dbHelper&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>dbHelper</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>42</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertLog_ValidValues()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;db&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>db</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>67</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertLog_InvalidValues()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;dbHelper&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>dbHelper</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>77</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertMultipleLogs()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;dbHelper&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>dbHelper</highlighted_element>
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/geoquiz/database/GeoQuizDatabaseHelperTest.java</file>
+  <line>87</line>
+  <module>GeoQuiz.app.androidTest</module>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.database.GeoQuizDatabaseHelperTest void testInsertMultipleLogs()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;db&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>db</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/MessageEntity.java</file>
+  <line>68</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.MessageEntity java.lang.String getSender()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;sender&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>sender</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/MessageEntity.java</file>
+  <line>76</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.MessageEntity java.lang.String getMessage()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;message&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>message</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/MessageEntity.java</file>
+  <line>83</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.MessageEntity long getTimestamp()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;timestamp&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>timestamp</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/MessageEntity.java</file>
+  <line>90</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.MessageEntity java.lang.String getReceiver()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;receiver&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>receiver</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/repository/LocationLogRepositoryImpl.java</file>
+  <line>24</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.repository</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.repository.LocationLogRepositoryImpl androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt;&gt; getAllLogs()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;db&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>db</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/repository/LocationLogRepositoryImpl.java</file>
+  <line>28</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.repository</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.repository.LocationLogRepositoryImpl androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt;&gt; getAllLogsLive()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;db&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>db</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/repository/MessageRepositoryImpl.java</file>
+  <line>33</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.repository</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.repository.MessageRepositoryImpl void insertMessage(com.example.geoquiz.data.local.database.MessageEntity message)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;db&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>db</highlighted_element>
+  <language>JAVA</language>
+  <offset>60</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/repository/MessageRepositoryImpl.java</file>
+  <line>38</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.repository</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.repository.MessageRepositoryImpl androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.MessageEntity&gt;&gt; getAllMessages()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;db&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>db</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/repository/MessageRepositoryImpl.java</file>
+  <line>42</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.repository</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.repository.MessageRepositoryImpl androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.MessageEntity&gt;&gt; getMessagesForContact(java.lang.String contactPhone)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;db&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>db</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>34</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter com.example.geoquiz.domain.RiderHistoryAdapter.ViewHolder onCreateViewHolder(android.view.ViewGroup parent, int viewType)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;context&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>context</highlighted_element>
+  <language>JAVA</language>
+  <offset>40</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>40</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter void onBindViewHolder(com.example.geoquiz.domain.RiderHistoryAdapter.ViewHolder holder, int position)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;riderList&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>riderList</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>56</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter void onBindViewHolder(com.example.geoquiz.domain.RiderHistoryAdapter.ViewHolder holder, int position)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;listener&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>listener</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>57</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter void onBindViewHolder(com.example.geoquiz.domain.RiderHistoryAdapter.ViewHolder holder, int position)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;listener&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>listener</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>59</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter void onBindViewHolder(com.example.geoquiz.domain.RiderHistoryAdapter.ViewHolder holder, int position)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;context&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>context</highlighted_element>
+  <language>JAVA</language>
+  <offset>39</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>62</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter void onBindViewHolder(com.example.geoquiz.domain.RiderHistoryAdapter.ViewHolder holder, int position)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;context&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>context</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>69</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter int getItemCount()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;riderList&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>riderList</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>81</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter.ViewHolder ViewHolder(android.view.View itemView)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;imgProfile&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>imgProfile</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>82</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter.ViewHolder ViewHolder(android.view.View itemView)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;tvRiderName&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>tvRiderName</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>83</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter.ViewHolder ViewHolder(android.view.View itemView)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;tvLatestMessage&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>tvLatestMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>84</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter.ViewHolder ViewHolder(android.view.View itemView)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;imgStatusSticker&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>imgStatusSticker</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/model/RiderInfo.java</file>
+  <line>24</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain.model</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.model.RiderInfo java.lang.String getRiderName()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;riderName&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>riderName</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/model/RiderInfo.java</file>
+  <line>28</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain.model</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.model.RiderInfo java.lang.String getLatestMessage()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;latestMessage&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>latestMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/model/RiderInfo.java</file>
+  <line>32</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain.model</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.model.RiderInfo java.lang.String getPhoneNumber()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;phoneNumber&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>phoneNumber</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/model/RiderInfo.java</file>
+  <line>36</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain.model</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.model.RiderInfo boolean isAvailable()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;isAvailable&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>isAvailable</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/model/RiderInfo.java</file>
+  <line>40</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain.model</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.model.RiderInfo int getProfileImageResId()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;profileImageResId&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>profileImageResId</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/location/CustomLocationManagerImpl.java</file>
+  <line>17</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.location</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.location.CustomLocationManagerImpl android.location.Location getLastKnownLocation(java.lang.String gpsProvider)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;locationManager&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>locationManager</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>80</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter.SentViewHolder SentViewHolder(android.view.View itemView)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;tvMessage&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>tvMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/adapter/ChatMessageAdapter.java</file>
+  <line>89</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.adapter</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.adapter.ChatMessageAdapter.ReceivedViewHolder ReceivedViewHolder(android.view.View itemView)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;tvMessage&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>tvMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/ChatDetailViewModel.java</file>
+  <line>42</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.ChatDetailViewModel androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.MessageEntity&gt;&gt; getMessagesForContact(java.lang.String contactPhone)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;messageRepo&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>messageRepo</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/ChatDetailViewModel.java</file>
+  <line>47</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.ChatDetailViewModel void sendMessage(java.lang.String sender, java.lang.String receiver, java.lang.String messageText)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;messageRepo&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>messageRepo</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>59</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;selectedPhoneNumber&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>selectedPhoneNumber</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>60</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;selectedPhoneNumber&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>selectedPhoneNumber</highlighted_element>
+  <language>JAVA</language>
+  <offset>56</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>64</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;etMessage&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>etMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>65</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;btnSend&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>btnSend</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>72</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;viewModel&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>viewModel</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>75</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;viewModel&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>viewModel</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>89</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;selectedPhoneNumber&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>selectedPhoneNumber</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>90</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;selectedPhoneNumber&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>selectedPhoneNumber</highlighted_element>
+  <language>JAVA</language>
+  <offset>58</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>96</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;selectedPhoneNumber&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>selectedPhoneNumber</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>101</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;selectedPhoneNumber&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>selectedPhoneNumber</highlighted_element>
+  <language>JAVA</language>
+  <offset>42</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>110</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;btnSend&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>btnSend</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>111</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;etMessage&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>etMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>33</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>113</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;selectedPhoneNumber&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>selectedPhoneNumber</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>127</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;selectedPhoneNumber&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>selectedPhoneNumber</highlighted_element>
+  <language>JAVA</language>
+  <offset>50</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>130</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;selectedPhoneNumber&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>selectedPhoneNumber</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>132</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;viewModel&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>viewModel</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>134</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;etMessage&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>etMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionViewModel.java</file>
+  <line>34</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionViewModel androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.MessageEntity&gt;&gt; getMessages()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;messages&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>messages</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionViewModel.java</file>
+  <line>37</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionViewModel void insertMessage(com.example.geoquiz.data.local.database.MessageEntity message)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;messageRepo&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>messageRepo</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/chatDetailActivity.java</file>
+  <line>53</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;contactPhone&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>contactPhone</highlighted_element>
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/chatDetailActivity.java</file>
+  <line>54</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;contactPhone&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>contactPhone</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/chatDetailActivity.java</file>
+  <line>65</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;adapter&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>adapter</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/chatDetailActivity.java</file>
+  <line>67</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;adapter&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>adapter</highlighted_element>
+  <language>JAVA</language>
+  <offset>32</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/chatDetailActivity.java</file>
+  <line>70</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;viewModel&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>viewModel</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/chatDetailActivity.java</file>
+  <line>72</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;viewModel&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>viewModel</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/chatDetailActivity.java</file>
+  <line>72</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;contactPhone&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>contactPhone</highlighted_element>
+  <language>JAVA</language>
+  <offset>40</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/chatDetailActivity.java</file>
+  <line>74</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;adapter&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>adapter</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/chatDetailActivity.java</file>
+  <line>88</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;viewModel&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>viewModel</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/chatDetailActivity.java</file>
+  <line>88</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;contactPhone&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>contactPhone</highlighted_element>
+  <language>JAVA</language>
+  <offset>45</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_location_history/LocationHistoryActivity.java</file>
+  <line>28</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_location_history</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_location_history.LocationHistoryActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;tvHistory&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>tvHistory</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_location_history/LocationHistoryActivity.java</file>
+  <line>40</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_location_history</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_location_history.LocationHistoryActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;tvHistory&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>tvHistory</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_location_history/LocationHistoryActivity.java</file>
+  <line>53</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_location_history</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_location_history.LocationHistoryActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;tvHistory&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>tvHistory</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_location_history/LocationHistoryViewModel.java</file>
+  <line>46</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_location_history</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_location_history.LocationHistoryViewModel androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt;&gt; getLogs()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;logs&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>logs</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapGridAdapter.java</file>
+  <line>22</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapGridAdapter int getCount()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;items&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>items</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapGridAdapter.java</file>
+  <line>27</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapGridAdapter java.lang.Object getItem(int position)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;items&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>items</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapGridAdapter.java</file>
+  <line>39</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapGridAdapter android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;context&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>context</highlighted_element>
+  <language>JAVA</language>
+  <offset>32</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapGridAdapter.java</file>
+  <line>47</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapGridAdapter android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;items&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>items</highlighted_element>
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapGridAdapter.java</file>
+  <line>52</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapGridAdapter void updateData(java.util.List&lt;java.lang.String&gt; newData)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;items&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>items</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapGridAdapter.java</file>
+  <line>53</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapGridAdapter void updateData(java.util.List&lt;java.lang.String&gt; newData)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;items&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>items</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>47</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;mapView&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>mapView</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>48</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;mapView&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>mapView</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>49</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;mapView&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>mapView</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>50</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;mapView&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>mapView</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>51</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;mapView&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>mapView</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>60</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;viewModel&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>viewModel</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>63</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;viewModel&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>viewModel</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>69</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;mapView&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>mapView</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>83</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void plotMarkers(java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt; logs)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;mapView&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>mapView</highlighted_element>
+  <language>JAVA</language>
+  <offset>39</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>92</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void plotMarkers(java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt; logs)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;mapView&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>mapView</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>96</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void plotMarkers(java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt; logs)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;mapView&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>mapView</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>97</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void plotMarkers(java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt; logs)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;mapView&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>mapView</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>102</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void onResume()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;mapView&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>mapView</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerActivity.java</file>
+  <line>108</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerActivity void onPause()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;mapView&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>mapView</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>80</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel void fetchOfflineLocation(android.content.Context context)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;db&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>db</highlighted_element>
+  <language>JAVA</language>
+  <offset>58</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>61</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;tvRiderStatus&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>tvRiderStatus</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>62</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;etMessage&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>etMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>63</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;rvChatMessages&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>rvChatMessages</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>64</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;rvRideRequests&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>rvRideRequests</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>66</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;btnViewRequests&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>btnViewRequests</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>72</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;chatAdapter&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>chatAdapter</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>72</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;currentChatList&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>currentChatList</highlighted_element>
+  <language>JAVA</language>
+  <offset>51</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>73</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;rvChatMessages&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>rvChatMessages</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>74</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;rvChatMessages&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>rvChatMessages</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>74</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;chatAdapter&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>chatAdapter</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>78</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;rvRideRequests&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>rvRideRequests</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>85</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;rvRideRequests&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>rvRideRequests</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>86</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;rvRideRequests&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>rvRideRequests</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>91</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;isAvailable&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>isAvailable</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>91</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;isAvailable&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>isAvailable</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>92</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;tvRiderStatus&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>tvRiderStatus</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>92</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;isAvailable&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>isAvailable</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>93</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;tvRiderStatus&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>tvRiderStatus</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>93</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;isAvailable&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>isAvailable</highlighted_element>
+  <language>JAVA</language>
+  <offset>39</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>97</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;btnViewRequests&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>btnViewRequests</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>98</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;showingRequests&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>showingRequests</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>98</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;showingRequests&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>showingRequests</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>99</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;rvRideRequests&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>rvRideRequests</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>99</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;showingRequests&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>showingRequests</highlighted_element>
+  <language>JAVA</language>
+  <offset>41</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>100</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;rvChatMessages&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>rvChatMessages</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>100</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;showingRequests&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>showingRequests</highlighted_element>
+  <language>JAVA</language>
+  <offset>41</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>101</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;btnViewRequests&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>btnViewRequests</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>101</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;showingRequests&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>showingRequests</highlighted_element>
+  <language>JAVA</language>
+  <offset>36</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>105</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;etMessage&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>etMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>33</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>108</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;etMessage&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>etMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>131</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void observeChatMessages()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;currentChatList&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>currentChatList</highlighted_element>
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>133</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void observeChatMessages()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;currentChatList&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>currentChatList</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>141</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void observeChatMessages()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;chatAdapter&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>chatAdapter</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>142</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void observeChatMessages()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;currentChatList&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>currentChatList</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>143</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void observeChatMessages()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;rvChatMessages&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>rvChatMessages</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderActivity.java</file>
+  <line>143</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderActivity void observeChatMessages()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;currentChatList&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>currentChatList</highlighted_element>
+  <language>JAVA</language>
+  <offset>48</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderViewModel.java</file>
+  <line>42</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderViewModel androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.MessageEntity&gt;&gt; getMessages()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;messageRepo&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>messageRepo</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_rider/RiderViewModel.java</file>
+  <line>52</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_rider.RiderViewModel void sendMessage(java.lang.String sender, java.lang.String message)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;messageRepo&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>messageRepo</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleChooserActivity.java</file>
+  <line>29</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleChooserActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;btnRider&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>btnRider</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleChooserActivity.java</file>
+  <line>30</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleChooserActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;btnUser&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>btnUser</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleChooserActivity.java</file>
+  <line>32</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleChooserActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;btnUser&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>btnUser</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleChooserActivity.java</file>
+  <line>40</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleChooserActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;btnRider&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>btnRider</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>36</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void setUp()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;mockContext&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>mockContext</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>36</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void setUp()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;mockLocationManager&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>mockLocationManager</highlighted_element>
+  <language>JAVA</language>
+  <offset>80</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>37</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void setUp()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;mockContext&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>mockContext</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>37</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void setUp()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;mockTelephonyManager&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>mockTelephonyManager</highlighted_element>
+  <language>JAVA</language>
+  <offset>81</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>42</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;mockContext&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>mockContext</highlighted_element>
+  <language>JAVA</language>
+  <offset>51</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>45</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;mockLocation&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>mockLocation</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>46</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;mockLocation&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>mockLocation</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>47</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;mockLocation&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>mockLocation</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>48</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;mockLocationManager&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>mockLocationManager</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>48</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;mockLocation&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>mockLocation</highlighted_element>
+  <language>JAVA</language>
+  <offset>96</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>51</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;mockSignalStrength&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>mockSignalStrength</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>52</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;mockSignalStrength&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>mockSignalStrength</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>53</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;mockCellInfoLte&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>mockCellInfoLte</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>53</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;mockSignalStrength&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>mockSignalStrength</highlighted_element>
+  <language>JAVA</language>
+  <offset>65</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>54</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;mockTelephonyManager&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>mockTelephonyManager</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>54</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;mockCellInfoLte&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>mockCellInfoLte</highlighted_element>
+  <language>JAVA</language>
+  <offset>89</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>56</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;mockContext&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>mockContext</highlighted_element>
+  <language>JAVA</language>
+  <offset>73</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>68</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationFailsWithoutPermissions()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;mockContext&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>mockContext</highlighted_element>
+  <language>JAVA</language>
+  <offset>51</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>70</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationFailsWithoutPermissions()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;mockContext&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>mockContext</highlighted_element>
+  <language>JAVA</language>
+  <offset>73</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>77</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationFailsWhenNoLocationAvailable()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;mockContext&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>mockContext</highlighted_element>
+  <language>JAVA</language>
+  <offset>51</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>78</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationFailsWhenNoLocationAvailable()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;mockLocationManager&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>mockLocationManager</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>80</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationFailsWhenNoLocationAvailable()" />
+  <problem_class id="UnqualifiedFieldAccess" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field access not qualified with 'this'</problem_class>
+  <description>Instance field access &lt;code&gt;mockContext&lt;/code&gt; is not qualified with 'this' #loc</description>
+  <highlighted_element>mockContext</highlighted_element>
+  <language>JAVA</language>
+  <offset>73</offset>
+  <length>11</length>
+</problem>
+</problems>

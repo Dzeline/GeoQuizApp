@@ -1,0 +1,54 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>18</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter.OnRiderClickListener" />
+  <problem_class id="PublicInnerClass" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' nested class</problem_class>
+  <description>'public' nested class &lt;code&gt;OnRiderClickListener&lt;/code&gt; #loc</description>
+  <highlighted_element>OnRiderClickListener</highlighted_element>
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>73</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter.ViewHolder" />
+  <problem_class id="PublicInnerClass" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' nested class</problem_class>
+  <description>'public' nested class &lt;code&gt;ViewHolder&lt;/code&gt; #loc</description>
+  <highlighted_element>ViewHolder</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleManager.java</file>
+  <line>11</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.presentation.feature_role.RoleManager.Role" />
+  <problem_class id="PublicInnerClass" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' nested class</problem_class>
+  <description>'public' nested class &lt;code&gt;Role&lt;/code&gt; #loc</description>
+  <highlighted_element>Role</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/util/OfflineLocationHelper.java</file>
+  <line>18</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.util.OfflineLocationHelper.LocationData" />
+  <problem_class id="PublicInnerClass" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' nested class</problem_class>
+  <description>'public' nested class &lt;code&gt;LocationData&lt;/code&gt; #loc</description>
+  <highlighted_element>LocationData</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>12</length>
+</problem>
+</problems>

@@ -1,0 +1,418 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/GeoQuizDatabase.java</file>
+  <line>27</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.GeoQuizDatabase com.example.geoquiz.data.local.database.GeoQuizDatabase getInstance(android.app.Application context)" />
+  <problem_class id="LawOfDemeter" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Law of Demeter</problem_class>
+  <description>Call to &lt;code&gt;fallbackToDestructiveMigration()&lt;/code&gt; violates Law of Demeter #loc</description>
+  <highlighted_element>fallbackToDestructiveMigration</highlighted_element>
+  <language>JAVA</language>
+  <offset>29</offset>
+  <length>30</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/database/GeoQuizDatabase.java</file>
+  <line>28</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.database</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.database.GeoQuizDatabase com.example.geoquiz.data.local.database.GeoQuizDatabase getInstance(android.app.Application context)" />
+  <problem_class id="LawOfDemeter" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Law of Demeter</problem_class>
+  <description>Call to &lt;code&gt;build()&lt;/code&gt; violates Law of Demeter #loc</description>
+  <highlighted_element>build</highlighted_element>
+  <language>JAVA</language>
+  <offset>29</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/repository/LocationLogRepositoryImpl.java</file>
+  <line>24</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.repository</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.repository.LocationLogRepositoryImpl androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt;&gt; getAllLogs()" />
+  <problem_class id="LawOfDemeter" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Law of Demeter</problem_class>
+  <description>Call to &lt;code&gt;getAllLogs()&lt;/code&gt; violates Law of Demeter #loc</description>
+  <highlighted_element>getAllLogs</highlighted_element>
+  <language>JAVA</language>
+  <offset>36</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/repository/LocationLogRepositoryImpl.java</file>
+  <line>28</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.repository</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.repository.LocationLogRepositoryImpl androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.LocationLogEntity&gt;&gt; getAllLogsLive()" />
+  <problem_class id="LawOfDemeter" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Law of Demeter</problem_class>
+  <description>Call to &lt;code&gt;getAllLogsLive()&lt;/code&gt; violates Law of Demeter #loc</description>
+  <highlighted_element>getAllLogsLive</highlighted_element>
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/repository/MessageRepositoryImpl.java</file>
+  <line>33</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.repository</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.repository.MessageRepositoryImpl void insertMessage(com.example.geoquiz.data.local.database.MessageEntity message)" />
+  <problem_class id="LawOfDemeter" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Law of Demeter</problem_class>
+  <description>Call to &lt;code&gt;insertMessage()&lt;/code&gt; violates Law of Demeter #loc</description>
+  <highlighted_element>insertMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>76</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/repository/MessageRepositoryImpl.java</file>
+  <line>38</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.repository</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.repository.MessageRepositoryImpl androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.MessageEntity&gt;&gt; getAllMessages()" />
+  <problem_class id="LawOfDemeter" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Law of Demeter</problem_class>
+  <description>Call to &lt;code&gt;getAllMessages()&lt;/code&gt; violates Law of Demeter #loc</description>
+  <highlighted_element>getAllMessages</highlighted_element>
+  <language>JAVA</language>
+  <offset>32</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/data/local/repository/MessageRepositoryImpl.java</file>
+  <line>42</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.data.local.repository</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.data.local.repository.MessageRepositoryImpl androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.MessageEntity&gt;&gt; getMessagesForContact(java.lang.String contactPhone)" />
+  <problem_class id="LawOfDemeter" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Law of Demeter</problem_class>
+  <description>Call to &lt;code&gt;getMessagesForContact()&lt;/code&gt; violates Law of Demeter #loc</description>
+  <highlighted_element>getMessagesForContact</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/di/AppModule.java</file>
+  <line>32</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.di</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.di.AppModule com.example.geoquiz.data.local.database.GeoQuizDatabase provideDatabase(android.content.Context context)" />
+  <problem_class id="LawOfDemeter" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Law of Demeter</problem_class>
+  <description>Call to &lt;code&gt;fallbackToDestructiveMigration()&lt;/code&gt; violates Law of Demeter #loc</description>
+  <highlighted_element>fallbackToDestructiveMigration</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>30</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/di/AppModule.java</file>
+  <line>33</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.di</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.di.AppModule com.example.geoquiz.data.local.database.GeoQuizDatabase provideDatabase(android.content.Context context)" />
+  <problem_class id="LawOfDemeter" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Law of Demeter</problem_class>
+  <description>Call to &lt;code&gt;build()&lt;/code&gt; violates Law of Demeter #loc</description>
+  <highlighted_element>build</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_location_history/LocationHistoryActivity.java</file>
+  <line>37</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_location_history</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_location_history.LocationHistoryActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="LawOfDemeter" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Law of Demeter</problem_class>
+  <description>Call to &lt;code&gt;getLogs()&lt;/code&gt; violates Law of Demeter #loc</description>
+  <highlighted_element>getLogs</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>69</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel void fetchOfflineLocation(android.content.Context context)" />
+  <problem_class id="LawOfDemeter" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Law of Demeter</problem_class>
+  <description>Access of &lt;code&gt;success&lt;/code&gt; violates Law of Demeter #loc</description>
+  <highlighted_element>success</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>74</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel void fetchOfflineLocation(android.content.Context context)" />
+  <problem_class id="LawOfDemeter" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Law of Demeter</problem_class>
+  <description>Access of &lt;code&gt;latitude&lt;/code&gt; violates Law of Demeter #loc</description>
+  <highlighted_element>latitude</highlighted_element>
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>75</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel void fetchOfflineLocation(android.content.Context context)" />
+  <problem_class id="LawOfDemeter" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Law of Demeter</problem_class>
+  <description>Access of &lt;code&gt;longitude&lt;/code&gt; violates Law of Demeter #loc</description>
+  <highlighted_element>longitude</highlighted_element>
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>76</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel void fetchOfflineLocation(android.content.Context context)" />
+  <problem_class id="LawOfDemeter" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Law of Demeter</problem_class>
+  <description>Access of &lt;code&gt;accuracy&lt;/code&gt; violates Law of Demeter #loc</description>
+  <highlighted_element>accuracy</highlighted_element>
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>77</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel void fetchOfflineLocation(android.content.Context context)" />
+  <problem_class id="LawOfDemeter" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Law of Demeter</problem_class>
+  <description>Access of &lt;code&gt;signalDbm&lt;/code&gt; violates Law of Demeter #loc</description>
+  <highlighted_element>signalDbm</highlighted_element>
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>78</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel void fetchOfflineLocation(android.content.Context context)" />
+  <problem_class id="LawOfDemeter" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Law of Demeter</problem_class>
+  <description>Access of &lt;code&gt;timingAdvance&lt;/code&gt; violates Law of Demeter #loc</description>
+  <highlighted_element>timingAdvance</highlighted_element>
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapViewerViewModel.java</file>
+  <line>80</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapViewerViewModel void fetchOfflineLocation(android.content.Context context)" />
+  <problem_class id="LawOfDemeter" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Law of Demeter</problem_class>
+  <description>Call to &lt;code&gt;insertLog()&lt;/code&gt; violates Law of Demeter #loc</description>
+  <highlighted_element>insertLog</highlighted_element>
+  <language>JAVA</language>
+  <offset>78</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>113</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void shareLocationViaSMS(java.lang.String phoneNumber)" />
+  <problem_class id="LawOfDemeter" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Law of Demeter</problem_class>
+  <description>Access of &lt;code&gt;success&lt;/code&gt; violates Law of Demeter #loc</description>
+  <highlighted_element>success</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>115</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void shareLocationViaSMS(java.lang.String phoneNumber)" />
+  <problem_class id="LawOfDemeter" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Law of Demeter</problem_class>
+  <description>Access of &lt;code&gt;latitude&lt;/code&gt; violates Law of Demeter #loc</description>
+  <highlighted_element>latitude</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>115</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void shareLocationViaSMS(java.lang.String phoneNumber)" />
+  <problem_class id="LawOfDemeter" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Law of Demeter</problem_class>
+  <description>Access of &lt;code&gt;longitude&lt;/code&gt; violates Law of Demeter #loc</description>
+  <highlighted_element>longitude</highlighted_element>
+  <language>JAVA</language>
+  <offset>38</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>115</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void shareLocationViaSMS(java.lang.String phoneNumber)" />
+  <problem_class id="LawOfDemeter" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Law of Demeter</problem_class>
+  <description>Access of &lt;code&gt;accuracy&lt;/code&gt; violates Law of Demeter #loc</description>
+  <highlighted_element>accuracy</highlighted_element>
+  <language>JAVA</language>
+  <offset>53</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>115</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void shareLocationViaSMS(java.lang.String phoneNumber)" />
+  <problem_class id="LawOfDemeter" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Law of Demeter</problem_class>
+  <description>Access of &lt;code&gt;signalDbm&lt;/code&gt; violates Law of Demeter #loc</description>
+  <highlighted_element>signalDbm</highlighted_element>
+  <language>JAVA</language>
+  <offset>67</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>115</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void shareLocationViaSMS(java.lang.String phoneNumber)" />
+  <problem_class id="LawOfDemeter" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Law of Demeter</problem_class>
+  <description>Access of &lt;code&gt;timingAdvance&lt;/code&gt; violates Law of Demeter #loc</description>
+  <highlighted_element>timingAdvance</highlighted_element>
+  <language>JAVA</language>
+  <offset>82</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/receivers/SmsReceiver.java</file>
+  <line>53</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.receivers</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.receivers.SmsReceiver void onReceive(android.content.Context context, android.content.Intent intent)" />
+  <problem_class id="LawOfDemeter" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Law of Demeter</problem_class>
+  <description>Call to &lt;code&gt;insertLog()&lt;/code&gt; violates Law of Demeter #loc</description>
+  <highlighted_element>insertLog</highlighted_element>
+  <language>JAVA</language>
+  <offset>48</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>58</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="LawOfDemeter" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Law of Demeter</problem_class>
+  <description>Access of &lt;code&gt;success&lt;/code&gt; violates Law of Demeter #loc</description>
+  <highlighted_element>success</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>59</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="LawOfDemeter" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Law of Demeter</problem_class>
+  <description>Access of &lt;code&gt;latitude&lt;/code&gt; violates Law of Demeter #loc</description>
+  <highlighted_element>latitude</highlighted_element>
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>60</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="LawOfDemeter" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Law of Demeter</problem_class>
+  <description>Access of &lt;code&gt;longitude&lt;/code&gt; violates Law of Demeter #loc</description>
+  <highlighted_element>longitude</highlighted_element>
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>61</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="LawOfDemeter" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Law of Demeter</problem_class>
+  <description>Access of &lt;code&gt;accuracy&lt;/code&gt; violates Law of Demeter #loc</description>
+  <highlighted_element>accuracy</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>62</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="LawOfDemeter" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Law of Demeter</problem_class>
+  <description>Access of &lt;code&gt;signalDbm&lt;/code&gt; violates Law of Demeter #loc</description>
+  <highlighted_element>signalDbm</highlighted_element>
+  <language>JAVA</language>
+  <offset>33</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>63</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationWithPermissionsAndLteTower()" />
+  <problem_class id="LawOfDemeter" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Law of Demeter</problem_class>
+  <description>Access of &lt;code&gt;timingAdvance&lt;/code&gt; violates Law of Demeter #loc</description>
+  <highlighted_element>timingAdvance</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>72</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationFailsWithoutPermissions()" />
+  <problem_class id="LawOfDemeter" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Law of Demeter</problem_class>
+  <description>Access of &lt;code&gt;success&lt;/code&gt; violates Law of Demeter #loc</description>
+  <highlighted_element>success</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/geoquiz/util/OfflineLocationHelperTest.java</file>
+  <line>82</line>
+  <module>GeoQuiz.app.unitTest</module>
+  <package>com.example.geoquiz.util</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.util.OfflineLocationHelperTest void testLocationFailsWhenNoLocationAvailable()" />
+  <problem_class id="LawOfDemeter" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Law of Demeter</problem_class>
+  <description>Access of &lt;code&gt;success&lt;/code&gt; violates Law of Demeter #loc</description>
+  <highlighted_element>success</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>7</length>
+</problem>
+</problems>

@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_location_history.xml</file>
+  <line>2</line>
+  <module>GeoQuiz.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_location_history.xml" />
+  <problem_class id="AndroidLintScrollViewCount" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">ScrollView can have only one child</problem_class>
+  <hints />
+  <description>&lt;html&gt;A scroll view can have only one child&lt;/html&gt;</description>
+  <highlighted_element>ScrollView</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>10</length>
+</problem>
+</problems>

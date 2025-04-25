@@ -1,0 +1,11 @@
+<problems>
+<problem>
+  <package>com.example.geoquiz.database</package>
+  <entry_point TYPE="package" FQNAME="com.example.geoquiz.database" />
+  <problem_class id="MissingPackageInfo" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing 'package-info.java'</problem_class>
+  <hints />
+  <description>Package 'com.example.geoquiz.database' is missing a &lt;code&gt;package-info.java&lt;/code&gt; file</description>
+  <highlighted_element />
+  <language />
+</problem>
+</problems>

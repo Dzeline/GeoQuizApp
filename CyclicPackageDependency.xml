@@ -1,0 +1,56 @@
+<problems>
+<problem>
+  <package>com.example.geoquiz.presentation.feature_rider</package>
+  <entry_point TYPE="package" FQNAME="com.example.geoquiz.presentation.feature_rider" />
+  <problem_class id="CyclicPackageDependency" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Cyclic package dependency</problem_class>
+  <hints />
+  <description>Package 'com.example.geoquiz.presentation.feature_rider' is cyclically dependent on 5 other packages</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="package" FQNAME="com.example.geoquiz.presentation.feature_request" />
+  <problem_class id="CyclicPackageDependency" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Cyclic package dependency</problem_class>
+  <hints />
+  <description>Package 'com.example.geoquiz.presentation.feature_request' is cyclically dependent on 5 other packages</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="package" FQNAME="com.example.geoquiz.presentation.feature_role" />
+  <problem_class id="CyclicPackageDependency" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Cyclic package dependency</problem_class>
+  <hints />
+  <description>Package 'com.example.geoquiz.presentation.feature_role' is cyclically dependent on 5 other packages</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="package" FQNAME="com.example.geoquiz.presentation.feature_map" />
+  <problem_class id="CyclicPackageDependency" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Cyclic package dependency</problem_class>
+  <hints />
+  <description>Package 'com.example.geoquiz.presentation.feature_map' is cyclically dependent on 5 other packages</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="package" FQNAME="com.example.geoquiz.domain" />
+  <problem_class id="CyclicPackageDependency" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Cyclic package dependency</problem_class>
+  <hints />
+  <description>Package 'com.example.geoquiz.domain' is cyclically dependent on 5 other packages</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="package" FQNAME="com.example.geoquiz.presentation.feature_chat" />
+  <problem_class id="CyclicPackageDependency" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Cyclic package dependency</problem_class>
+  <hints />
+  <description>Package 'com.example.geoquiz.presentation.feature_chat' is cyclically dependent on 5 other packages</description>
+  <highlighted_element />
+  <language />
+</problem>
+</problems>

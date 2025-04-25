@@ -34,7 +34,7 @@ public class RoleChooserActivity extends AppCompatActivity {
             Intent intent = new Intent(RoleChooserActivity.this, MainFunctionActivity.class);
             startActivity(intent);
             overridePendingTransition(android.R.anim.fade_in, android.R.anim.fade_out);
-
+            finish();
         });
 
         btnRider.setOnClickListener(v-> {
@@ -43,7 +43,7 @@ public class RoleChooserActivity extends AppCompatActivity {
             Intent intent = new Intent(RoleChooserActivity.this, RiderActivity.class);
             startActivity(intent);
             overridePendingTransition(android.R.anim.fade_in, android.R.anim.fade_out);
-
+            finish();
         });
     }
 }

@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/domain/RiderHistoryAdapter.java</file>
+  <line>27</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.domain.RiderHistoryAdapter RiderHistoryAdapter(android.content.Context context, java.util.List&lt;com.example.geoquiz.domain.model.RiderInfo&gt; riderList, com.example.geoquiz.domain.RiderHistoryAdapter.OnRiderClickListener listener)" />
+  <problem_class id="AssignmentOrReturnOfFieldWithMutableType" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Assignment or return of field with mutable type</problem_class>
+  <description>Assignment to List&lt;RiderInfo&gt; field 'riderList' from parameter &lt;code&gt;riderList&lt;/code&gt; #loc</description>
+  <highlighted_element>riderList</highlighted_element>
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_map/MapGridAdapter.java</file>
+  <line>17</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_map</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_map.MapGridAdapter MapGridAdapter(android.content.Context context, java.util.List&lt;java.lang.String&gt; items)" />
+  <problem_class id="AssignmentOrReturnOfFieldWithMutableType" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Assignment or return of field with mutable type</problem_class>
+  <description>Assignment to List&lt;String&gt; field 'items' from parameter &lt;code&gt;items&lt;/code&gt; #loc</description>
+  <highlighted_element>items</highlighted_element>
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>5</length>
+</problem>
+</problems>

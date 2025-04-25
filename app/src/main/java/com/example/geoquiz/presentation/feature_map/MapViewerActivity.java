@@ -3,7 +3,10 @@ package com.example.geoquiz.presentation.feature_map;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.os.Handler;
+import android.text.format.DateFormat;
 import android.view.View;
+import android.widget.Button;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -12,10 +15,12 @@ import androidx.lifecycle.ViewModelProvider;
 
 import com.example.geoquiz.R;
 import com.example.geoquiz.data.local.database.LocationLogEntity;
+import com.example.geoquiz.presentation.feature_chat.MainFunctionActivity;
 import com.example.geoquiz.presentation.feature_role.RoleManager;
 
 import org.osmdroid.config.Configuration;
 import org.osmdroid.tileprovider.tilesource.TileSourceFactory;
+import org.osmdroid.tileprovider.tilesource.XYTileSource;
 import org.osmdroid.util.GeoPoint;
 import org.osmdroid.views.MapView;
 import org.osmdroid.views.overlay.Marker;
@@ -35,78 +40,99 @@ public class MapViewerActivity extends AppCompatActivity {
 
     private MapView mapView;
     private MapViewerViewModel viewModel;
+    private Marker currentLocationMarker;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
         Configuration.getInstance().setUserAgentValue(getPackageName());
         setContentView(R.layout.activity_map_viewer);
 
         //Map init
         mapView = findViewById(R.id.osmMap);
-        mapView.setTileSource(TileSourceFactory.MAPNIK);
+        mapView.setTileSource(new XYTileSource("OfflineMap",
+                0, 18, 256, ".png", new String[]{}));
         mapView.setMultiTouchControls(true);
         mapView.getController().setZoom(15.0);
-        mapView.getController().setCenter(new GeoPoint(37.7749, -122.4194)); // Sample lat/lon
 
-        if (RoleManager.getRole(this) == RoleManager.Role.RIDER) {
-            View chatButton = findViewById(R.id.btnChat);
-            View historyButton = findViewById(R.id.btnHistory);
-            if (chatButton != null) chatButton.setVisibility(View.GONE);
-            if (historyButton != null) historyButton.setVisibility(View.GONE);
-        }
-           //ViewModel init
+        //Setup buttons based on role
+        setupRoleBasedUI();
+
+        //ViewModel initializing
         viewModel = new ViewModelProvider(this).get(MapViewerViewModel.class);
 
-        //Observe logs and plot markers
-        viewModel.getAllLogs().observe(this, logs -> {
-            if (logs == null || logs.isEmpty()) {
-                Toast.makeText(this, "No logs available", Toast.LENGTH_SHORT).show();
-                return;
-            }
+        // Observe location updates
+        viewModel.getAllLogs().observe(this, this::updateMapWithLocations);
 
-            mapView.getOverlays().clear();
-            plotMarkers(logs);
-        });
+        // Start periodic location updates
+        startLocationUpdates();
 
     }
 
-    /**
-     * Plots location markers with info on map.
-     *
-     * @param logs List of stored location entries
-     */
-    private void plotMarkers(List<LocationLogEntity> logs) {
-        for (LocationLogEntity log : logs) {
-            GeoPoint point = new GeoPoint(log.latitude, log.longitude);
-            Marker marker = new Marker(mapView);
-            marker.setPosition(point);
-            String formattedTime = android.text.format.DateFormat.format("yyyy-MM-dd HH:mm:ss", log.timestamp).toString();
+    private void setupRoleBasedUI() {
+        Button chatButton = findViewById(R.id.btnChat);
+        Button historyButton = findViewById(R.id.btnHistory);
 
-            marker.setTitle("📍 " + formattedTime +
-                    "\nAcc: " + log.accuracy + "m" +
-                    "\nSignal: " + log.signalDbm + " dBm" +
-                    "\nTA: " + log.timingAdvance);
-            marker.setAnchor(Marker.ANCHOR_CENTER, Marker.ANCHOR_BOTTOM);
-            mapView.getOverlays().add(marker);
+        switch (RoleManager.getRole(this)) {
+            case RIDER:
+                chatButton.setVisibility(View.GONE);
+                historyButton.setVisibility(View.GONE);
+                break;
+            case USER:
+                chatButton.setOnClickListener(v -> navigateToChat());
+                historyButton.setOnClickListener(v -> showLocationHistory());
+                break;
+        }
+    }
+
+    private void startLocationUpdates() {
+        // Update every 30 seconds
+        new Handler().postDelayed(new Runnable() {
+            @Override
+            public void run() {
+                viewModel.fetchOfflineLocation(MapViewerActivity.this);
+                handler.postDelayed(this, 30000);
+            }
+        }, 30000);
+    }
+
+    private void updateMapWithLocations(List<LocationLogEntity> logs) {
+        if (logs == null || logs.isEmpty()) return;
+
+        mapView.getOverlays().clear();
+
+        // Plot all historical locations
+        for (LocationLogEntity log : logs) {
+            addMarkerToMap(log, false);
         }
 
-        LocationLogEntity first = logs.get(0);
-        mapView.getController().setCenter(new GeoPoint(first.latitude, first.longitude));
+        // Highlight most recent location
+        LocationLogEntity latest = logs.get(logs.size()-1);
+        addMarkerToMap(latest, true);
+
+        // Center map on latest location
+        mapView.getController().setCenter(new GeoPoint(latest.latitude, latest.longitude));
         mapView.invalidate();
     }
-    @Override
-    protected void onResume() {
-        super.onResume();
-        mapView.onResume(); // required for OSMDroid
-    }
 
-    @Override
-    protected void onPause() {
-        super.onPause();
-        mapView.onPause(); // required for OSMDroid
-    }
+    private void addMarkerToMap(LocationLogEntity log, boolean isCurrent) {
+        GeoPoint point = new GeoPoint(log.latitude, log.longitude);
+        Marker marker = new Marker(mapView);
+        marker.setPosition(point);
 
+        if (isCurrent) {
+            marker.setIcon(getResources().getDrawable(R.drawable.ic_current_location));
+            currentLocationMarker = marker;
+        } else {
+            marker.setIcon(getResources().getDrawable(R.drawable.ic_history_location));
+        }
+
+        String info = String.format("Time: %s\nAccuracy: %.1fm",
+                DateFormat.format("HH:mm", log.timestamp),
+                log.accuracy);
+        marker.setTitle(info);
+        marker.setAnchor(Marker.ANCHOR_CENTER, Marker.ANCHOR_BOTTOM);
+        mapView.getOverlays().add(marker);
+    }
 
 }

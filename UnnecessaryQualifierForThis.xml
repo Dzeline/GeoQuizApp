@@ -1,0 +1,93 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>100</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnnecessaryQualifierForThis" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unnecessary qualifier for 'this' or 'super'</problem_class>
+  <description>Qualifier &lt;code&gt;MainFunctionActivity&lt;/code&gt; on 'this' is unnecessary in this context #loc</description>
+  <highlighted_element>MainFunctionActivity</highlighted_element>
+  <language>JAVA</language>
+  <offset>39</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_chat/MainFunctionActivity.java</file>
+  <line>106</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_chat</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.MainFunctionActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnnecessaryQualifierForThis" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unnecessary qualifier for 'this' or 'super'</problem_class>
+  <description>Qualifier &lt;code&gt;MainFunctionActivity&lt;/code&gt; on 'this' is unnecessary in this context #loc</description>
+  <highlighted_element>MainFunctionActivity</highlighted_element>
+  <language>JAVA</language>
+  <offset>39</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>75</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnnecessaryQualifierForThis" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unnecessary qualifier for 'this' or 'super'</problem_class>
+  <description>Qualifier &lt;code&gt;RequestRideActivity&lt;/code&gt; on 'this' is unnecessary in this context #loc</description>
+  <highlighted_element>RequestRideActivity</highlighted_element>
+  <language>JAVA</language>
+  <offset>36</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>77</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnnecessaryQualifierForThis" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unnecessary qualifier for 'this' or 'super'</problem_class>
+  <description>Qualifier &lt;code&gt;RequestRideActivity&lt;/code&gt; on 'this' is unnecessary in this context #loc</description>
+  <highlighted_element>RequestRideActivity</highlighted_element>
+  <language>JAVA</language>
+  <offset>36</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_request/RequestRideActivity.java</file>
+  <line>87</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_request</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_request.RequestRideActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnnecessaryQualifierForThis" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unnecessary qualifier for 'this' or 'super'</problem_class>
+  <description>Qualifier &lt;code&gt;RequestRideActivity&lt;/code&gt; on 'this' is unnecessary in this context #loc</description>
+  <highlighted_element>RequestRideActivity</highlighted_element>
+  <language>JAVA</language>
+  <offset>71</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleChooserActivity.java</file>
+  <line>34</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleChooserActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnnecessaryQualifierForThis" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unnecessary qualifier for 'this' or 'super'</problem_class>
+  <description>Qualifier &lt;code&gt;RoleChooserActivity&lt;/code&gt; on 'this' is unnecessary in this context #loc</description>
+  <highlighted_element>RoleChooserActivity</highlighted_element>
+  <language>JAVA</language>
+  <offset>39</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/geoquiz/presentation/feature_role/RoleChooserActivity.java</file>
+  <line>43</line>
+  <module>GeoQuiz.app.main</module>
+  <package>com.example.geoquiz.presentation.feature_role</package>
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_role.RoleChooserActivity void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="UnnecessaryQualifierForThis" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unnecessary qualifier for 'this' or 'super'</problem_class>
+  <description>Qualifier &lt;code&gt;RoleChooserActivity&lt;/code&gt; on 'this' is unnecessary in this context #loc</description>
+  <highlighted_element>RoleChooserActivity</highlighted_element>
+  <language>JAVA</language>
+  <offset>39</offset>
+  <length>19</length>
+</problem>
+</problems>
