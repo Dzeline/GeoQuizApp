@@ -940,7 +940,7 @@
   <line>30</line>
   <module>GeoQuiz.app.main</module>
   <package>com.example.geoquiz.presentation.feature_chat</package>
-  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.ChatDetailViewModel ChatDetailViewModel(com.example.geoquiz.domain.repository.MessageRepository messageRepo)" />
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailViewModel ChatDetailViewModel(com.example.geoquiz.domain.repository.MessageRepository messageRepo)" />
   <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
   <description>Parameter &lt;code&gt;messageRepo&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
   <highlighted_element>messageRepo</highlighted_element>
@@ -953,7 +953,7 @@
   <line>41</line>
   <module>GeoQuiz.app.main</module>
   <package>com.example.geoquiz.presentation.feature_chat</package>
-  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.ChatDetailViewModel androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.MessageEntity&gt;&gt; getMessagesForContact(java.lang.String contactPhone)" />
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailViewModel androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.MessageEntity&gt;&gt; getMessagesForContact(java.lang.String contactPhone)" />
   <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
   <description>Parameter &lt;code&gt;contactPhone&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
   <highlighted_element>contactPhone</highlighted_element>
@@ -966,7 +966,7 @@
   <line>45</line>
   <module>GeoQuiz.app.main</module>
   <package>com.example.geoquiz.presentation.feature_chat</package>
-  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.ChatDetailViewModel void sendMessage(java.lang.String sender, java.lang.String receiver, java.lang.String messageText)" />
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailViewModel void sendMessage(java.lang.String sender, java.lang.String receiver, java.lang.String messageText)" />
   <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
   <description>Parameter &lt;code&gt;sender&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
   <highlighted_element>sender</highlighted_element>
@@ -979,7 +979,7 @@
   <line>45</line>
   <module>GeoQuiz.app.main</module>
   <package>com.example.geoquiz.presentation.feature_chat</package>
-  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.ChatDetailViewModel void sendMessage(java.lang.String sender, java.lang.String receiver, java.lang.String messageText)" />
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailViewModel void sendMessage(java.lang.String sender, java.lang.String receiver, java.lang.String messageText)" />
   <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
   <description>Parameter &lt;code&gt;receiver&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
   <highlighted_element>receiver</highlighted_element>
@@ -992,7 +992,7 @@
   <line>45</line>
   <module>GeoQuiz.app.main</module>
   <package>com.example.geoquiz.presentation.feature_chat</package>
-  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.ChatDetailViewModel void sendMessage(java.lang.String sender, java.lang.String receiver, java.lang.String messageText)" />
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailViewModel void sendMessage(java.lang.String sender, java.lang.String receiver, java.lang.String messageText)" />
   <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
   <description>Parameter &lt;code&gt;messageText&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
   <highlighted_element>messageText</highlighted_element>
@@ -1005,7 +1005,7 @@
   <line>46</line>
   <module>GeoQuiz.app.main</module>
   <package>com.example.geoquiz.presentation.feature_chat</package>
-  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.ChatDetailViewModel void sendMessage(java.lang.String sender, java.lang.String receiver, java.lang.String messageText)" />
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailViewModel void sendMessage(java.lang.String sender, java.lang.String receiver, java.lang.String messageText)" />
   <problem_class id="LocalCanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be 'final'</problem_class>
   <description>Variable &lt;code&gt;message&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
   <highlighted_element>message</highlighted_element>

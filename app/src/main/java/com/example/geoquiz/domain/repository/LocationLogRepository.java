@@ -11,4 +11,5 @@ public interface LocationLogRepository {
     LiveData<List<LocationLogEntity>> getAllLogs();
     LiveData<List<LocationLogEntity>> getAllLogsLive();
 
+    void insertLog(LocationLogEntity log);
 }

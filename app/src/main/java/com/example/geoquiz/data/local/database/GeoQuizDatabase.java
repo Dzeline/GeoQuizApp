@@ -2,6 +2,7 @@ package com.example.geoquiz.data.local.database;
 
 
 import android.app.Application;
+import android.content.Context;
 
 import androidx.annotation.NonNull;
 import androidx.room.Database;
@@ -12,57 +13,31 @@ import androidx.sqlite.db.SupportSQLiteDatabase;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
+import com.example.geoquiz.data.local.database.LocationLogDao;
+import com.example.geoquiz.data.local.database.MessageDao;
+import com.example.geoquiz.data.local.database.RiderDao;
 
-@Database(entities = {MessageEntity.class, LocationLogEntity.class}, version = 3 ,exportSchema =false )
+@Database(
+        entities = {
+                MessageEntity.class,
+                LocationLogEntity.class ,
+                RiderEntity.class},
+        version = 2 ,
+        exportSchema =false )
 public abstract class GeoQuizDatabase extends RoomDatabase {
+    private static volatile GeoQuizDatabase INSTANCE;
+
     public abstract MessageDao messageDao();
     public abstract LocationLogDao locationLogDao();
+    public abstract RiderDao riderDao();
 
-    private static volatile GeoQuizDatabase INSTANCE;
-    public static final ExecutorService databaseWriteExecutor =
-            Executors.newFixedThreadPool(4);
-    /**
-     * Migration from v2 → v3:
-     * Recreates the Messages table with NOT NULL constraints on sender, receiver, message.
-     */
-    public static final Migration MIGRATION_2_3 = new Migration(2, 3) {
-        @Override
-        public void migrate(@NonNull SupportSQLiteDatabase db) {
-            // 1. Create a new table with the correct NOT NULL schema
-            db.execSQL(
-                    "CREATE TABLE IF NOT EXISTS `Messages_new` (" +
-                            "`id` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, " +
-                            "`sender` TEXT NOT NULL, " +
-                            "`receiver` TEXT NOT NULL, " +
-                            "`message` TEXT NOT NULL, " +
-                            "`timestamp` INTEGER NOT NULL" +
-                            ")"
-            );
-            // 2. Copy data from old table, substituting defaults for any existing NULLs
-            db.execSQL(
-                    "INSERT INTO `Messages_new` (id, sender, receiver, message, timestamp) " +
-                            "SELECT " +
-                            "id, " +
-                            "COALESCE(sender, ''), " +
-                            "COALESCE(receiver, ''), " +
-                            "COALESCE(message, ''), " +
-                            "timestamp " +
-                            "FROM `Messages`"
-            );
-            // 3. Drop the old table…
-            db.execSQL("DROP TABLE `Messages`");
-            // 4. Rename new table to the original name
-            db.execSQL("ALTER TABLE `Messages_new` RENAME TO `Messages`");
-        }
-    };
-
-    public static GeoQuizDatabase getInstance(Application context) {
+    public static GeoQuizDatabase getInstance(Application application) {
         if (INSTANCE == null) {
             synchronized (GeoQuizDatabase.class) {
                 if (INSTANCE == null) {
-                    INSTANCE = Room.databaseBuilder(context.getApplicationContext(),
-                                    GeoQuizDatabase.class, "GeoQuiz.db")
-                            .addMigrations(MIGRATION_2_3)
+                    INSTANCE = Room.databaseBuilder(application.getApplicationContext(),
+                                    GeoQuizDatabase.class, "GeoQuiz_db")
+                            .addMigrations(MIGRATION_1_2)
                             .fallbackToDestructiveMigration()
                             .build();
                 }
@@ -70,7 +45,39 @@ public abstract class GeoQuizDatabase extends RoomDatabase {
         }
         return INSTANCE;
     }
+    public static final ExecutorService databaseWriteExecutor =
+            Executors.newFixedThreadPool(4);
 
 
+    // Optional: Replace with actual migration if you're keeping user data
+    public static final Migration MIGRATION_1_2 = new Migration(1, 2) {
+        @Override
+        public void migrate(@NonNull SupportSQLiteDatabase db) {
+            // Ensure location_logs table exists
+            db.execSQL("CREATE TABLE IF NOT EXISTS `Location_logs` (" +
+                    "`id` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, " +
+                    "`timestamp` INTEGER NOT NULL, " +
+                    "`latitude` REAL NOT NULL, " +
+                    "`longitude` REAL NOT NULL, " +
+                    "`accuracy` REAL NOT NULL, " +
+                    "`signalDbm` REAL NOT NULL, " +
+                    "`timingAdvance` REAL NOT NULL)");
 
+            db.execSQL("CREATE INDEX IF NOT EXISTS `idx_location_logs_coords` ON `location_logs`(`latitude`, `longitude`)");
+
+            // Ensure messages table exists
+            db.execSQL("CREATE TABLE IF NOT EXISTS `messages` (" +
+                    "`id` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, " +
+                    "`senderPhoneNumber` TEXT NOT NULL, " +
+                    "`messageText` TEXT NOT NULL, " +
+                    "`timestamp` INTEGER NOT NULL)");
+
+            // Ensure riders table exists
+            db.execSQL("CREATE TABLE IF NOT EXISTS `riders` (" +
+                    "`id` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, " +
+                    "`name` TEXT NOT NULL, " +
+                    "`phoneNumber` TEXT NOT NULL)");
+        }
+
+    };
 }

@@ -15,9 +15,10 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.geoquiz.R;
-import com.example.geoquiz.data.local.database.GeoQuizDatabase;
+//import com.example.geoquiz.data.local.database.GeoQuizDatabase;
 import com.example.geoquiz.data.local.database.MessageEntity;
-import com.example.geoquiz.data.local.repository.MessageRepositoryImpl;
+import com.example.geoquiz.domain.repository.MessageRepository;
+//import com.example.geoquiz.data.local.repository.MessageRepositoryImpl;
 import com.example.geoquiz.domain.RiderHistoryAdapter;
 import com.example.geoquiz.domain.model.RiderInfo;
 import com.example.geoquiz.presentation.feature_role.RoleManager;
@@ -27,6 +28,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import dagger.hilt.android.AndroidEntryPoint;
+import jakarta.inject.Inject;
 
 /**
  *RiderActivity manages rider chat, ride requests, and availability status.
@@ -47,6 +49,9 @@ public class RiderActivity extends AppCompatActivity {
 
     private final List<RiderInfo> currentChatList = new ArrayList<>();
     private RiderHistoryAdapter chatAdapter;
+
+    @Inject
+    MessageRepository messageRepository;
 
     @SuppressLint("SetTextI18n")
     @Override
@@ -139,9 +144,8 @@ public class RiderActivity extends AppCompatActivity {
     }
 
     private void insertChatMessage(String message) {
-        GeoQuizDatabase db = GeoQuizDatabase.getInstance(getApplication());
-        MessageRepositoryImpl messageRepo = new MessageRepositoryImpl(db);
-         messageRepo.insertMessage(
+        //MessageRepositoryImpl messageRepo = new MessageRepositoryImpl(db);
+         messageRepository.insertMessage(
                  new MessageEntity("You", message, "0712345678",System.currentTimeMillis())
          );
 
@@ -150,11 +154,11 @@ public class RiderActivity extends AppCompatActivity {
     @SuppressLint("NotifyDataSetChanged")
     private void observeChatMessages() {
 
-        GeoQuizDatabase db = GeoQuizDatabase.getInstance(getApplication());
-        MessageRepositoryImpl messageRepo = new MessageRepositoryImpl(db);
+       // GeoQuizDatabase db = GeoQuizDatabase.getInstance(getApplication());
+        //MessageRepositoryImpl messageRepo = new MessageRepositoryImpl(db);
 
 
-        messageRepo.getAllMessages().observe(this, messageEntities -> {
+        messageRepository   .getAllMessages().observe(this, messageEntities -> {
         //Convert to RiderInfo
          currentChatList.clear();
             if (selectedUserPhone != null) {

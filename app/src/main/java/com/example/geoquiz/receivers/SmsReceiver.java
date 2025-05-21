@@ -11,8 +11,10 @@ import android.util.Log;
 
 import com.example.geoquiz.data.local.database.GeoQuizDatabase;
 import com.example.geoquiz.data.local.database.LocationLogEntity;
+import com.example.geoquiz.data.local.database.LocationLogDao;
+import com.example.geoquiz.data.local.database.MessageDao;
 import com.example.geoquiz.data.local.database.MessageEntity;
-import com.example.geoquiz.data.local.repository.MessageRepositoryImpl;
+//import com.example.geoquiz.data.local.repository.MessageRepositoryImpl;
 
 public class SmsReceiver extends BroadcastReceiver {
 
@@ -20,53 +22,93 @@ public class SmsReceiver extends BroadcastReceiver {
 
 
     @Override
-    public void onReceive(Context context, Intent intent) {
-        Bundle bundle = intent.getExtras();
+    public void onReceive(final Context context, final Intent intent) {
+        final Bundle bundle = intent.getExtras();
 
-        if (bundle != null) {
-            Object[] pdus = (Object[]) bundle.get("pdus");
+        if (null != bundle) {
+            final Object[] pdusObj = (Object[]) bundle.get("pdus");
 
-            if (pdus != null) {
-                for (Object pdu : pdus) {
-                    SmsMessage message;
-                    String format = bundle.getString("format");
-                    message = SmsMessage.createFromPdu((byte[]) pdu, format);
-                    String content = message.getMessageBody();
-                    String sender = message.getOriginatingAddress();
+            if (null != pdusObj) {
+                for (final Object pdu : pdusObj) {
+                    if (pdu == null) {
+                        Log.w(TAG, "Received null PDU item, skipping.");
+                        continue;
+                    }
+                    final SmsMessage currentMessage;
+                    final String format = bundle.getString("format");
+                    try {
+                        currentMessage = SmsMessage.createFromPdu((byte[]) pdu, format);
+                    } catch (Exception e) {
+                        Log.e(TAG, "Error creating SmsMessage from PDU: " + e.getMessage());
+                        continue; // Skip this PDU if it's malformed
+                    }
 
-                    Log.d(TAG, "SMS received from " + sender + ": " + content);
+                    if (currentMessage == null) {
+                        Log.w(TAG, "SmsMessage.createFromPdu returned null, skipping.");
+                        continue;
+                    }
+                    final String content = currentMessage.getMessageBody();
+                    final String sender = currentMessage.getOriginatingAddress();
+                    if (sender == null || content == null) {
+                        Log.w(TAG, "SMS with null sender or content, skipping.");
+                        continue;
+                    }
+                    Log.d(SmsReceiver.TAG, "SMS received from " + sender + ": " + content);
 
-                    GeoQuizDatabase db = GeoQuizDatabase.getInstance((Application) context.getApplicationContext());
+                    final GeoQuizDatabase db = GeoQuizDatabase.getInstance((Application) context.getApplicationContext());
 
                     // ✅ 1. Handle location messages
                     if (content.startsWith("LOC|")) {
                         try {
-                            String[] parts = content.split("\\|");
-                            String[] coords = parts[1].split(",");
-                            double lat = Double.parseDouble(coords[0]);
-                            double lon = Double.parseDouble(coords[1]);
-                            float acc = Float.parseFloat(parts[2].split(":")[1]);
-                            int dbm = Integer.parseInt(parts[3].split(":")[1]);
-                            int ta = Integer.parseInt(parts[4].split(":")[1]);
+                            final String[] parts = content.split("\\|");
+                            if (parts.length < 5) { // Basic validation
+                                Log.e(TAG, "Invalid LOC format: " + content);
+                                continue;
+                            }
+                            final String[] coords = parts[1].split(",");
+                            if (coords.length < 2) {
+                                Log.e(TAG, "Invalid LOC coordinates format: " + parts[1]);
+                                continue;
+                            }
+                            final double lat = Double.parseDouble(coords[0]);
+                            final double lon = Double.parseDouble(coords[1]);
+                            final float acc = Float.parseFloat(parts[2].split(":")[1]);
+                            final int dbm = Integer.parseInt(parts[3].split(":")[1]);
+                            final int ta = Integer.parseInt(parts[4].split(":")[1]);
 
-                            LocationLogEntity log = new LocationLogEntity(System.currentTimeMillis(), lat, lon, acc, dbm, ta);
-                            db.locationLogDao().insertLog(log);
+                            final LocationLogEntity logEntity = new LocationLogEntity(System.currentTimeMillis(), lat, lon, acc, dbm, ta);
+                            final LocationLogDao locationLogDao = db.locationLogDao();
 
-                            Log.i(TAG, "Location parsed and stored: " + lat + ", " + lon);
-                        } catch (Exception e) {
-                            Log.e(TAG, "Failed to parse location SMS: " + e.getMessage());
+                            // Perform database operation on a background thread
+                            GeoQuizDatabase.databaseWriteExecutor.execute(() -> {
+                                locationLogDao.insertLog(logEntity);
+                                Log.i(TAG, "Location parsed and stored: " + lat + ", " + lon);
+                            });
+
+                        } catch (final Exception e) { // Catch more specific exceptions if possible
+                            Log.e(TAG, "Failed to parse location SMS: " + content, e);
                         }
-
                     } else {
-                        // ✅ 2. Handle regular chat message
-                        MessageRepositoryImpl repo = new MessageRepositoryImpl(db);
-                        repo.insertMessage(new MessageEntity(sender, "You", content, System.currentTimeMillis()));
-                        Log.i(TAG, "Message saved to DB: " + content);
+                        // Handle regular chat message
+                        final MessageDao messageDao = db.messageDao();
+                        // Assuming "You" is the recipient for SMS received by the app
+                        final MessageEntity chatMessage = new MessageEntity(sender, "You", content, System.currentTimeMillis());
+
+                        // Perform database operation on a background thread
+                        GeoQuizDatabase.databaseWriteExecutor.execute(() -> {
+                            messageDao.insertMessage(chatMessage);
+                            Log.i(TAG, "Chat message from " + sender + " saved to DB.");
+                        });
                     }
                 }
-                }
+            } else {
+                Log.w(TAG, "PDUs object is null in SMS bundle.");
             }
+        } else {
+            Log.w(TAG, "SMS bundle is null.");
         }
     }
+}
+
 
 

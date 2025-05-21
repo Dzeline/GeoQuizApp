@@ -9,7 +9,7 @@ import androidx.room.PrimaryKey;
  * Entity representing a single offline location log.
  * These are saved when location info is received via SMS or GPS.
  */
-@Entity(tableName = "LocationLogs")
+@Entity(tableName = "Location_logs")
 public class LocationLogEntity {
     /**
      * Primary key for the location entry (auto-generated).
@@ -64,6 +64,7 @@ public class LocationLogEntity {
      * @param timingAdvance  Cell timing advance
      */
     public LocationLogEntity(long timestamp, double latitude, double longitude, float accuracy, int signalDbm, int timingAdvance) {
+
         this.timestamp = timestamp;
         this.latitude = latitude;
         this.longitude = longitude;

@@ -21,15 +21,20 @@ import com.example.geoquiz.presentation.feature_role.RoleManager;
 import com.example.geoquiz.util.OfflineLocationHelper;
 import com.example.geoquiz.util.OfflineSmsHelper;
 import com.google.android.material.button.MaterialButton;
+import javax.inject.Inject; // Import for Hilt
+import dagger.hilt.android.AndroidEntryPoint; // Import for Hilt
+
 
 /**
  *  RequestRideActivity allows users to input ride info, view map, and navigate back to chat.
  */
+@AndroidEntryPoint
 public class RequestRideActivity extends AppCompatActivity {
 
     private static final int PERMISSION_CODE = 101;
     private static String selectedPhoneNumber;
-
+    @Inject // Hilt will inject this
+    OfflineLocationHelper offlineLocationHelper;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -45,13 +50,18 @@ public class RequestRideActivity extends AppCompatActivity {
 
 
 
-        selectedPhoneNumber = getIntent().getStringExtra("riderPhone");
+        // Ensure selectedPhoneNumber is properly initialized
+        if (getIntent().hasExtra("riderPhone")) {
+            selectedPhoneNumber = getIntent().getStringExtra("riderPhone");
+        }
+
         if (selectedPhoneNumber == null) {
-            Toast.makeText(this, "No rider selected", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "No rider selected for this request.", Toast.LENGTH_SHORT).show();
+            // Potentially load a default or allow selection if appropriate, otherwise finish.
+            // For now, assume a riderPhone must be present as per original logic.
             finish();
             return;
         }
-
         // View bindings
         LinearLayout riderSection = findViewById(R.id.riderSection);
         MaterialButton btnShareLocation = findViewById(R.id.btnShareLocation);
@@ -99,17 +109,13 @@ public class RequestRideActivity extends AppCompatActivity {
         // Request permissions needed
         requestLocationAndSmsPermissions();
 
-        // Default: Requester mode
-        //riderSection.setVisibility(View.GONE);
-       // btnShareLocation.setVisibility(View.GONE);
-
     }
 
     /**
      * Fetches offline location and sends it to contact via SMS.
      */
     private void shareLocationViaSMS( String phoneNumber) {
-        OfflineLocationHelper.LocationData loc = OfflineLocationHelper.fetchOfflineLocation(this);
+        OfflineLocationHelper.LocationData loc = offlineLocationHelper.fetchOfflineLocation();
         if (loc != null && loc.success) {
             // Format the location data into an SMS payload
             String payload = OfflineSmsHelper.formatPayload(
@@ -117,7 +123,7 @@ public class RequestRideActivity extends AppCompatActivity {
             );
             try {
                 // Send the SMS with location information
-                OfflineSmsHelper.sendLocationSMS(payload, phoneNumber);
+                OfflineSmsHelper.sendLocationSMS(  phoneNumber ,payload);
                 Toast.makeText(this, "Location sent via SMS to " + phoneNumber, Toast.LENGTH_SHORT).show();
             } catch (Exception e) {
                 // Handle any failure in sending (e.g., permission issue or SMS error)
@@ -147,15 +153,18 @@ public class RequestRideActivity extends AppCompatActivity {
     @Override
     public void onRequestPermissionsResult(
             int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
+        super.onRequestPermissionsResult(requestCode, permissions, grantResults);
         if (requestCode == PERMISSION_CODE) {
+            boolean allGranted = true;
             for (int result : grantResults) {
                 if (result != PackageManager.PERMISSION_GRANTED) {
-                    Toast.makeText(this, "Required permissions not granted.", Toast.LENGTH_SHORT).show();
+                    allGranted = false;
                     break;
                 }
             }
+            if (!allGranted) {
+                Toast.makeText(this, "Required permissions not granted.", Toast.LENGTH_SHORT).show();
+            }
         }
-        super.onRequestPermissionsResult(requestCode, permissions, grantResults);
     }
-
 }

@@ -3,6 +3,7 @@ package com.example.geoquiz.presentation.feature_chat;
 import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.text.TextUtils;
+import android.util.Log;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
@@ -27,12 +28,17 @@ import dagger.hilt.android.AndroidEntryPoint;
  */
 @AndroidEntryPoint
 public class chatDetailActivity extends AppCompatActivity {
+    private static final String TAG = "ChatDetailActivity";
 
-    private ChatMessageAdapter adapter;
+    private ChatMessageAdapter adapter  = new ChatMessageAdapter();
 
     private String contactPhone;
-    private ChatDetailViewModel viewModel;
+    private chatDetailViewModel viewModel;
 
+    private TextView tvChatWith;
+    private EditText etChatMessage;
+    private Button btnSendChat;
+    private RecyclerView rvChatDetail;
 
     @SuppressLint("StringFormatInvalid")
     @Override
@@ -41,53 +47,50 @@ public class chatDetailActivity extends AppCompatActivity {
         setContentView(R.layout.activity_chat_detail);
 
         // 🔌 UI bindings
-        TextView tvChatWith = findViewById(R.id.tvChatWith);
-        EditText etChatMessage = findViewById(R.id.etChatMessage);
-        Button btnSendChat = findViewById(R.id.btnSendChat);
-        RecyclerView rvChatDetail = findViewById(R.id.rvChatDetail);
-
+        this.tvChatWith = findViewById(R.id.tvChatWith);
+        this.etChatMessage = findViewById(R.id.etChatMessage);
+        this.btnSendChat = findViewById(R.id.btnSendChat);
+        this.rvChatDetail = findViewById(R.id.rvChatDetail);
 
 
         // 🔄 Get rider name from Intent
         // 🧠 Get rider data
-        String riderName = getIntent().getStringExtra("riderName");
-         contactPhone =getIntent().getStringExtra("riderPhone");
+         final String riderName = getIntent().getStringExtra("riderName");
+         this.contactPhone =getIntent().getStringExtra("riderPhone");
         if (contactPhone == null) {
             Toast.makeText(this, "No contact phone passed", Toast.LENGTH_SHORT).show();
             finish();
             return;
         }
+        if (riderName != null) {
+            this.tvChatWith.setText(getString(R.string.chat_with, riderName));
+        }
 
-        tvChatWith.setText(getString(R.string.chat_with, riderName));
-
-
-
-        // ♻️ Adapter setup
-        adapter = new ChatMessageAdapter();
-        rvChatDetail.setLayoutManager(new LinearLayoutManager(this));
-        rvChatDetail.setAdapter(adapter);
+        this.rvChatDetail.setLayoutManager(new LinearLayoutManager(this));
+        this.rvChatDetail.setAdapter(adapter);
 
         // 🧠 ViewModel
-        viewModel = new ViewModelProvider(this).get(ChatDetailViewModel.class);
+        this.viewModel = new ViewModelProvider(this).get(chatDetailViewModel.class);
 
-        viewModel.getMessagesForContact(contactPhone).observe(this, messages -> {
+        this.viewModel.getMessagesForContact(this.contactPhone).observe(this, messages -> {
 
-            adapter.submitList(messages);
-            rvChatDetail.scrollToPosition(messages.size() - 1);
+            this.adapter.submitList(messages);
+            this.rvChatDetail.scrollToPosition(messages.size() - 1);
         });
         //Rider cannot send messages
         if (RoleManager.Role.RIDER == RoleManager.getRole(this)) {
-            etChatMessage.setEnabled(false);
-            etChatMessage.setHint("You can view messages only");
-            btnSendChat.setEnabled(false);
+            this.etChatMessage.setEnabled(false);
+            this.etChatMessage.setHint("You can view messages only");
+            this.btnSendChat.setEnabled(false);
         }
 
         // Send chat
-        btnSendChat.setOnClickListener(v -> {
-            String msg = etChatMessage.getText().toString().trim();
+        this.btnSendChat.setOnClickListener(v -> {
+           final String msg = etChatMessage.getText().toString().trim();
             if (!TextUtils.isEmpty(msg)) {
-                viewModel.sendMessage("You", contactPhone, msg);
-                etChatMessage.setText("");
+                this.viewModel.sendMessage("You", contactPhone, msg);
+                this.etChatMessage.setText("");
+                Log.d(TAG, "Sent message: " + msg + " to " + this.contactPhone);
             }
         });
 

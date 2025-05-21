@@ -15,6 +15,7 @@
     <uses-permission android:name="android.permission.RECEIVE_SMS"/>
     <uses-permission android:name="android.permission.READ_SMS"/>
     <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 
     <queries>
         <!-- Declare intent-based target apps -->
@@ -41,7 +42,9 @@
         tools:targetApi="31">
         <activity
             android:name=".presentation.feature_chat.MainFunctionActivity"
-            android:exported="true"/>
+            android:exported="true">
+
+        </activity>
         <activity android:name=".presentation.feature_rider.RiderActivity"
             android:exported="true"/>
         <activity android:name=".presentation.feature_request.RequestRideActivity"
@@ -52,15 +55,18 @@
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
+
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
         <activity android:name=".presentation.feature_location_history.LocationHistoryActivity"
             android:exported="true"/>
+        <activity android:name=".presentation.feature_map.MapViewerActivity"
+            android:exported="true"/>
         <receiver android:name=".receivers.SmsReceiver"
             android:exported="true"
             android:permission="android.permission.BROADCAST_SMS">
-            <intent-filter>
+            <intent-filter android:priority="999">
                 <action android:name="android.provider.Telephony.SMS_RECEIVED"/>
             </intent-filter>
         </receiver>

@@ -108,7 +108,7 @@
   <line>30</line>
   <module>GeoQuiz.app.main</module>
   <package>com.example.geoquiz.presentation.feature_chat</package>
-  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.ChatDetailViewModel ChatDetailViewModel(com.example.geoquiz.domain.repository.MessageRepository messageRepo)" />
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailViewModel ChatDetailViewModel(com.example.geoquiz.domain.repository.MessageRepository messageRepo)" />
   <problem_class id="ImplicitCallToSuper" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Implicit call to 'super()'</problem_class>
   <description>Implicit call to 'super()' #loc</description>
   <highlighted_element>ChatDetailViewModel</highlighted_element>

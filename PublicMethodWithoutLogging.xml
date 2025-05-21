@@ -394,7 +394,7 @@
   <line>41</line>
   <module>GeoQuiz.app.main</module>
   <package>com.example.geoquiz.presentation.feature_chat</package>
-  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.ChatDetailViewModel androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.MessageEntity&gt;&gt; getMessagesForContact(java.lang.String contactPhone)" />
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailViewModel androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.geoquiz.data.local.database.MessageEntity&gt;&gt; getMessagesForContact(java.lang.String contactPhone)" />
   <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
   <description>'public' method &lt;code&gt;getMessagesForContact()&lt;/code&gt; has no logging call #loc</description>
   <highlighted_element>getMessagesForContact</highlighted_element>
@@ -407,7 +407,7 @@
   <line>45</line>
   <module>GeoQuiz.app.main</module>
   <package>com.example.geoquiz.presentation.feature_chat</package>
-  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.ChatDetailViewModel void sendMessage(java.lang.String sender, java.lang.String receiver, java.lang.String messageText)" />
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailViewModel void sendMessage(java.lang.String sender, java.lang.String receiver, java.lang.String messageText)" />
   <problem_class id="PublicMethodWithoutLogging" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method without logging</problem_class>
   <description>'public' method &lt;code&gt;sendMessage()&lt;/code&gt; has no logging call #loc</description>
   <highlighted_element>sendMessage</highlighted_element>

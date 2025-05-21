@@ -9,7 +9,7 @@ import androidx.room.Query;
 import java.util.List;
 
 @Dao
-public abstract class MessageDao {
+public abstract interface MessageDao {
     @Insert
     public abstract long insertMessage(MessageEntity message);
 

@@ -17,7 +17,7 @@ import dagger.hilt.android.lifecycle.HiltViewModel;
  * Filters and provides messages specific to a given contact/rider.
  */
 @HiltViewModel
-public class ChatDetailViewModel extends ViewModel  {
+public class chatDetailViewModel extends ViewModel  {
 
     private final MessageRepository messageRepo;
 
@@ -27,7 +27,7 @@ public class ChatDetailViewModel extends ViewModel  {
      * @param messageRepo repository that handles message queries
      */
     @Inject
-    public ChatDetailViewModel(MessageRepository messageRepo) {
+    public chatDetailViewModel(MessageRepository messageRepo) {
          this.messageRepo = messageRepo;
     }
 

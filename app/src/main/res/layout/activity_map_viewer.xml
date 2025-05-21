@@ -1,33 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+    <!-- Map View -->
     <org.osmdroid.views.MapView
         android:id="@+id/osmMap"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"/>
 
-    <!-- Chat Button -->
+    <!-- Grid Overlay -->
+    <GridView
+        android:id="@+id/gridMap"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:numColumns="10"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="1dp"
+        android:horizontalSpacing="1dp"
+        android:background="#40000000"/>
+
+    <!-- Accuracy Indicator -->
+    <TextView
+        android:id="@+id/tvAccuracy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="16dp"
+        android:padding="8dp"
+        android:background="@drawable/bg_rounded_corner"
+        android:textColor="@android:color/white"
+        android:text="Accuracy: -- m"/>
+
+    <!-- Mode Toggle -->
+    <ToggleButton
+        android:id="@+id/toggleMapMode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="16dp"
+        android:textOn="Grid View"
+        android:textOff="Map View"/>
+    <!-- 🗨️ Chat Button -->
     <Button
         android:id="@+id/btnChat"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/chat"
-        android:layout_gravity="top|end"
-        android:layout_margin="16dp"
-        android:backgroundTint="#2196F3"
-        android:textColor="#FFFFFF" />
+        android:text="Chat"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_margin="16dp" />
 
-    <!-- History Button -->
+    <!-- 📍 History Button -->
     <Button
         android:id="@+id/btnHistory"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/history"
-        android:layout_gravity="top|start"
-        android:layout_margin="16dp"
-        android:backgroundTint="#4CAF50"
-        android:textColor="#FFFFFF" />
-
-</FrameLayout>
+        android:text="History"
+        android:layout_alignParentBottom="true"
+        android:layout_toEndOf="@id/btnChat"
+        android:layout_marginStart="12dp"
+        android:layout_marginBottom="16dp" />
+</RelativeLayout>

@@ -316,7 +316,7 @@
   <line>30</line>
   <module>GeoQuiz.app.main</module>
   <package>com.example.geoquiz.presentation.feature_chat</package>
-  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.ChatDetailViewModel ChatDetailViewModel(com.example.geoquiz.domain.repository.MessageRepository messageRepo)" />
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailViewModel ChatDetailViewModel(com.example.geoquiz.domain.repository.MessageRepository messageRepo)" />
   <problem_class id="ParameterHidingMemberVariable" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameter hides field</problem_class>
   <description>Parameter &lt;code&gt;messageRepo&lt;/code&gt; hides field in class 'ChatDetailViewModel' #loc</description>
   <highlighted_element>messageRepo</highlighted_element>

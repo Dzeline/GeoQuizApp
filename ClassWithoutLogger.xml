@@ -212,7 +212,7 @@
   <line>20</line>
   <module>GeoQuiz.app.main</module>
   <package>com.example.geoquiz.presentation.feature_chat</package>
-  <entry_point TYPE="class" FQNAME="com.example.geoquiz.presentation.feature_chat.ChatDetailViewModel" />
+  <entry_point TYPE="class" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailViewModel" />
   <problem_class id="ClassWithoutLogger" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Class without logger</problem_class>
   <description>Class &lt;code&gt;ChatDetailViewModel&lt;/code&gt; does not declare a logger #loc</description>
   <highlighted_element>ChatDetailViewModel</highlighted_element>

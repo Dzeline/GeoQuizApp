@@ -36,8 +36,10 @@
     <string name="chat_with">"Chat with "</string>
     <string name="chat">Chat</string>
     <string name="history">History</string>
-    <string name="i_am_a_use">I am a Use</string>
+    <string name="i_am_a_use">I am a User</string>
     <string name="i_am_a_rider">I am a Rider</string>
     <string name="choose_your_role">Choose Your Role</string>
+    <string name="accuracy_na">Accuracy: N/A</string>
+    <string name="accuracy_default_text">Accurate to 50.0Meters</string>
 
 </resources>

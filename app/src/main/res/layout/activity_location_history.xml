@@ -2,22 +2,30 @@
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:padding="16dp">
+    android:padding="16dp"
+    android:fillViewport="true">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
 
-    <TextView
-        android:id="@+id/tvHistory"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Location Logs Will Appear Here"
-        android:textSize="16sp"
-        android:textColor="#000000"/>
-    <Button
-        android:id="@+id/btnViewMap"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="View All Logs on Map"
-        android:layout_marginTop="16dp"
-        android:backgroundTint="@color/purple_500"
-        android:textColor="@android:color/white"/>
+        <TextView
+            android:id="@+id/tvHistory"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Location Logs Will Appear Here"
+            android:textSize="16sp"
+            android:textColor="#000000"/>
+        <Button
+            android:id="@+id/btnViewMap"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View All Logs on Map"
+            android:layout_marginTop="16dp"
+            android:backgroundTint="@color/purple_500"
+            android:textColor="@android:color/white"/>
+
+
+    </LinearLayout>
 
 </ScrollView>

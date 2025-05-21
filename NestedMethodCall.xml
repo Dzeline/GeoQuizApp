@@ -290,7 +290,7 @@
   <line>46</line>
   <module>GeoQuiz.app.main</module>
   <package>com.example.geoquiz.presentation.feature_chat</package>
-  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.ChatDetailViewModel void sendMessage(java.lang.String sender, java.lang.String receiver, java.lang.String messageText)" />
+  <entry_point TYPE="method" FQNAME="com.example.geoquiz.presentation.feature_chat.chatDetailViewModel void sendMessage(java.lang.String sender, java.lang.String receiver, java.lang.String messageText)" />
   <problem_class id="NestedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nested method call</problem_class>
   <description>Nested method call &lt;code&gt;currentTimeMillis()&lt;/code&gt; #loc</description>
   <highlighted_element>currentTimeMillis</highlighted_element>
