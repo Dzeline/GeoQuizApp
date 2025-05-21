@@ -1,3 +1,5 @@
+//build.gradle.kts(Module :app)
+
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
@@ -44,10 +46,10 @@ android {
     buildFeatures {
         viewBinding = true
     }
-    buildToolsVersion = "35.0.0"
-    dependenciesInfo {
-        includeInApk = true
-    }
+    //buildToolsVersion = "35.0.0"
+    //dependenciesInfo {
+    //    includeInApk = true
+    //}
 
 
 }
@@ -59,13 +61,16 @@ dependencies {
     implementation(libs.play.services.location)
     kapt(libs.hilt.compiler)
 
-// Room
+    implementation(libs.play.services.location)
+    implementation(libs.androidx.media3.common)
+
+
+    // Room
     implementation(libs.androidx.room.runtime)
     implementation(libs.androidx.room.ktx)
-
     kapt(libs.androidx.room.compiler)
 
-// Lifecycle / ViewModel
+    // Lifecycle / ViewModel
     implementation(libs.androidx.lifecycle.viewmodel.ktx)
     implementation(libs.androidx.lifecycle.livedata.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
@@ -78,14 +83,13 @@ dependencies {
 
 
 
-
     // --- Testing ---
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
     //CustomLocationMap
     implementation(libs.osmdroid.android)
-    implementation ("org.osmdroid:osmdroid-android:6.1.20")
+    //implementation (libs.osmdroid.android)
 
 
 }

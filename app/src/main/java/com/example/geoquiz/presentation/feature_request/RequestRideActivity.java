@@ -21,6 +21,10 @@ import com.example.geoquiz.presentation.feature_role.RoleManager;
 import com.example.geoquiz.util.OfflineLocationHelper;
 import com.example.geoquiz.util.OfflineSmsHelper;
 import com.google.android.material.button.MaterialButton;
+
+import java.util.ArrayList;
+import java.util.List;
+
 import javax.inject.Inject; // Import for Hilt
 import dagger.hilt.android.AndroidEntryPoint; // Import for Hilt
 
@@ -32,9 +36,11 @@ import dagger.hilt.android.AndroidEntryPoint; // Import for Hilt
 public class RequestRideActivity extends AppCompatActivity {
 
     private static final int PERMISSION_CODE = 101;
-    private static String selectedPhoneNumber;
+    private  String selectedPhoneNumber;
+
     @Inject // Hilt will inject this
     OfflineLocationHelper offlineLocationHelper;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -50,18 +56,15 @@ public class RequestRideActivity extends AppCompatActivity {
 
 
 
-        // Ensure selectedPhoneNumber is properly initialized
+        // Get selectedPhoneNumber from intent
         if (getIntent().hasExtra("riderPhone")) {
             selectedPhoneNumber = getIntent().getStringExtra("riderPhone");
-        }
-
-        if (selectedPhoneNumber == null) {
+        } else {
             Toast.makeText(this, "No rider selected for this request.", Toast.LENGTH_SHORT).show();
-            // Potentially load a default or allow selection if appropriate, otherwise finish.
-            // For now, assume a riderPhone must be present as per original logic.
-            finish();
+            finish(); // Or handle differently
             return;
         }
+
         // View bindings
         LinearLayout riderSection = findViewById(R.id.riderSection);
         MaterialButton btnShareLocation = findViewById(R.id.btnShareLocation);
@@ -94,7 +97,9 @@ public class RequestRideActivity extends AppCompatActivity {
 
         // 🎯 Map preview
 
-        btnMapPreview.setOnClickListener(v -> MapViewerActivity.launch(RequestRideActivity.this));
+        btnMapPreview.setOnClickListener(v ->{
+            MapViewerActivity.launch(RequestRideActivity.this);
+         });
 
         // 📍 Share Location via SMS
         btnShareLocation.setOnClickListener(v -> {
@@ -139,31 +144,39 @@ public class RequestRideActivity extends AppCompatActivity {
      * Requests necessary runtime permissions for SMS and location.
      */
     private void requestLocationAndSmsPermissions() {
-        boolean needSms = ContextCompat.checkSelfPermission(this, Manifest.permission.SEND_SMS) != PackageManager.PERMISSION_GRANTED;
-        boolean needFineLoc = ContextCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED;
-        boolean needCoarseLoc = ContextCompat.checkSelfPermission(this, Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED;
-        if (needSms || needFineLoc || needCoarseLoc) {
-            ActivityCompat.requestPermissions(this, new String[] {
-                    Manifest.permission.SEND_SMS,
-                    Manifest.permission.ACCESS_FINE_LOCATION,
-                    Manifest.permission.ACCESS_COARSE_LOCATION
-            }, PERMISSION_CODE);
+        List<String> permissionsNeeded = new ArrayList<>();
+        if (ContextCompat.checkSelfPermission(this, Manifest.permission.SEND_SMS) != PackageManager.PERMISSION_GRANTED) {
+            permissionsNeeded.add(Manifest.permission.SEND_SMS);
+        }
+        if (ContextCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
+            permissionsNeeded.add(Manifest.permission.ACCESS_FINE_LOCATION);
+        }
+        if (ContextCompat.checkSelfPermission(this, Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
+            permissionsNeeded.add(Manifest.permission.ACCESS_COARSE_LOCATION);
+        }
+        if (!permissionsNeeded.isEmpty()) {
+            ActivityCompat.requestPermissions(this, permissionsNeeded.toArray(new String[0]), PERMISSION_CODE);
         }
     }
+
     @Override
     public void onRequestPermissionsResult(
             int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
         super.onRequestPermissionsResult(requestCode, permissions, grantResults);
         if (requestCode == PERMISSION_CODE) {
             boolean allGranted = true;
-            for (int result : grantResults) {
-                if (result != PackageManager.PERMISSION_GRANTED) {
-                    allGranted = false;
-                    break;
+            if (grantResults.length == 0) { // User cancelled
+                allGranted = false;
+            } else {
+                for (int result : grantResults) {
+                    if (result != PackageManager.PERMISSION_GRANTED) {
+                        allGranted = false;
+                        break;
+                    }
                 }
             }
             if (!allGranted) {
-                Toast.makeText(this, "Required permissions not granted.", Toast.LENGTH_SHORT).show();
+                Toast.makeText(this, "Some required permissions were not granted.", Toast.LENGTH_LONG).show();
             }
         }
     }

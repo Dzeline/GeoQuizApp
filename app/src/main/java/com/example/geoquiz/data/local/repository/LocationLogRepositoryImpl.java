@@ -38,9 +38,7 @@ public class LocationLogRepositoryImpl implements LocationLogRepository {
 
     @Override
     public void insertLog(LocationLogEntity log) {
-        ioExecutor.execute(() -> { // Perform insert on background thread
-            locationLogDao.insertLog(log);
-        });
+        ioExecutor.execute(() -> locationLogDao.insertLog(log));
     }
 
 }

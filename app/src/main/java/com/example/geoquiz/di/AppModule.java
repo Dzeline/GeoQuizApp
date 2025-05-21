@@ -17,6 +17,7 @@ import com.example.geoquiz.domain.repository.MessageRepository;
 import com.example.geoquiz.domain.repository.RiderRepository;
 import com.example.geoquiz.location.CustomLocationManager;
 import com.example.geoquiz.location.CustomLocationManagerImpl;
+import com.example.geoquiz.util.OfflineLocationHelper;
 
 import java.util.concurrent.ExecutorService; // Import
 import java.util.concurrent.Executors;    // Import
@@ -71,20 +72,20 @@ public  class AppModule {
     // Provide Repositories (These could also be bound using @Binds in an abstract module if preferred)
     @Provides
     @Singleton
-    public MessageRepository provideMessageRepo(MessageDao messageDao, @Named("ioExecutor")ExecutorService executor) { // Inject DAO
-        return new MessageRepositoryImpl(messageDao, executor); // Assuming Impl takes DAO
+    public MessageRepository provideMessageRepo(MessageDao messageDao, @Named("ioExecutor")ExecutorService ioExecutor) { // Inject DAO
+        return new MessageRepositoryImpl(messageDao, ioExecutor); // Assuming Impl takes DAO
     }
 
     @Provides
     @Singleton
-    public LocationLogRepository provideLocationLogRepo(LocationLogDao locationLogDao,@Named("ioExecutor") ExecutorService executor) { // Inject DAO
-        return new LocationLogRepositoryImpl(locationLogDao, executor ); // Assuming Impl takes DAO
+    public LocationLogRepository provideLocationLogRepo(LocationLogDao locationLogDao,@Named("ioExecutor") ExecutorService ioExecutor) { // Inject DAO
+        return new LocationLogRepositoryImpl(locationLogDao, ioExecutor ); // Assuming Impl takes DAO
     }
 
     @Provides
     @Singleton
-    public RiderRepository provideRiderRepo(RiderDao riderDao,@Named("ioExecutor") ExecutorService executor){ // Inject DAO
-        return new RiderRepositoryImpl(riderDao, executor); // Assuming Impl takes DAO
+    public RiderRepository provideRiderRepo(RiderDao riderDao,@Named("ioExecutor") ExecutorService ioExecutor){ // Inject DAO
+        return new RiderRepositoryImpl(riderDao, ioExecutor); // Assuming Impl takes DAO
     }
 
     // Provide CustomLocationManager
@@ -93,9 +94,9 @@ public  class AppModule {
     // This assumes CustomLocationManagerImpl IS the implementation.
     @Provides
     @Singleton
-    public CustomLocationManager provideCustomLocationManager(Application application) {
+    public CustomLocationManager provideCustomLocationManager(@ApplicationContext Context context) {
         // Assuming CustomLocationManagerImpl takes Application context
-        return new CustomLocationManagerImpl(application);
+        return new CustomLocationManagerImpl(context);
     }
 
 

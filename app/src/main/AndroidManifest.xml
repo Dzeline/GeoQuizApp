@@ -9,13 +9,14 @@
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" tools:remove="true" />
     <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
     <uses-permission android:name="android.permission.SEND_SMS"/>
     <uses-permission android:name="android.permission.RECEIVE_SMS"/>
     <uses-permission android:name="android.permission.READ_SMS"/>
     <uses-permission android:name="android.permission.INTERNET"/>
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" android:maxSdkVersion="28"/>
 
     <queries>
         <!-- Declare intent-based target apps -->
@@ -25,7 +26,7 @@
         </intent>
 
         <!-- Allow resolving in-app activities too -->
-        <package android:name="com.example.GeoQuizApp" />
+       <!-- <package android:name="com.example.GeoQuizApp" />-->
     </queries>
 
 
@@ -39,30 +40,34 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.GeoQuiz"
+        android:requestLegacyExternalStorage="true"
         tools:targetApi="31">
+
+        <activity android:name=".presentation.feature_role.RoleChooserActivity"
+        android:exported="true">
+            <intent-filter>
+                 <action android:name="android.intent.action.MAIN"/>
+                 <category android:name="android.intent.category.LAUNCHER"/>
+             </intent-filter>
+        </activity>
+
         <activity
             android:name=".presentation.feature_chat.MainFunctionActivity"
-            android:exported="true">
-
+            android:exported="false">
         </activity>
         <activity android:name=".presentation.feature_rider.RiderActivity"
-            android:exported="true"/>
+            android:exported="false"/>
         <activity android:name=".presentation.feature_request.RequestRideActivity"
-            android:exported="true"/>
+            android:exported="false"/>
         <activity android:name=".presentation.feature_chat.chatDetailActivity"
-            android:exported="true"/>
-        <activity android:name=".presentation.feature_role.RoleChooserActivity"
-            android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN"/>
+            android:exported="false"/>
 
-                <category android:name="android.intent.category.LAUNCHER"/>
-            </intent-filter>
-        </activity>
         <activity android:name=".presentation.feature_location_history.LocationHistoryActivity"
-            android:exported="true"/>
+            android:exported="false"/>
         <activity android:name=".presentation.feature_map.MapViewerActivity"
-            android:exported="true"/>
+            android:exported="false"/>
+
+
         <receiver android:name=".receivers.SmsReceiver"
             android:exported="true"
             android:permission="android.permission.BROADCAST_SMS">
